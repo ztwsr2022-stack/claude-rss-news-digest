@@ -1,58 +1,165 @@
-name: 每日世界时政新闻摘要
+name: 每日世界新闻
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 23 * * *"
 
+permissions:
+  contents: write
+
 concurrency:
-  group: daily-news-digest
+  group: free-daily-news
   cancel-in-progress: false
 
 jobs:
-  digest:
+  update-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 10
 
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
 
-      - name: 恢复历史数据
-        uses: actions/cache/restore@v4
-        with:
-          path: data
-          key: digest-data-${{ github.run_id }}
-          restore-keys: |
-            digest-data-
-
-      - name: 创建运行配置
-        env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          RESEND_FROM: ${{ secrets.RESEND_FROM }}
-          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+      - name: 抓取四类新闻
         run: |
-          mkdir -p data
-          {
-            printf 'CLAUDE_CODE_OAUTH_TOKEN=%s\n' "$CLAUDE_CODE_OAUTH_TOKEN"
-            printf 'ANTHROPIC_API_KEY=%s\n' "$ANTHROPIC_API_KEY"
-            printf 'RESEND_API_KEY=%s\n' "$RESEND_API_KEY"
-            printf 'RESEND_FROM=%s\n' "$RESEND_FROM"
-            printf 'RESEND_AUDIENCE_ID=%s\n' "$RESEND_AUDIENCE_ID"
-          } > .env
+          python3 - <<'PY'
+          import html
+          import re
+          import urllib.parse
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
 
-      - name: 运行每日摘要
-        run: docker compose run --rm digest-newsroom
+          feeds = {
+              "世界时政": [
+                  ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+                  ("DW World", "https://rss.dw.com/rdf/rss-en-world"),
+                  ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+                  ("UN Peace and Security", "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml"),
+              ],
+              "影视娱乐": [
+                  ("Variety", "https://variety.com/feed/"),
+                  ("Deadline", "https://deadline.com/feed/"),
+                  ("The Hollywood Reporter", "https://www.hollywoodreporter.com/feed/"),
+              ],
+              "人工智能": [
+                  ("MIT Technology Review", "https://www.technologyreview.com/topic/artificial-intelligence/feed/"),
+                  ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+                  ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
+              ],
+              "商业财经": [
+                  ("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml"),
+                  ("CNBC Business", "https://www.cnbc.com/id/10001147/device/rss/rss.html"),
+                  ("The Guardian Business", "https://www.theguardian.com/uk/business/rss"),
+              ],
+          }
 
-      - name: 保存历史数据
-        if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: data
-          key: digest-data-${{ github.run_id }}
+          def local_name(tag):
+              return tag.rsplit("}", 1)[-1]
 
-      - name: 清理运行配置
-        if: always()
-        run: rm -f .env
+          def child_text(node, names):
+              for child in list(node):
+                  if local_name(child.tag) in names:
+                      return child.text or ""
+              return ""
+
+          def clean(value):
+              value = html.unescape(value or "")
+              value = re.sub(r"<[^>]+>", " ", value)
+              return re.sub(r"\s+", " ", value).strip()
+
+          def child_link(node):
+              for child in list(node):
+                  if local_name(child.tag) == "link":
+                      value = child.attrib.get("href") or child.text or ""
+                      if value.strip():
+                          return value.strip()
+              return ""
+
+          def read_feed(url):
+              request = urllib.request.Request(
+                  url,
+                  headers={"User-Agent": "daily-news-reader/1.0"},
+              )
+              with urllib.request.urlopen(request, timeout=20) as response:
+                  root = ET.fromstring(response.read())
+              items = [
+                  node for node in root.iter()
+                  if local_name(node.tag) in {"item", "entry"}
+              ]
+              result = []
+              seen = set()
+              for item in items:
+                  title = clean(child_text(item, {"title"}))
+                  link = child_link(item)
+                  published = clean(child_text(item, {"pubDate", "published", "updated", "date"}))
+                  key = link or title
+                  if title and key not in seen:
+                      seen.add(key)
+                      result.append((title, link, published))
+                  if len(result) >= 5:
+                      break
+              return result
+
+          def markdown_url(url):
+              return urllib.parse.quote(url, safe=":/?&=#%.-_~")
+
+          now = datetime.now(ZoneInfo("Asia/Shanghai"))
+          lines = [
+              "# 今日世界新闻",
+              "",
+              f"更新时间：{now.strftime('%Y年%m月%d日 %H:%M')}（北京时间）",
+              "",
+              "> 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。",
+              "",
+          ]
+          success_count = 0
+
+          for category, sources in feeds.items():
+              lines.append(f"## {category}")
+              category_count = 0
+              for source_name, source_url in sources:
+                  try:
+                      stories = read_feed(source_url)
+                      success_count += 1
+                  except Exception:
+                      stories = []
+                  for title, link, published in stories:
+                      if category_count >= 12:
+                          break
+                      safe_title = title.replace("[", "(").replace("]", ")")
+                      if link:
+                          item = f"- [{safe_title}]({markdown_url(link)})"
+                      else:
+                          item = f"- {safe_title}"
+                      if published:
+                          item += f"（{published}）"
+                      item += f" · {source_name}"
+                      lines.append(item)
+                      category_count += 1
+                  if category_count >= 12:
+                      break
+              if category_count == 0:
+                  lines.append("- 暂时无法获取新闻，请稍后再看。")
+              lines.append("")
+
+          if success_count == 0:
+              raise SystemExit("所有新闻源都无法访问，保留旧文件。")
+
+          with open("daily-news.md", "w", encoding="utf-8") as output:
+              output.write("\n".join(lines) + "\n")
+          PY
+
+      - name: 保存今日新闻
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- daily-news.md; then
+            echo "今日内容没有变化"
+          else
+            git add daily-news.md
+            git commit -m "更新今日世界新闻"
+            git push
+          fi
