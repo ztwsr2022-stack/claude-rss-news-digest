@@ -157,9 +157,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git status --porcelain -- daily-news.md | grep -q .; then
-            echo "今日内容没有变化"
-          else
             git add daily-news.md
             git commit -m "更新今日世界新闻"
             git push
+          else
+            echo "今日内容没有变化"
           fi
