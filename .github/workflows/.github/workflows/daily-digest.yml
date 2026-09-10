@@ -1,0 +1,58 @@
+name: 每日世界时政新闻摘要
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
+
+concurrency:
+  group: daily-news-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 恢复历史数据
+        uses: actions/cache/restore@v4
+        with:
+          path: data
+          key: digest-data-${{ github.run_id }}
+          restore-keys: |
+            digest-data-
+
+      - name: 创建运行配置
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+        run: |
+          mkdir -p data
+          {
+            printf 'CLAUDE_CODE_OAUTH_TOKEN=%s\n' "$CLAUDE_CODE_OAUTH_TOKEN"
+            printf 'ANTHROPIC_API_KEY=%s\n' "$ANTHROPIC_API_KEY"
+            printf 'RESEND_API_KEY=%s\n' "$RESEND_API_KEY"
+            printf 'RESEND_FROM=%s\n' "$RESEND_FROM"
+            printf 'RESEND_AUDIENCE_ID=%s\n' "$RESEND_AUDIENCE_ID"
+          } > .env
+
+      - name: 运行每日摘要
+        run: docker compose run --rm digest-newsroom
+
+      - name: 保存历史数据
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data
+          key: digest-data-${{ github.run_id }}
+
+      - name: 清理运行配置
+        if: always()
+        run: rm -f .env
