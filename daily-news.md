@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年09月15日 07:04（北京时间）
+更新时间：2026年09月16日 07:04（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [China criticises idea it is in 'malicious competition' over AI](https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 11:31:39 GMT） · BBC World
-- [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 12:18:13 GMT） · BBC World
-- [Swedish left-wing bloc narrowly ahead with election too close to call](https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 08:36:09 GMT） · BBC World
-- [Wild dogs record 2,500-mile trek across Zambia in search of a mate](https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 14:08:12 GMT） · BBC World
-- [Thousands demand end to violence in Mexican cartel hotspot](https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 11:28:36 GMT） · BBC World
-- [Arctic power plays: EU searches for a new strategy](https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-world-4025-rdf)（2026-09-14T19:28:00Z） · DW World
-- [Ukraine, Russia set for new round of US-mediated talks](https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-world-4025-rdf)（2026-09-14T18:46:00Z） · DW World
-- [Trump seeks halt to energy attacks by both Russia, Ukraine](https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-world-4025-rdf)（2026-09-14T17:59:00Z） · DW World
-- [IPO 'for the people' is out of reach for many in Nigeria](https://www.dw.com/en/ipo-for-the-people-is-out-of-reach-for-many-in-nigeria/a-79263398?maca=en-rss-en-world-4025-rdf)（2026-09-14T14:12:00Z） · DW World
-- [Nepal: thousands still missing as flood recovery begins](https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-world-4025-rdf)（2026-09-14T12:18:00Z） · DW World
-- [Landowners in Texas ask court to stop Trump border wall](https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss)（Mon, 14 Sep 2026 21:44:03 +0000） · Al Jazeera
-- [Israeli attack targets Gaza displacement camp](https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss)（Mon, 14 Sep 2026 21:37:04 +0000） · Al Jazeera
+- [All support acts on Ed Sheeran's US tour quit after Macklemore dropped](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 21:07:13 GMT） · BBC World
+- [Denmark says Russian warship fired flares at military helicopter](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 11:40:00 GMT） · BBC World
+- [What weapon could the US have put into space?](https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 14:23:14 GMT） · BBC World
+- [South African president vows justice as more women's bodies found near Johannesburg](https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 18:01:51 GMT） · BBC World
+- [Two sailors missing after tanker attacked in Strait of Hormuz, Oman says](https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 16:13:41 GMT） · BBC World
+- [Criticism of LGBTQ+ raids in Turkey is growing](https://www.dw.com/en/criticism-of-lgbtq-raids-in-turkey-is-growing/a-79284021?maca=en-rss-en-world-4025-rdf)（2026-09-15T19:32:00Z） · DW World
+- [Why do authoritarian regimes target the LGBTQ+ community?](https://www.dw.com/en/why-do-authoritarian-regimes-target-the-lgbtq-community/a-79276831?maca=en-rss-en-world-4025-rdf)（2026-09-15T16:14:00Z） · DW World
+- [Saudi Arabia faces hard choices as Houthis gain in Yemen](https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-world-4025-rdf)（2026-09-15T14:03:00Z） · DW World
+- [Why the era of cheap government debt is over](https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-world-4025-rdf)（2026-09-15T13:17:00Z） · DW World
+- [US allies in Asia alarmed as think tank calls for pullback](https://www.dw.com/en/us-allies-in-asia-alarmed-as-think-tank-calls-for-pullback/a-79275554?maca=en-rss-en-world-4025-rdf)（2026-09-15T12:32:00Z） · DW World
+- [Republican congressman calls to impeach US Defence Secretary Pete Hegseth](https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss)（Tue, 15 Sep 2026 22:38:08 +0000） · Al Jazeera
+- [Ed Sheeran blames US tour promoter for dropping Macklemore](https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss)（Tue, 15 Sep 2026 22:21:44 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Emmys 2026 Red Carpet: Adam Brody, Matty Matheson, Trisha Paytas and More](https://variety.com/gallery/emmys-2026-red-carpet-fashion-looks/)（Mon, 14 Sep 2026 22:03:24 +0000） · Variety
-- [‘Secret Lives of Mormon Wives’ Star Mikayla Matthews Steps Away From Series Amid Taylor Frankie Paul Scandal: ‘Feels Wrong and Unethical’](https://variety.com/2026/tv/news/mikayla-matthews-leaving-mormon-wives-taylor-frankie-paul-1236861690/)（Mon, 14 Sep 2026 21:25:34 +0000） · Variety
-- [Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records](https://variety.com/lists/2026-emmys-predictions/)（Mon, 14 Sep 2026 20:55:00 +0000） · Variety
-- [Henry Winkler Refused to Let ABC Change ‘Happy Days’ Title to ‘Fonzie’s Happy Days’ Because ‘It Would Be a Slap in the Face’ to Co-Stars](https://variety.com/2026/tv/news/henry-winkler-refused-happy-days-title-change-1236861512/)（Mon, 14 Sep 2026 20:51:21 +0000） · Variety
-- [MoreThan Films Acquires Serville Poblete’s Buzzy Toronto Hangout Comedy ‘Sunburn’ (EXCLUSIVE)](https://variety.com/2026/film/global/morethan-films-serville-poblete-sunburn-toronto-1236861624/)（Mon, 14 Sep 2026 20:49:19 +0000） · Variety
-- [Industry Entertainment Signs Olivier Award Nominee Heather Agyepong](https://deadline.com/2026/09/heather-agyepong-signs-industry-entertainment-1237102513/)（Mon, 14 Sep 2026 22:28:35 +0000） · Deadline
-- [Everything We Know About Netflix’s ‘This Summer Will Be Different’ TV Adaptation So Far](https://deadline.com/feature/this-summer-will-be-different-adaptation-news-updates-1237017955/)（Mon, 14 Sep 2026 22:27:30 +0000） · Deadline
-- [Bulgaria Submits Cannes Jury Prize Winner ‘The Dreamed Adventure’ For International Oscar Race](https://deadline.com/2026/09/oscars-2027-bulgaria-the-dreamed-adventure-1237102428/)（Mon, 14 Sep 2026 22:14:20 +0000） · Deadline
-- [Mikayla Matthews Quits ‘Secret Lives Of Mormon Wives’: “There’s No Amount Of Money Worth Going Against My Morals”](https://deadline.com/2026/09/mikayla-matthews-quits-secret-lives-of-mormon-wives-hulu-1237102328/)（Mon, 14 Sep 2026 20:30:00 +0000） · Deadline
-- [IFC Unloads TIFF Midnight Madness Movie ‘River’ For $10M+ To Blumhouse & Universal](https://deadline.com/2026/09/river-blumhouse-universal-tiff-1237100328/)（Mon, 14 Sep 2026 20:23:41 +0000） · Deadline
-- [Jay-Z Reflects on “Manifesting” His Life on Early Records at ‘Jay-Z in 8’ World Premiere](https://www.hollywoodreporter.com/music/music-news/jay-z-reflects-career-world-premiere-docuseries-jay-z-in-8-1236701118/)（Mon, 14 Sep 2026 23:02:51 +0000） · The Hollywood Reporter
-- [Emmy Awards: Winners List (Updating Live)](https://www.hollywoodreporter.com/lists/emmy-winners-2026-list/)（Mon, 14 Sep 2026 23:00:00 +0000） · The Hollywood Reporter
+- [Emmys Hit 6.7 Million Viewers, Down 9% From Last Year](https://variety.com/2026/tv/news/emmys-2026-ratings-viewers-1236863148/)（Tue, 15 Sep 2026 23:00:00 +0000） · Variety
+- [Taylor Frankie Paul Sets Return to ‘The Secret Lives of Mormon Wives’ Following Chaotic Season 5 and Ongoing Legal Battle](https://variety.com/2026/tv/news/taylor-frankie-paul-returns-secret-lives-mormon-wives-season-6-1236863427/)（Tue, 15 Sep 2026 22:03:21 +0000） · Variety
+- [How Competitive ‘Pokémon’ Inspired Author Ava Reid’s New Dystopian YA Series ‘Winterveil’](https://variety.com/2026/gaming/news/winterveil-pokemon-new-ava-reid-book-1236863483/)（Tue, 15 Sep 2026 22:00:00 +0000） · Variety
+- [‘Salvation’ Review: A Pin-Sharp Portrait of an Aspiring Life Coach in Personal Freefall](https://variety.com/2026/film/news/salvation-review-2-1236863013/)（Tue, 15 Sep 2026 21:57:32 +0000） · Variety
+- [DOJ Takes Paramount’s Side Against States in Fight Over $1.9 Billion Bond](https://variety.com/2026/film/news/doj-paramount-warner-bros-bond-1236863479/)（Tue, 15 Sep 2026 21:52:18 +0000） · Variety
+- [Emmy TV Ratings Down 10% From Last Year](https://deadline.com/2026/09/emmy-tv-ratings-down-nbc-1237104620/)（Tue, 15 Sep 2026 23:00:00 +0000） · Deadline
+- [Doc Talk Podcast: ‘Black Zombie’ Director Maya Annik Bedward On True Origins Of Ghoulish Hollywood Horror Genre](https://deadline.com/2026/09/black-zombie-director-maya-annik-bedward-interview-1237104140/)（Tue, 15 Sep 2026 22:15:00 +0000） · Deadline
+- [Starz Networks President Alison Hoffman Re-Upped Through End Of 2029](https://deadline.com/2026/09/starz-president-alison-hoffman-renews-contract-2029-1237104511/)（Tue, 15 Sep 2026 21:29:00 +0000） · Deadline
+- [So Not A Shocker! Trump Weighs In For David Ellison & Paramount Over $1.88B Bond Battle With States](https://deadline.com/2026/09/trump-paramount-antitrust-suit-1237104501/)（Tue, 15 Sep 2026 21:20:27 +0000） · Deadline
+- [‘60 Minutes’ Season Premiere Averages 7.94 Million Viewers, A Falloff From Last Year’s Debut](https://deadline.com/2026/09/60-minutes-season-premiere-ratings-fall-1237104486/)（Tue, 15 Sep 2026 21:19:52 +0000） · Deadline
+- [Emmy Awards Dip in Early Ratings](https://www.hollywoodreporter.com/tv/tv-news/2026-emmy-awards-tv-ratings-1236702880/)（Tue, 15 Sep 2026 23:00:00 +0000） · The Hollywood Reporter
+- [THR and Bvlgari Toast Top Costume Designers and Emmy Winners](https://www.hollywoodreporter.com/gallery/thr-bulgari-costume-designers-emmy-winners-party-1236702792/)（Tue, 15 Sep 2026 22:59:21 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)（Tue, 15 Sep 2026 17:47:51 +0000） · MIT Technology Review
+- [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)（Tue, 15 Sep 2026 10:00:00 +0000） · MIT Technology Review
 - [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)（Mon, 14 Sep 2026 17:54:22 +0000） · MIT Technology Review
 - [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)（Mon, 14 Sep 2026 16:00:00 +0000） · MIT Technology Review
-- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)（Fri, 11 Sep 2026 20:05:06 +0000） · MIT Technology Review
 - [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)（Thu, 10 Sep 2026 11:00:00 +0000） · MIT Technology Review
-- [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)（Wed, 09 Sep 2026 03:10:08 +0000） · MIT Technology Review
-- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)（2026-09-14T18:59:41-04:00） · The Verge AI
-- [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei)（2026-09-14T18:40:57-04:00） · The Verge AI
+- [Meta’s new One subscriptions put a price on social media and AI](https://www.theverge.com/tech/995453/meta-one-subscriptions-ai)（2026-09-15T10:45:00-04:00） · The Verge AI
+- [This doorbell camera lets a human security guard watch your front door](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs)（2026-09-15T09:47:48-04:00） · The Verge AI
+- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)（2026-09-15T12:43:21-04:00） · The Verge AI
+- [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei)（2026-09-15T12:54:56-04:00） · The Verge AI
 - [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)（2026-09-14T18:48:52-04:00） · The Verge AI
-- [Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct)（2026-09-14T09:35:55-04:00） · The Verge AI
-- [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)（2026-09-13T15:41:48-04:00） · The Verge AI
 
 ## 商业财经
-- [AI 'kill switch' may need to be mandatory, Anthropic co-founder says](https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 22:10:10 GMT） · BBC Business
-- [Government set to nationalise troubled steel firm](https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 19:06:46 GMT） · BBC Business
-- [Petrol and diesel prices hit highest since 2022](https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 11:42:52 GMT） · BBC Business
-- [Rent rises set to speed up in gloomy forecast for tenants](https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss)（Sun, 13 Sep 2026 23:05:45 GMT） · BBC Business
-- [Heading off to uni? Here's what to insure against theft](https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 08:13:56 GMT） · BBC Business
-- [Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide](https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html)（Mon, 14 Sep 2026 20:34:23 GMT） · CNBC Business
-- [Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy](https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html)（Mon, 14 Sep 2026 17:30:14 GMT） · CNBC Business
-- [GM plans U.S. battery development as Trump's DOT attacks Ford for China ties](https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html)（Mon, 14 Sep 2026 01:05:56 GMT） · CNBC Business
-- [Record U.S. cyclosporiasis outbreak is over, CDC says](https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html)（Fri, 11 Sep 2026 15:36:45 GMT） · CNBC Business
-- [25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access](https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html)（Fri, 11 Sep 2026 11:00:01 GMT） · CNBC Business
-- [Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde](https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde)（Mon, 14 Sep 2026 18:41:13 GMT） · The Guardian Business
-- [Government moves to nationalise Speciality Steel UK to protect 1,300 jobs](https://www.theguardian.com/business/2026/sep/14/government-nationalise-speciality-steel-uk-jobs-ssuk)（Mon, 14 Sep 2026 16:17:17 GMT） · The Guardian Business
+- [Nvidia boss says AI 'doesn't need new laws' as safety concerns grow](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 22:13:10 GMT） · BBC Business
+- [US borrowing costs hit highest level since 2007](https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 19:35:10 GMT） · BBC Business
+- [State pension likely to top £13,000 a year as UK wage growth slows to 3.9%](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 11:05:42 GMT） · BBC Business
+- [Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss)（Tue, 15 Sep 2026 08:49:31 GMT） · BBC Business
+- [I got paid $5,000 to move to a place I'd never heard of](https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss)（Mon, 14 Sep 2026 23:08:28 GMT） · BBC Business
+- [Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks](https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html)（Tue, 15 Sep 2026 18:08:12 GMT） · CNBC Business
+- [Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center](https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html)（Tue, 15 Sep 2026 15:00:01 GMT） · CNBC Business
+- [Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO](https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html)（Tue, 15 Sep 2026 12:28:15 GMT） · CNBC Business
+- [GM launching new customer software experience with redesigned Chevy, GMC pickups](https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html)（Tue, 15 Sep 2026 11:00:01 GMT） · CNBC Business
+- [Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents](https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html)（Tue, 15 Sep 2026 13:19:31 GMT） · CNBC Business
+- [John Healey in talks with Canada about UK joining new global defence bank](https://www.theguardian.com/politics/2026/sep/15/john-healey-talks-uk-canada-global-defence-bank)（Tue, 15 Sep 2026 18:44:47 GMT） · The Guardian Business
+- [UK retirees with no other income will not pay tax on new £13,000 state pension, No 10 says](https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price)（Tue, 15 Sep 2026 15:43:42 GMT） · The Guardian Business
 
