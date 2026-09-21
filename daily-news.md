@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年09月21日 07:04（北京时间）
+更新时间：2026年09月22日 07:06（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 20:21:40 GMT） · BBC World
-- [Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 10:45:39 GMT） · BBC World
-- [Ed Sheeran admits 'mistakes' at first show since Macklemore controversy](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 04:49:11 GMT） · BBC World
-- [Trump says triumphal arch will be military complex with drones and snipers](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 16:36:43 GMT） · BBC World
-- [Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece](https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 21:17:22 GMT） · BBC World
-- [Peter Thiel: Power, Palantir, and the antichrist](https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-world-4025-rdf)（2026-09-20T13:29:00Z） · DW World
-- [Decolonizing perceptions about Africa](https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-world-4025-rdf)（2026-09-20T06:32:00Z） · DW World
-- [Ukraine steps up measures to protect railways](https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-world-4025-rdf)（2026-09-19T15:37:00Z） · DW World
-- [Ever more Israelis moving to and investing in Cyprus](https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-world-4025-rdf)（2026-09-19T06:07:00Z） · DW World
-- [Yemeni militants: How powerful are the Houthis now?](https://www.dw.com/en/yemeni-militants-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-world-4025-rdf)（2026-09-18T19:22:00Z） · DW World
-- [France to summon Iran envoy after language centre closure in Tehran](https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss)（Sun, 20 Sep 2026 22:06:22 +0000） · Al Jazeera
-- [Qatar PM urges Gulf security framework with Iran](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss)（Sun, 20 Sep 2026 21:00:15 +0000） · Al Jazeera
+- [Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 14:14:16 GMT） · BBC World
+- [CNN, MS NOW and Politico file lawsuit against Trump's White House ban](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 22:48:33 GMT） · BBC World
+- [Merz vows to keep coalition together for Germany's 'democratic future'](https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 16:54:56 GMT） · BBC World
+- [First UK charges brought over 1994 Rwanda genocide](https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 17:48:23 GMT） · BBC World
+- [Millions urged to evacuate as powerful Typhoon Dujuan hits Japan](https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 20:26:41 GMT） · BBC World
+- [US-China rivalry is reshaping global trade — and Europe is caught in the middle.](https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-world-4025-rdf)（2026-09-21T18:40:00Z） · DW World
+- [Nuclear power is back on Southeast Asia's energy agenda](https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-world-4025-rdf)（2026-09-21T13:47:00Z） · DW World
+- [Why gender-based violence persists in Southern Africa](https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-world-4025-rdf)（2026-09-21T13:42:00Z） · DW World
+- [India's road rage: When cars become weapons](https://www.dw.com/en/india-s-road-rage-when-cars-become-weapons/a-79355073?maca=en-rss-en-world-4025-rdf)（2026-09-21T12:47:00Z） · DW World
+- [US: Man wounded in Texas after being shot by ICE agent](https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-world-4025-rdf)（2026-09-21T03:42:00Z） · DW World
+- [How thousands of migrants stranded in Ceuta are surviving](https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss)（Mon, 21 Sep 2026 21:04:44 +0000） · Al Jazeera
+- [Former ‘death squad’ leader appears in military trial in The Gambia](https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss)（Mon, 21 Sep 2026 20:57:43 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Ke Huy Quan Says His $100,000 ‘Indiana Jones’ Residual Check Was ‘Life-Changing’ As a Child Actor: It ‘Didn’t Make Any Sense’](https://variety.com/2026/film/news/ke-huy-quan-indiana-jones-temple-of-doom-memoir-1236870595/)（Sun, 20 Sep 2026 22:52:02 +0000） · Variety
-- [‘My Hero Academia’ Reworks ‘You Say Run’ Theme With Electric Callboy for 10th Anniversary](https://variety.com/2026/tv/news/my-hero-academia-you-say-run-10th-anniversary-1236869470/)（Sun, 20 Sep 2026 22:00:00 +0000） · Variety
-- [Ben Affleck Almost Cast Ex-Wife Jennifer Garner in ‘Animals’ Before Deciding ‘We Don’t Wanna Do That’: ‘You Just Get Baggage’](https://variety.com/2026/film/news/ben-affleck-ex-jennifer-garner-as-his-wife-in-animals-1236870451/)（Sun, 20 Sep 2026 21:27:54 +0000） · Variety
-- [NYU Langone Privately Bought the Site of a Landmark AMC Theater — New Yorkers Are Now Fighting to Save It](https://variety.com/2026/film/news/amc-kips-bay-protests-movie-theater-nyu-langone-1236870536/)（Sun, 20 Sep 2026 21:21:34 +0000） · Variety
-- [‘The Assassin(s)’ Review: A Riveting South Korean Popcorn Thriller About a Real Assassination](https://variety.com/2026/film/news/the-assassins-review-1236869794/)（Sun, 20 Sep 2026 20:58:41 +0000） · Variety
-- [‘History Of Concrete’ Rocks IFC Center As ‘Daniel And The Fiery Furnace’ Brings Biblical Heat To Top 10 — Specialty Box Office](https://deadline.com/2026/09/indie-film-box-office-john-wilson-the-history-of-concrete-1237108942/)（Sun, 20 Sep 2026 21:00:00 +0000） · Deadline
-- [Chad Gilbert Dead: New Found Glory Guitarist Was 45](https://deadline.com/2026/09/chad-gilbert-dead-new-found-glory-1237108950/)（Sun, 20 Sep 2026 20:39:28 +0000） · Deadline
-- [JoAnna Garcia Swisher Thanks ‘Sweet Magnolias’ Team For Giving Her “Somewhere To Belong”](https://deadline.com/2026/09/joanna-garcia-swisher-thanks-sweet-magnolias-team-1237108944/)（Sun, 20 Sep 2026 20:09:49 +0000） · Deadline
-- [Jessica Chastain Thriller ‘The Savant’ Getting 2027 Release On Apple TV After Year On Hold](https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/)（Sun, 20 Sep 2026 19:00:39 +0000） · Deadline
-- [Ben Affleck Nearly Cast Ex Jennifer Garner As His Wife In ‘Animals’: “You Just Get Baggage”](https://deadline.com/2026/09/ben-affleck-nearly-cast-jennifer-garner-wife-animals-1237108825/)（Sun, 20 Sep 2026 17:52:46 +0000） · Deadline
-- [Ke Huy Quan on Receiving “Generous” $100K Residuals Check for ‘Indiana Jones and the Temple of Doom’](https://www.hollywoodreporter.com/movies/movie-news/ke-huy-quan-100k-residuals-check-temple-of-doom-1236706633/)（Sun, 20 Sep 2026 21:44:45 +0000） · The Hollywood Reporter
-- [Colts vs. Chiefs: Where to Watch the ‘Sunday Night Football’ Game Online](https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-colts-vs-chiefs-game-online-nfl-streams-2026-1236706587/)（Sun, 20 Sep 2026 21:13:02 +0000） · The Hollywood Reporter
+- [Netflix Partners With British Library, Sets Talks Series With Florence Pugh, Zoe Kazan and More](https://variety.com/2026/tv/news/netflix-partners-with-british-library-sets-talks-series-1236871540/)（Mon, 21 Sep 2026 23:01:00 +0000） · Variety
+- [Tom Cruise Says AI Is ‘Coming and It’s Going to Happen,’ but ‘People Want to See Real Things’: ‘Keep Creating’](https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/)（Mon, 21 Sep 2026 21:38:10 +0000） · Variety
+- [Christina Applegate Shares First Video Following Months-Long Hospitalization: ‘Love to You All Out There’](https://variety.com/2026/tv/news/christina-applegate-ms-battle-1236871479/)（Mon, 21 Sep 2026 21:24:23 +0000） · Variety
+- [‘Daredevil: Born Again’ Ending With Season 3](https://variety.com/2026/tv/news/daredevil-born-again-ending-season-3-marvel-disney-1236871454/)（Mon, 21 Sep 2026 20:51:46 +0000） · Variety
+- [Rob Bonta, Facing Skeptics, Defends ‘Very Strong’ Paramount Deal](https://variety.com/2026/film/news/rob-bonta-defends-paramount-settlement-1236871365/)（Mon, 21 Sep 2026 19:37:46 +0000） · Variety
+- [‘Forgotten Island’ Review: H.E.R. And Dave Franco Give Life To Gorgeously Animated And Frenetic ‘Toon](https://deadline.com/2026/09/forgotten-island-review-h-e-r-and-dave-franco-frentetic-toon-1237109630/)（Mon, 21 Sep 2026 23:05:58 +0000） · Deadline
+- [Top UK YouTubers Launch Alliance Pushing For Better Conditions For Content Creators](https://deadline.com/2026/09/youtubers-inc-sidemen-rep-launch-creator-voices-uk-1237107549/)（Mon, 21 Sep 2026 23:01:00 +0000） · Deadline
+- [Taylor Swift Set For Inaugural MTV VMA Artist Director Honors](https://deadline.com/2026/09/taylor-swift-vma-artist-director-honors-1237109638/)（Mon, 21 Sep 2026 22:21:08 +0000） · Deadline
+- [John Oliver Calls Out “Soon-To-Be Business Daddy” David Ellison & Throws Stephen Colbert Under The Bus](https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634/)（Mon, 21 Sep 2026 22:15:57 +0000） · Deadline
+- [Paramount To Keep Headquarters In Los Angeles Post-Merger: “We Aren’t Going Anywhere”](https://deadline.com/2026/09/paramount-headquarters-los-angeles-post-merger-1237109625/)（Mon, 21 Sep 2026 22:03:58 +0000） · Deadline
+- [David Ellison: Me, Move? I Love L.A.](https://www.hollywoodreporter.com/business/business-news/david-ellison-me-move-i-love-l-a-1236707241/)（Mon, 21 Sep 2026 22:17:11 +0000） · The Hollywood Reporter
+- [‘Resident Evil’ Star Austin Abrams Breaks Down the “Risky and Gutsy” Ending](https://www.hollywoodreporter.com/movies/movie-features/resident-evil-austin-abrams-breaks-down-ending-1236707140/)（Mon, 21 Sep 2026 21:06:28 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [How we made the first comprehensive map of deaths along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/)（Mon, 21 Sep 2026 12:00:00 +0000） · MIT Technology Review
+- [4 ways to address the failures we found along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/)（Mon, 21 Sep 2026 12:00:00 +0000） · MIT Technology Review
+- [The US spent billions on border surveillance. Why can’t it catch people before they die?](https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/)（Mon, 21 Sep 2026 12:00:00 +0000） · MIT Technology Review
+- [She died at the San Diego border. A surveillance camera was in plain sight](https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/)（Mon, 21 Sep 2026 12:00:00 +0000） · MIT Technology Review
 - [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)（Fri, 18 Sep 2026 11:29:22 +0000） · MIT Technology Review
-- [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/)（Wed, 16 Sep 2026 12:47:34 +0000） · MIT Technology Review
-- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)（Tue, 15 Sep 2026 17:47:51 +0000） · MIT Technology Review
-- [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)（Tue, 15 Sep 2026 10:00:00 +0000） · MIT Technology Review
-- [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)（Mon, 14 Sep 2026 17:54:22 +0000） · MIT Technology Review
-- [No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)（2026-09-20T14:50:18-04:00） · The Verge AI
-- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)（2026-09-20T11:39:22-04:00） · The Verge AI
-- [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)（2026-09-19T16:28:15-04:00） · The Verge AI
-- [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)（2026-09-19T16:44:40-04:00） · The Verge AI
-- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)（2026-09-19T11:25:03-04:00） · The Verge AI
+- [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)（2026-09-21T16:29:45-04:00） · The Verge AI
+- [Can John Ternus find Apple’s next big thing?](https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone)（2026-09-21T10:04:22-04:00） · The Verge AI
+- [iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement)（2026-09-21T10:06:15-04:00） · The Verge AI
+- [UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle)（2026-09-21T06:18:06-04:00） · The Verge AI
+- [Amazon blocks Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping)（2026-09-21T09:46:59-04:00） · The Verge AI
 
 ## 商业财经
-- [Billionaire Man United owner loses moral high ground after tax exile, Labour chair says](https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 11:22:21 GMT） · BBC Business
-- [Ed Davey calls for immediate 10p cut to fuel duty](https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 14:42:42 GMT） · BBC Business
-- [Not all AI workers think the tech could kill everyone](https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss)（Sat, 19 Sep 2026 23:01:57 GMT） · BBC Business
-- [Chiltern Railways renationalised after 30 years](https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 10:45:39 GMT） · BBC Business
-- [Lib Dems vow to end 'computer says no' economy to boost growth](https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss)（Sun, 20 Sep 2026 14:05:15 GMT） · BBC Business
-- [‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies](https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html)（Sun, 20 Sep 2026 12:47:23 GMT） · CNBC Business
-- [Budget airline king Bill Franke warms to first-class seats and premium upgrades](https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html)（Sun, 20 Sep 2026 12:00:01 GMT） · CNBC Business
-- [Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit](https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html)（Fri, 18 Sep 2026 17:11:39 GMT） · CNBC Business
-- [Disney names CTO for the first time as media giant expands tech push](https://www.cnbc.com/2026/09/18/disney-cto-tech.html)（Fri, 18 Sep 2026 16:14:26 GMT） · CNBC Business
-- [Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles](https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html)（Fri, 18 Sep 2026 16:13:00 GMT） · CNBC Business
-- [Meta launches legal challenge against UK media regulator over Online Safety Act](https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act)（Sun, 20 Sep 2026 14:24:33 GMT） · The Guardian Business
-- [UK minister warns of impact of Trump’s Iran war on next month’s budget](https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham)（Sun, 20 Sep 2026 19:36:29 GMT） · The Guardian Business
+- [Vet prescription fees capped under rule changes](https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 23:01:18 GMT） · BBC Business
+- [I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance](https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 23:01:26 GMT） · BBC Business
+- [Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros](https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 21:34:32 GMT） · BBC Business
+- [Repeated air traffic control failures leave us in worrying territory](https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 16:39:01 GMT） · BBC Business
+- [Flights at major US airports delayed after cable cut by construction workers](https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss)（Mon, 21 Sep 2026 22:54:49 GMT） · BBC Business
+- [Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs](https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html)（Mon, 21 Sep 2026 19:37:01 GMT） · CNBC Business
+- [Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production](https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html)（Mon, 21 Sep 2026 18:57:34 GMT） · CNBC Business
+- [Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed](https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html)（Mon, 21 Sep 2026 20:13:15 GMT） · CNBC Business
+- [Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut](https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html)（Mon, 21 Sep 2026 23:03:04 GMT） · CNBC Business
+- [Nissan eyes increasing U.S. production as new Rogue hybrid launches](https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html)（Mon, 21 Sep 2026 16:53:00 GMT） · CNBC Business
+- [Airlines urge action after UK flights delayed and cancelled again](https://www.theguardian.com/world/2026/sep/21/uk-airports-air-traffic-control-flights-cancelled-delays-nats-prestwick)（Mon, 21 Sep 2026 20:45:05 GMT） · The Guardian Business
+- [Paramount settles lawsuits with 12 US states, clearing way for Warner merger](https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger)（Mon, 21 Sep 2026 16:52:49 GMT） · The Guardian Business
 
