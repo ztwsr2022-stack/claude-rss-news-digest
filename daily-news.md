@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年09月23日 07:04（北京时间）
+更新时间：2026年09月24日 07:04（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 21:50:31 GMT） · BBC World
-- [Burnham expects to find 'common ground' with Trump in first meeting](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 06:03:22 GMT） · BBC World
-- [US to build two military bases in Greenland under new deal with Denmark](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 21:36:55 GMT） · BBC World
-- [How Ceuta, football and Israel are shaping Morocco's election](https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 20:59:00 GMT） · BBC World
-- [Sri Lanka court convicts 15 men over deadly Easter Sunday bombings](https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 19:47:44 GMT） · BBC World
-- [Military aircraft crashes near US air base in Spangdahlem, Germany](https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-world-4025-rdf)（2026-09-22T14:12:00Z） · DW World
-- [US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?](https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-world-4025-rdf)（2026-09-22T14:04:00Z） · DW World
-- [After floods, Nepal minister demands 'climate justice'](https://www.dw.com/en/after-floods-nepal-minister-demands-climate-justice/a-79372239?maca=en-rss-en-world-4025-rdf)（2026-09-22T12:37:00Z） · DW World
-- [Iran war spreads through region as Trump seeks way out](https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-world-4025-rdf)（2026-09-22T11:29:00Z） · DW World
-- ['Swan Song': New book by Princess Diana's brother drops](https://www.dw.com/en/swan-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-world-4025-rdf)（2026-09-22T08:36:00Z） · DW World
-- [UNGA Day 1: US and Iran hold talks despite Trump’s threat](https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss)（Tue, 22 Sep 2026 22:48:56 +0000） · Al Jazeera
-- [Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?](https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss)（Tue, 22 Sep 2026 22:10:25 +0000） · Al Jazeera
+- [AI superpower ambitions take centre stage as Trump and Xi meet](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 22:01:17 GMT） · BBC World
+- [OpenAI agent 'infiltrated' Australian government website, PM says](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 22:23:28 GMT） · BBC World
+- [Iran's president tells Trump it will never 'bend the knee'](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 18:15:31 GMT） · BBC World
+- [Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 16:53:37 GMT） · BBC World
+- [Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction](https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 21:26:14 GMT） · BBC World
+- [Who is skipping the UN General Assembly — and why](https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-world-4025-rdf)（2026-09-23T15:54:00Z） · DW World
+- [Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests](https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-world-4025-rdf)（2026-09-23T13:39:00Z） · DW World
+- [Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment](https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-world-4025-rdf)（2026-09-23T13:32:00Z） · DW World
+- [As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?](https://www.dw.com/en/as-the-eu-advances-free-trade-with-southeast-asia-why-is-there-no-asean-wide-deal/a-79388278?maca=en-rss-en-world-4025-rdf)（2026-09-23T11:49:00Z） · DW World
+- [China's new travel rules unsettle tech giants and talent](https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-world-4025-rdf)（2026-09-23T08:54:00Z） · DW World
+- [FBI says investigating breach of ‘very sensitive’ data by hackers](https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss)（Wed, 23 Sep 2026 21:18:22 +0000） · Al Jazeera
+- [US aviation sanctions disrupt Iran flights, push travellers overland](https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss)（Wed, 23 Sep 2026 21:05:36 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Tom Cruise Welcomes Prince William and Kate Middleton at ‘Digger’ World Premiere in London: ‘We Love Them and Really Appreciate What They Do for the Arts’](https://variety.com/2026/film/global/tom-cruise-prince-william-kate-digger-premiere-london-1236871955/)（Tue, 22 Sep 2026 22:54:30 +0000） · Variety
-- [Ari Emanuel on Outrunning ‘Entourage,’ the Art of the Phone Call and the Stolen Commission that Still Hurts](https://variety.com/2026/biz/news/ari-emanuel-outrunning-entourage-stolen-commission-1236872503/)（Tue, 22 Sep 2026 21:48:25 +0000） · Variety
-- [‘Digger’ First Reactions Split Over Tom Cruise’s ‘Baffling,’ ‘Unpleasant’ and ‘Brave’ New Movie: ‘The Divide on This Is Going to Be Wide’](https://variety.com/2026/film/news/digger-first-reactions-tom-cruise-baffles-1236871935/)（Tue, 22 Sep 2026 21:35:45 +0000） · Variety
-- [Spike Lee, Bowen Yang, Amandla Stenberg, Dave Franco and Chance the Rapper Front J.Crew’s 40th Anniversary Barn Jacket Campaign](https://variety.com/2026/shopping/news/j-crew-barn-jacket-campaign-spike-lee-bowen-yang-1236872685/)（Tue, 22 Sep 2026 21:32:06 +0000） · Variety
-- [All the Top Shows, Movies and Networks in the Merged Paramount-Warner Bros: ‘Yellowstone,’ ‘Harry Potter,’ ‘Mission: Impossible’ and DC Under One Roof](https://variety.com/2026/tv/news/paramount-warner-bros-merger-shows-movies-networks-1236872287/)（Tue, 22 Sep 2026 21:08:54 +0000） · Variety
-- [Mahershala Ali On ‘Blade’ Being A Big Failure For Kevin Feige: “100%. He Should Feel That Way”](https://deadline.com/2026/09/mahershala-ali-blade-kevin-feige-failure-1237110782/)（Tue, 22 Sep 2026 22:40:07 +0000） · Deadline
-- [Trump DOJ Official Minimizes State AGs’ Paramount-WBD Settlement, Says It Yielded No New Antitrust-Related Commitments](https://deadline.com/2026/09/trump-doj-weighs-in-paramount-warner-bros-settlement-1237110779/)（Tue, 22 Sep 2026 22:20:57 +0000） · Deadline
-- [Anne Wilson Song ‘My Jesus’ Inspires New Film With Aliza Kate Barlow To Lead; Gavin Casalegno, Beau Bridges Among Cast](https://deadline.com/2026/09/anne-wilson-movie-aliza-kate-barlow-gavin-casalegno-cast-1237110473/)（Tue, 22 Sep 2026 22:00:00 +0000） · Deadline
-- [Top Creator Attorneys On “Turning Creative Authority Into Economic Authority” & Forging A New Entertainment Business Model At Deadline’s L.A. Law Summit](https://deadline.com/2026/09/creator-economy-business-video-l-a-law-summit-1237110631/)（Tue, 22 Sep 2026 21:59:33 +0000） · Deadline
-- [CAA Signs Fashion Commentator, Red Carpet Host Nicky Campbell](https://deadline.com/2026/09/nicky-campbell-signs-caa-1237110781/)（Tue, 22 Sep 2026 21:49:52 +0000） · Deadline
-- [Spike Lee, Chance the Rapper and Jenny Slate Sport J.Crew’s Barn Jacket in Starry Anniversary Campaign](https://www.hollywoodreporter.com/lifestyle/shopping/j-crew-barn-jacket-40th-anniversary-celebrity-campaign-2026-1236707844/)（Tue, 22 Sep 2026 23:00:08 +0000） · The Hollywood Reporter
-- [Matthew McConaughey and Woody Harrelson Explain Their ‘Brothers’ TV Idea — and What Happened at the Emmys](https://www.hollywoodreporter.com/tv/tv-features/woody-harrelson-matthew-mcconaughey-emmys-brothers-show-1236707655/)（Tue, 22 Sep 2026 22:45:00 +0000） · The Hollywood Reporter
+- [Original ‘Willy Wonka’ Oompa-Loompa Rusty Goffe ‘Shed a Tear’ at Gene Wilder’s Voice Recreated by AI: ‘It Was Lovely Hearing It Again’](https://variety.com/2026/tv/global/oompa-loompa-gene-wilder-willy-wonka-ai-voice-1236865243/)（Wed, 23 Sep 2026 22:30:00 +0000） · Variety
+- [The Best Pop Culture Halloween Costumes for 2026: From Bad Bunny’s Super Bowl Shrubs to Taylor Swift’s Knicks Shirt](https://variety.com/feature/best-halloween-costumes-1234703556/)（Wed, 23 Sep 2026 22:13:27 +0000） · Variety
+- [Roseanne Barr Rages Against Ex Co-Star Michael Fishman for Saying ‘Roseanne’ Reboot Was ‘Rightfully Canceled’: ‘You F—ing Little Worm’ and ‘Brainwashed Bigot’](https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-roseanne-reboot-canceled-racist-tweet-1236873710/)（Wed, 23 Sep 2026 22:05:56 +0000） · Variety
+- [Jeff Garlin Says ‘Undiagnosed Bipolar’ Made Him ‘Mean’ on ‘The Goldbergs’ Set; Wendi McLendon-Covey Responds: ‘I Remember Things Differently’](https://variety.com/2026/tv/news/jeff-garlin-bipolar-goldbergs-set-misconduct-wendi-mclendon-covey-1236872191/)（Wed, 23 Sep 2026 20:52:26 +0000） · Variety
+- [International Emmy Nominations: United Kingdom Leads This Year’s Tally; Canada’s ‘Heated Rivalry’ Doesn’t Make the Cut](https://variety.com/2026/tv/news/international-emmy-nominations-2026-no-heated-rivalry-1236873660/)（Wed, 23 Sep 2026 20:23:35 +0000） · Variety
+- [Did O.J. Simpson Have An Accomplice? Peacock Doc Offers “Real Evidence” Suggesting He Did](https://deadline.com/2026/09/o-j-simpson-accomplice-peacock-documentary-1237111835/)（Wed, 23 Sep 2026 23:00:00 +0000） · Deadline
+- [‘Dynamic Duo’ & Untitled ‘Gremlins’ Head To Fall 2028: Warner Bros Release Date Changes](https://deadline.com/2026/09/dynamic-duo-gremlins-release-dates-1237111978/)（Wed, 23 Sep 2026 22:47:37 +0000） · Deadline
+- [Ex-Disney CEO Bob Chapek Blames Bob Iger For Ouster In New Memoir](https://deadline.com/2026/09/ex-disney-ceo-bob-chapek-memoir-blames-bob-iger-for-ouster-1237111876/)（Wed, 23 Sep 2026 22:29:28 +0000） · Deadline
+- [Brad Caleb Kane Found It “Hard” Ignoring ‘Crystal Lake’ Fan Theories, Teases “Certain Explanations” Given In Prequel: “It’s Grounded In Reality”](https://deadline.com/2026/09/brad-caleb-kane-crystal-lake-fan-theories-certain-explanations-1237111895/)（Wed, 23 Sep 2026 22:20:47 +0000） · Deadline
+- [Peter Byrne Dies: Naked Eyes Singer Who Scored ’80s Hits ‘Always Something There to Remind Me’ & ‘Promises, Promises’ Was 74](https://deadline.com/2026/09/peter-byrne-dead-naked-eyes-1237111868/)（Wed, 23 Sep 2026 21:55:28 +0000） · Deadline
+- [Warner Bros. Pushes ‘Gremlins’ Movie Nearly a Year, Moves DC’s ‘Dynamic Duo’ Back 3 Months](https://www.hollywoodreporter.com/movies/movie-news/warners-pushes-gremlins-movie-nearly-a-year-dynamic-duo-1236708934/)（Wed, 23 Sep 2026 23:00:35 +0000） · The Hollywood Reporter
+- [Barry Diller Drops $18 Billion MGM Resorts Takeover Plan](https://www.hollywoodreporter.com/business/business-news/barry-diller-drops-18-billion-mgm-resorts-takeover-plan-1236708925/)（Wed, 23 Sep 2026 22:43:16 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/)（Wed, 23 Sep 2026 09:00:00 +0000） · MIT Technology Review
 - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/)（Tue, 22 Sep 2026 13:42:05 +0000） · MIT Technology Review
 - [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)（Tue, 22 Sep 2026 11:04:51 +0000） · MIT Technology Review
 - [How we made the first comprehensive map of deaths along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/)（Mon, 21 Sep 2026 12:00:00 +0000） · MIT Technology Review
 - [4 ways to address the failures we found along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/)（Mon, 21 Sep 2026 12:00:00 +0000） · MIT Technology Review
-- [The US spent billions on border surveillance. Why can’t it catch people before they die?](https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/)（Mon, 21 Sep 2026 12:00:00 +0000） · MIT Technology Review
-- [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)（2026-09-22T16:52:40-04:00） · The Verge AI
-- [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)（2026-09-22T17:22:59-04:00） · The Verge AI
-- [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)（2026-09-22T13:15:49-04:00） · The Verge AI
-- [Trump says the US is officially renaming AI to ‘super intelligence’](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)（2026-09-22T13:46:40-04:00） · The Verge AI
-- [Meta patches Muse exploit that let attackers control the AI agent](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)（2026-09-22T07:53:58-04:00） · The Verge AI
+- [Meta Connect 2026: The biggest news and announcements](https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements)（2026-09-23T18:43:58-04:00） · The Verge AI
+- [Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch](https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote)（2026-09-23T18:42:08-04:00） · The Verge AI
+- [Meta’s AI agent is a cute little guy who’s great at spending my money](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping)（2026-09-23T14:50:37-04:00） · The Verge AI
+- [Data centers are black boxes, but California wants to change that](https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills)（2026-09-23T14:22:57-04:00） · The Verge AI
+- [Anthropic’s biolab made a discovery it’s comparing to Crispr](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr)（2026-09-23T13:10:35-04:00） · The Verge AI
 
 ## 商业财经
-- [Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices](https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 15:43:14 GMT） · BBC Business
-- [Trump says he would back ban on diesel exports](https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 20:41:13 GMT） · BBC Business
-- [New EU industry rules would damage UK, warns Burnham](https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 21:18:40 GMT） · BBC Business
-- ['We screwed up': Doordash admits underpaying New York workers](https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 16:50:24 GMT） · BBC Business
-- [Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor](https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss)（Tue, 22 Sep 2026 08:52:12 GMT） · BBC Business
+- [OpenAI and Anthropic bosses push UN for global terms on AI](https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 22:35:14 GMT） · BBC Business
+- [Trump reveals millions of dollars' worth of share deals in big tech and AI](https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 16:42:47 GMT） · BBC Business
+- [AI superpower ambitions take centre stage as Trump and Xi meet](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 22:01:17 GMT） · BBC Business
+- [Lidl banned from selling copycat Birkenstock sandals, Dutch court rules](https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 21:25:01 GMT） · BBC Business
+- [OpenAI agent 'infiltrated' Australian government website, PM says](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)（Wed, 23 Sep 2026 22:23:28 GMT） · BBC Business
+- [Why McDonald's is following Walmart and Amazon into the advertising business](https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html)（Wed, 23 Sep 2026 20:21:17 GMT） · CNBC Business
+- [As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry](https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html)（Wed, 23 Sep 2026 21:25:01 GMT） · CNBC Business
+- [McDonald's CEO expects high inflation, lackluster traffic are here to stay](https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html)（Wed, 23 Sep 2026 20:23:52 GMT） · CNBC Business
+- [McDonald's stock falls as it unveils plan to spend big on restaurant upgrades](https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html)（Wed, 23 Sep 2026 17:09:22 GMT） · CNBC Business
 - [Qantas to start selling tickets next year for its New York to Sydney nonstop flight](https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html)（Tue, 22 Sep 2026 23:00:01 GMT） · CNBC Business
-- [Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals](https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html)（Tue, 22 Sep 2026 21:25:42 GMT） · CNBC Business
-- [Trump administration removes around 760,000 Obamacare enrollments, alleging fraud](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html)（Tue, 22 Sep 2026 21:07:21 GMT） · CNBC Business
-- [McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect](https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html)（Tue, 22 Sep 2026 11:00:01 GMT） · CNBC Business
-- [Peloton is revamping its treadmills with new features in the next phase of its turnaround](https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html)（Tue, 22 Sep 2026 18:49:14 GMT） · CNBC Business
-- [Jim Ratcliffe halts production at Hull chemical plants over ‘ridiculous’ gas prices](https://www.theguardian.com/business/2026/sep/22/jim-ratcliffe-halts-production-hull-chemical-plants-gas-prices-ineos-uk)（Tue, 22 Sep 2026 16:18:13 GMT） · The Guardian Business
-- [UK borrows £18bn in August, putting pressure on Healey before budget](https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets)（Tue, 22 Sep 2026 14:04:46 GMT） · The Guardian Business
+- [UK defence contractors to offer 40,000 apprenticeships, placements and jobs](https://www.theguardian.com/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting)（Wed, 23 Sep 2026 21:00:00 GMT） · The Guardian Business
+- [Three international bodies warn of risks of rising debt and soaring borrowing in major economies](https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war)（Wed, 23 Sep 2026 09:27:52 GMT） · The Guardian Business
 
