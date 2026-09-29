@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年09月29日 07:05（北京时间）
+更新时间：2026年09月30日 07:05（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Inside Yemen's front-line city as Houthis battle for control](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss)（Sun, 27 Sep 2026 21:16:31 GMT） · BBC World
-- [Seoul summons Ukraine envoy over North Korean prisoner-of-war row](https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 14:57:31 GMT） · BBC World
-- [Twelve women have been killed in one part of South Africa since July. Here's what we know so far](https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 17:26:21 GMT） · BBC World
-- [French PM warns against escalation of school protests after 164 arrested](https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 21:46:53 GMT） · BBC World
-- [Nigerian attempts to break world record by dancing non-stop for seven days](https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 15:39:19 GMT） · BBC World
-- [Iranian human rights lawyer Nasrin Sotoudeh wins the 2026 Vaclav Havel Human Rights Prize](https://www.dw.com/en/iranian-human-rights-lawyer-nasrin-sotoudeh-wins-the-2026-vaclav-havel-human-rights-prize/a-79462111?maca=en-rss-en-world-4025-rdf)（2026-09-28T16:32:00Z） · DW World
-- [Sicily: Mount Etna ash disrupts Catania flights again](https://www.dw.com/en/sicily-mount-etna-ash-disrupts-catania-flights-again/a-79462773?maca=en-rss-en-world-4025-rdf)（2026-09-28T15:13:00Z） · DW World
-- [Turkey: Comedian convicted for 'insulting' Erdogan in show](https://www.dw.com/en/turkey-comedian-convicted-for-insulting-erdogan-in-show/a-79455759?maca=en-rss-en-world-4025-rdf)（2026-09-28T14:51:00Z） · DW World
-- [Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief](https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-world-4025-rdf)（2026-09-28T14:18:00Z） · DW World
-- [US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights](https://www.dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140?maca=en-rss-en-world-4025-rdf)（2026-09-28T12:53:00Z） · DW World
-- [Anti-South Asian ‘hate speech’ has exploded online in US, report finds](https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss)（Mon, 28 Sep 2026 22:05:43 +0000） · Al Jazeera
-- [Gold falls amid rising oil prices and higher US dollar](https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss)（Mon, 28 Sep 2026 21:34:51 +0000） · Al Jazeera
+- [Spain announces ban on evictions after protests over 87-year-old woman's removal from flat](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 16:23:58 GMT） · BBC World
+- [South Africa to clean up high-risk areas after 12 women killed](https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 22:33:39 GMT） · BBC World
+- [Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries](https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 22:33:13 GMT） · BBC World
+- ['I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail](https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 12:43:04 GMT） · BBC World
+- [Israeli settlers attack West Bank village and block Palestinian family's return home](https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 12:39:18 GMT） · BBC World
+- [Ethiopia: No regard for civilians as fighting in Ethiopia's Tigray region continues](https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-world-4025-rdf)（2026-09-29T16:14:00Z） · DW World
+- [UK PM Burnham seeks 'hope again' at Labour Party conference](https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-world-4025-rdf)（2026-09-29T13:38:00Z） · DW World
+- [North Korea has recently completed two road bridges easing transport to strategic allies Russia and China](https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981?maca=en-rss-en-world-4025-rdf)（2026-09-29T13:35:00Z） · DW World
+- [Women and children displaced by Nepal's floods say safe housing, privacy and stability remain out of reach](https://www.dw.com/en/women-and-children-displaced-by-nepal-s-floods-say-safe-housing-privacy-and-stability-remain-out-of-reach/a-79474014?maca=en-rss-en-world-4025-rdf)（2026-09-29T13:29:00Z） · DW World
+- [Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.](https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-world-4025-rdf)（2026-09-29T11:59:00Z） · DW World
+- [UN extends mandate of Gang Suppression Force in Haiti for six months](https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss)（Tue, 29 Sep 2026 22:38:10 +0000） · Al Jazeera
+- [US consumer confidence hits its lowest level since 2014 ahead of midterms](https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss)（Tue, 29 Sep 2026 22:23:58 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Former ‘South Park’ Writer Launches Site to Expose Information About Cornell University Sexual Assault Case: ‘There Will Be Accountability’](https://variety.com/2026/tv/news/south-park-writer-cornell-university-sexual-assault-case-1236877772/)（Mon, 28 Sep 2026 23:04:25 +0000） · Variety
-- [John Le Carré’s Cold War Spymaster George Smiley Returns in First Look at Matthew Macfadyen in ‘Legacy of Spies’](https://variety.com/2026/tv/global/legacy-of-spies-first-look-matthew-macfadyen-george-smiley-1236877483/)（Mon, 28 Sep 2026 23:01:00 +0000） · Variety
-- [Mohammad Rasoulof, O Mipo to Receive Tokyo Film Festival’s Kurosawa Akira Award](https://variety.com/2026/film/festivals/mohammad-rasoulof-o-mipo-tokyo-kurosawa-akira-award-1236877201/)（Mon, 28 Sep 2026 23:00:00 +0000） · Variety
-- [How to Watch Tonight’s ‘All American’ Series Finale Online Free](https://variety.com/2026/shopping/news/how-to-watch-all-american-series-finale-sept-28-online-free-1236877762/)（Mon, 28 Sep 2026 22:51:30 +0000） · Variety
-- [CBS and MTV VMAs Attract a Combined 8.4 Million Viewers, Making it the Most-Watched Since 2015 and Up 51% From Last Year](https://variety.com/2026/tv/news/vma-ratings-cbs-mtv-most-watched-since-2015-up-last-year-1236877733/)（Mon, 28 Sep 2026 22:00:00 +0000） · Variety
-- [Matthew Macfadyen Is Iconic Le Carré Spy George Smiley In First Glimpse At The BBC & MGM+’s ‘Legacy Of Spies’](https://deadline.com/2026/09/legacy-of-spies-matthew-macfadyen-george-smiley-le-carre-1237115171/)（Mon, 28 Sep 2026 23:01:00 +0000） · Deadline
-- [Iran’s Mohammad Rasoulof & Japanese-Korean Filmmaker Mipo O To Receive Kurosawa Akira Award At Tokyo Film Festival](https://deadline.com/2026/09/mohammad-rasoulof-iran-mipo-o-kurosawa-tokyo-film-festival-1237115073/)（Mon, 28 Sep 2026 23:00:00 +0000） · Deadline
-- [‘Toy Story 5’ Giddy Ups To 20 Million Views In First Five Days On Disney+](https://deadline.com/2026/09/toy-story-5-disney-viewership-1237115706/)（Mon, 28 Sep 2026 22:45:00 +0000） · Deadline
-- [Federal Film & TV Tax Credit Bill Adds Eight New Senate Cosponsors](https://deadline.com/2026/09/federal-film-tax-credit-cosponsors-1237115726/)（Mon, 28 Sep 2026 22:42:47 +0000） · Deadline
-- [Dominic Sessa Sets Weston Razooli’s Adventure Crime Epic ‘Shades Of Paradise’](https://deadline.com/2026/09/dominic-sessa-shades-of-paradise-1237115591/)（Mon, 28 Sep 2026 22:30:00 +0000） · Deadline
-- [Elizabeth Holmes Says She Was “Silenced for a Long Time” Ahead of ‘You Can See Everything’ Release](https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-cryptic-post-you-can-see-everything-release-1236713940/)（Mon, 28 Sep 2026 22:46:26 +0000） · The Hollywood Reporter
-- [‘Spider-Man: Brand New Day’ Eyes Rerelease With Unseen Footage](https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-rerelease-new-footage-rosario-dawson-1236713895/)（Mon, 28 Sep 2026 22:17:07 +0000） · The Hollywood Reporter
+- [Casey Bloys Poised to Run HBO and Paramount+ as Cindy Holland Confirms Her Exit From Studio on Eve of Merger Closing](https://variety.com/2026/tv/news/casey-bloys-cindy-holland-paramount-hbo-streaming-merger-1236878666/)（Tue, 29 Sep 2026 22:45:48 +0000） · Variety
+- [Penn Badgley Swore Off Sex Scenes. His Wife Says It Was Not Her Idea: ‘He Decided to Do This for Mental Health Reasons’](https://variety.com/2026/tv/news/penn-badgley-banned-sex-scenes-wife-mental-health-1236878374/)（Tue, 29 Sep 2026 22:06:37 +0000） · Variety
+- [‘The Little Prince’ Live-Action Movie Set With ‘The Imitation Game’ Director Morten Tyldum and Simon Beaufoy (EXCLUSIVE)](https://variety.com/2026/tv/global/the-little-prince-imitation-game-morten-tyldum-simon-beaufoy-1236878558/)（Tue, 29 Sep 2026 22:02:19 +0000） · Variety
+- [Music Industry Moves: Universal Music Names Libby Bush President of Global Brands and Commercial Partnerships; Avex Acquires 85% of Brandon Silverstein’s S10 Entertainment](https://variety.com/2026/music/news/universal-music-libby-bush-global-brands-1236878574/)（Tue, 29 Sep 2026 21:31:32 +0000） · Variety
+- [Jennifer Lawrence to Star in Zach Cregger’s ‘The Flood’](https://variety.com/2026/film/news/jennifer-lawrence-zach-creggers-the-flood-1236878570/)（Tue, 29 Sep 2026 21:30:00 +0000） · Variety
+- [Everything We Know About Netflix’s ‘Icebreaker’ Adaptation So Far](https://deadline.com/feature/icebreaker-series-adaptation-news-updates-netflix-tv-show-1237136961/)（Tue, 29 Sep 2026 23:02:03 +0000） · Deadline
+- [Cindy Holland Leaving Paramount Ahead Of WBD Merger](https://deadline.com/2026/09/cindy-holland-leaving-paramount-wbd-merger-1237141927/)（Tue, 29 Sep 2026 22:50:41 +0000） · Deadline
+- [New ‘South Park’ Takes On Data Centers And The Billionaires Who Build Them](https://deadline.com/2026/09/south-park-takes-on-data-centers-billionaires-1237138004/)（Tue, 29 Sep 2026 22:41:02 +0000） · Deadline
+- [‘Vanderpump Rules: Lisa Las Vegas’ Trailer & Episode Release Guide Schedule Set At Bravo](https://deadline.com/2026/09/vanderpump-rules-lisa-las-vegas-trailer-episode-bravo-1237140601/)（Tue, 29 Sep 2026 22:33:12 +0000） · Deadline
+- [Doc Talk Podcast Hits Road With Makers Of ‘Union Town’, ‘Black Sunflowers‘, ‘Edward Said: Between Worlds’ & Camden Film Festival Leaders](https://deadline.com/2026/09/tiff-camden-festivals-union-town-black-sunflowers-doc-talk-1237125282/)（Tue, 29 Sep 2026 22:30:00 +0000） · Deadline
+- [‘Coven Academy’ Creator Tim Federle Talks Witches, the YA “White Space” and Why All the Episodes Are Atypically Short (It’s Not the Reason You Expect)](https://www.hollywoodreporter.com/tv/tv-features/coven-academy-creator-witch-malachi-barton-shorter-episodes-1236714726/)（Tue, 29 Sep 2026 22:53:09 +0000） · The Hollywood Reporter
+- [Perez Hilton Reunites With Mother and Three Kids for Supervised Visits: “A Lot of Emotions”](https://www.hollywoodreporter.com/news/general-news/perez-hilton-suicide-attempt-recovery-update-children-mom-1236714841/)（Tue, 29 Sep 2026 21:35:10 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/)（Tue, 29 Sep 2026 10:43:45 +0000） · MIT Technology Review
 - [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/)（Mon, 28 Sep 2026 22:17:07 +0000） · MIT Technology Review
 - [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)（Mon, 28 Sep 2026 17:03:16 +0000） · MIT Technology Review
 - [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/)（Mon, 28 Sep 2026 08:06:22 +0000） · MIT Technology Review
 - [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)（Fri, 25 Sep 2026 09:16:25 +0000） · MIT Technology Review
-- [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/)（Wed, 23 Sep 2026 09:00:00 +0000） · MIT Technology Review
-- [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)（2026-09-28T17:31:35-04:00） · The Verge AI
-- [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)（2026-09-28T14:40:24-04:00） · The Verge AI
-- [AI is supercharging hacking, and your local hospitals and banks aren’t ready](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready)（2026-09-28T14:25:22-04:00） · The Verge AI
-- [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)（2026-09-28T14:42:17-04:00） · The Verge AI
-- [OpenAI keeps bulldozing mathematicians](https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group)（2026-09-28T12:56:26-04:00） · The Verge AI
+- [Trump orders US government to call AI ‘Super Intelligence’](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)（2026-09-29T18:25:45-04:00） · The Verge AI
+- [Elon Musk’s AI-powered Grokipedia is updating again](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)（2026-09-29T17:49:09-04:00） · The Verge AI
+- [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)（2026-09-29T13:54:51-04:00） · The Verge AI
+- [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)（2026-09-29T16:55:06-04:00） · The Verge AI
+- [Protesters gather at OpenAI’s DevDay](https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers)（2026-09-29T13:30:57-04:00） · The Verge AI
 
 ## 商业财经
-- [UK tries to stop Trump's diesel export ban](https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 20:39:31 GMT） · BBC Business
-- [What a US diesel export ban could mean for you](https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 18:18:30 GMT） · BBC Business
-- [Aldi boss says some of rivals' loyalty discounts 'dupe' customers](https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 17:45:52 GMT） · BBC Business
-- [UK diesel price hits all-time high, the RAC says](https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 20:42:56 GMT） · BBC Business
-- [What is the Budget and what could be in it?](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)（Mon, 28 Sep 2026 17:14:16 GMT） · BBC Business
-- [Boeing 737 Max 10 certification delayed by software issue, FAA says](https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html)（Mon, 28 Sep 2026 20:16:04 GMT） · CNBC Business
-- [Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle](https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html)（Mon, 28 Sep 2026 16:02:17 GMT） · CNBC Business
-- [Boeing flags 737 Max software glitch affecting some automated approach functions](https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html)（Sat, 26 Sep 2026 21:55:01 GMT） · CNBC Business
-- [Trump says he approved new fuel economy standards, rolling back Biden-era rules](https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html)（Mon, 28 Sep 2026 10:32:46 GMT） · CNBC Business
-- [Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical](https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html)（Sat, 26 Sep 2026 19:23:56 GMT） · CNBC Business
-- [Healey signals welfare reform push and new apprenticeships scheme](https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope)（Mon, 28 Sep 2026 12:25:29 GMT） · The Guardian Business
-- [Nvidia unveils security platform to rein in AI agents and $150bn stock buyback](https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback)（Mon, 28 Sep 2026 19:24:07 GMT） · The Guardian Business
+- [Burnham vows to end existing pension triple lock in 2030 to help fund care](https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 17:39:06 GMT） · BBC Business
+- [Faisal Islam: Triple lock move is significant, but it's a gamble](https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 16:43:39 GMT） · BBC Business
+- [Soho House venue under investigation for food safety](https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 19:10:06 GMT） · BBC Business
+- [Oura pulls $15bn stock market listing days after announcement](https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 17:17:07 GMT） · BBC Business
+- [What is the triple lock and why are people talking about it?](https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss)（Tue, 29 Sep 2026 17:09:46 GMT） · BBC Business
+- [Goldman Sachs CEO succession planning faces one big problem](https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html)（Tue, 29 Sep 2026 20:50:10 GMT） · CNBC Business
+- [Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.](https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html)（Tue, 29 Sep 2026 21:08:05 GMT） · CNBC Business
+- [El Pollo Loco to open first New York restaurant as it aims to become national chicken chain](https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html)（Tue, 29 Sep 2026 18:57:36 GMT） · CNBC Business
+- [Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro](https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html)（Tue, 29 Sep 2026 18:21:27 GMT） · CNBC Business
+- [Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay](https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html)（Tue, 29 Sep 2026 18:03:56 GMT） · CNBC Business
+- [Burnham gambles on radical progressive plan to help Britain ‘rise again’](https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech)（Tue, 29 Sep 2026 18:21:29 GMT） · The Guardian Business
+- [Give BrewDog ‘second chance’ says new owner as it invests £50m](https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests)（Tue, 29 Sep 2026 18:35:27 GMT） · The Guardian Business
 
