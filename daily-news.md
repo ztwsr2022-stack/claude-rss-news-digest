@@ -1,36 +1,36 @@
 # 今日世界新闻
 
-更新时间：2026年10月07日 09:55（北京时间）
+更新时间：2026年10月08日 10:22（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [US death row inmate Christa Pike awake and speaking after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 00:56:59 GMT） · BBC World
-- [Tear gas in Paris and Marseille as school protests grow across France](https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 18:03:19 GMT） · BBC World
-- [Former German spy chief arrested for espionage and treason](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 10:05:42 GMT） · BBC World
-- [A beautiful Himalayan bird is changing its voice due to human activity, research shows](https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 23:07:44 GMT） · BBC World
-- [Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments](https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 18:05:53 GMT） · BBC World
-- [EU seeks ways to make expansion more palatable to members](https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-world-4025-rdf)（2026-10-06T18:02:00Z） · DW World
-- [France’s conundrum: How to cut spending amid protests](https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-world-4025-rdf)（2026-10-06T16:49:00Z） · DW World
-- [Paramount and Warner Bros merge into one Hollywood giant](https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-world-4025-rdf)（2026-10-06T14:18:00Z） · DW World
-- [As more Iranian women reject hijab rules, regime looks at new ways to force compliance](https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-world-4025-rdf)（2026-10-06T13:50:00Z） · DW World
-- [Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric](https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-world-4025-rdf)（2026-10-06T13:32:00Z） · DW World
-- [Syrian embassy returns seized passport after 43 years](https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss)（Wed, 07 Oct 2026 01:20:11 +0000） · Al Jazeera
-- [Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles](https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss)（Wed, 07 Oct 2026 01:07:21 +0000） · Al Jazeera
+- [Spanish pensioner whose eviction sparked nationwide protests dies, union says](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss)（Thu, 08 Oct 2026 00:09:17 GMT） · BBC World
+- [Israelis mourn 7 October attack victims three years after deadly Hamas raid](https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 20:27:03 GMT） · BBC World
+- [Israelis demand accountability over 7 October failures three years after attacks](https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 16:00:18 GMT） · BBC World
+- [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 17:47:31 GMT） · BBC World
+- [Canada suspends plans to expand assisted dying to people with mental illness](https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 19:30:51 GMT） · BBC World
+- [As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive](https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf)（2026-10-07T20:10:00Z） · DW World
+- [Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?](https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-world-4025-rdf)（2026-10-07T17:33:00Z） · DW World
+- [Gerhard Schröder visits latest Russian employer, Hyperglobus](https://www.dw.com/en/gerhard-schr%C3%B6der-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-world-4025-rdf)（2026-10-07T16:39:00Z） · DW World
+- [EU enlargement: European Commission tables reforms to prepare bloc for new members](https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-world-4025-rdf)（2026-10-07T15:05:00Z） · DW World
+- [Why music in Iran is more than just entertainment](https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-world-4025-rdf)（2026-10-07T14:58:00Z） · DW World
+- [Why is Guantanamo prison still open?](https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss)（Thu, 08 Oct 2026 01:49:11 +0000） · Al Jazeera
+- [Democrats sue US President Trump over taxpayer-funded ad campaign](https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss)（Thu, 08 Oct 2026 01:21:26 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Megyn Kelly Tells Olivia Rodrigo to ‘Stick to Singing’ After Speaking Out About Cornell 7 Case: ‘You Don’t Know What the F— You’re Talking About’](https://variety.com/2026/music/news/megyn-kelly-slams-olivia-rodrigo-cornell-7-1236903939/)（Wed, 07 Oct 2026 01:32:55 +0000） · Variety
-- [Skydance Sets Leadership Across Games, Experiences, Consumer Products and HR](https://variety.com/2026/gaming/news/skydance-games-experiences-products-leadership-1236903948/)（Wed, 07 Oct 2026 01:32:51 +0000） · Variety
-- [Eddie Redmayne’s Kore-eda Hirokazu Film Is Still Being Scripted, Director Says at Busan](https://variety.com/2026/film/news/eddie-redmayne-kore-eda-hirokazu-film-1236903931/)（Wed, 07 Oct 2026 01:00:13 +0000） · Variety
-- [Skeet Ulrich Says His ‘Scream’ Arc Couldn’t Be Completed After Melissa Barrera’s Firing: ‘There’s No Billy Loomis’ Without Her](https://variety.com/2026/film/news/skeet-ulrich-scream-melissa-barrera-1236903923/)（Wed, 07 Oct 2026 00:46:31 +0000） · Variety
-- [Co-Founder Nate Bolotin to Exit XYZ Films After Almost Two Decades With Studio (EXCLUSIVE)](https://variety.com/2026/film/news/co-founder-nate-bolotin-exit-xyz-films-1236903877/)（Tue, 06 Oct 2026 23:50:14 +0000） · Variety
-- [HBO Max And Paramount+ Will Eventually Combine After “Short-Term” Bundling Phase, David Ellison Says](https://deadline.com/2026/10/hbo-max-paramount-streaming-merger-david-ellison-1237148535/)（Wed, 07 Oct 2026 01:01:42 +0000） · Deadline
-- [Skydance Co-Boss Ynon Kreiz On When ‘Barbie 2’ Will Be A Go: “Too Early To Talk About That”. However, There’s Hope](https://deadline.com/2026/10/barbie-2-paramount-warner-bros-merger-status-1237148284/)（Wed, 07 Oct 2026 01:01:00 +0000） · Deadline
-- [Chris Colfer On Returning For ‘Glee’ Revival: “I Know Nothing & Have Heard Absolutely Nothing”](https://deadline.com/2026/10/chris-colfer-returning-glee-revival-1237148540/)（Wed, 07 Oct 2026 00:37:39 +0000） · Deadline
-- [‘Ash And Crayons’ Trailer: In Evgeny Afineevsky’s Film, Wounded Ukrainian Children Show Will To Survive And Thrive](https://deadline.com/2026/10/ash-and-crayons-documentary-trailer-exclusive-1237148492/)（Wed, 07 Oct 2026 00:27:41 +0000） · Deadline
-- [Skydance Co-CEOs Insist Its Massive Debt Is Manageable And Won’t Shortchange Production](https://deadline.com/2026/10/sydance-ceos-david-ellison-ynon-kreiz-say-debt-manageable-1237148414/)（Wed, 07 Oct 2026 00:18:41 +0000） · Deadline
-- [Apple and Dolby Bringing Dolby Atmos to Live Formula 1 Coverage](https://www.hollywoodreporter.com/business/digital/apple-dolby-atmos-live-formula-1-coverage-races-1236722280/)（Wed, 07 Oct 2026 01:29:54 +0000） · The Hollywood Reporter
-- [Jack White Slams Trump for Saying Iran Can “Take Out” L.A. and San Diego: “The Worst American of All Time”](https://www.hollywoodreporter.com/news/politics-news/jack-white-slams-trump-iran-take-out-los-angeles-san-diego-1236724159/)（Wed, 07 Oct 2026 01:18:08 +0000） · The Hollywood Reporter
+- [Questlove Reflects on the Power of Vulnerability and Being a Trailblazer: ‘I Gotta Be the Change I Want to Be’](https://variety.com/2026/biz/news/questlove-power-of-vulnerability-being-a-trailblazer-1236904881/)（Thu, 08 Oct 2026 00:33:28 +0000） · Variety
+- [Disney Cruise Ship Believe to Debut ‘Encanto’ Musical, ‘Frozen’ Family Feast and More](https://variety.com/2026/biz/news/disney-ship-believe-encanto-musical-frozen-1236905011/)（Thu, 08 Oct 2026 00:07:50 +0000） · Variety
+- [Payal Kapadia, Anurag Kashyap Joined by Kavita Gupta’s Cineroost as Producer on Prateek Vats’ ‘Chronicles of a Confession’ (EXCLUSIVE)](https://variety.com/2026/film/markets-festivals/payal-kapadia-anurag-kashyap-kavita-gupta-prateek-vats-chronicles-of-a-confession-1236905094/)（Wed, 07 Oct 2026 23:55:09 +0000） · Variety
+- [‘Marshals’ Star Luke Grimes Says He Hasn’t Spoken to ‘Yellowstone’ Co-Star Kevin Costner ‘Since We Stopped Working Together’](https://variety.com/2026/tv/news/marshals-luke-grimes-kevin-costner-yellowstone-1236905016/)（Wed, 07 Oct 2026 23:43:32 +0000） · Variety
+- [‘Star Wars: Galactic Racer’ Debuts on Amazon Luna Day and Date With Wide Release (Gaming News Roundup)](https://variety.com/2026/gaming/news/gaming-news-roundup-october-5-1236899234/)（Wed, 07 Oct 2026 23:43:00 +0000） · Variety
+- [How ‘Chicago Fire’ Star Dermot Mulroney Exits Series](https://deadline.com/2026/10/chicago-fire-star-dermot-mulroney-exit-series-1237148817/)（Thu, 08 Oct 2026 02:13:20 +0000） · Deadline
+- [‘Beyond The Spider-Verse’ Director Bob Persichetti On “Limitless” Fan Expectations And “Never Saying No”](https://deadline.com/2026/10/spider-man-beyond-the-spider-verse-sony-pictures-animation-1237149251/)（Thu, 08 Oct 2026 01:10:05 +0000） · Deadline
+- [SiriusXM Reaffirms Commitment To Comics “At Every Stage Of Their Careers,” Says Raw Comedy Decision Predated Maniscalco’s Arrival](https://deadline.com/2026/10/siriusxm-new-statement-raw-dog-sebastian-maniscalco-1237149547/)（Wed, 07 Oct 2026 23:50:03 +0000） · Deadline
+- [Warner Bros. TV Boss Channing Dungey Says It Is Time To “Begin A New Chapter” As She Adds Paramount Cable Networks To Portfolio](https://deadline.com/2026/10/warner-bros-tv-boss-channing-dungey-new-chapter-1237149557/)（Wed, 07 Oct 2026 23:49:00 +0000） · Deadline
+- [Bryan Fuller & Don Mancini Make Surprise Cameo In ‘Carrie’ Prom Scene](https://deadline.com/2026/10/bryan-fuller-don-mancini-surprise-carrie-cameo-1237149527/)（Wed, 07 Oct 2026 23:37:42 +0000） · Deadline
+- [What to Snag (and Skip) During October Prime Day’s Final Hours](https://www.hollywoodreporter.com/lifestyle/shopping/amazon-prime-big-deal-days-october-2026-dates-best-sales-1236722954/)（Thu, 08 Oct 2026 01:25:35 +0000） · The Hollywood Reporter
+- [An Emotional Andrew Scott and ‘Elsinore’ Kick Off a Starry 2026 London Film Festival](https://www.hollywoodreporter.com/movies/movie-news/andrew-scott-olivia-colman-elsinore-london-film-fest-2026-1236724385/)（Wed, 07 Oct 2026 23:41:20 +0000） · The Hollywood Reporter
 
 ## 人工智能
 - [Connecting AI agents to enterprise knowledge](https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/)（Mon, 05 Oct 2026 15:47:52 +0000） · MIT Technology Review
@@ -38,23 +38,23 @@
 - [People really hate AI, so why can’t they get enough?](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/)（Mon, 05 Oct 2026 08:00:00 +0000） · MIT Technology Review
 - [EmTech Future 2026: When AI Meets Everything](https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/)（Mon, 05 Oct 2026 04:00:00 +0000） · MIT Technology Review
 - [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/)（Fri, 02 Oct 2026 15:49:04 +0000） · MIT Technology Review
-- [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github)（2026-10-06T19:26:38-04:00） · The Verge AI
-- [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)（2026-10-06T12:29:44-04:00） · The Verge AI
-- [Google is about to remove free access to Gemini Flash and Pro](https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only)（2026-10-06T09:19:01-04:00） · The Verge AI
-- [Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end](https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end)（2026-10-06T06:53:11-04:00） · The Verge AI
-- [Gemini Call for Me might tell your mom you’re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)（2026-10-05T19:09:55-04:00） · The Verge AI
+- [ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)（2026-10-07T15:10:42-04:00） · The Verge AI
+- [Everything announced at Microsoft’s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)（2026-10-07T18:15:22-04:00） · The Verge AI
+- [Microsoft is giving Copilot more control over Windows and your files](https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence)（2026-10-07T16:26:53-04:00） · The Verge AI
+- [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder)（2026-10-07T15:30:04-04:00） · The Verge AI
+- [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)（2026-10-07T03:27:03-04:00） · The Verge AI
 
 ## 商业财经
-- [From 'woke' ridicule to real car - new electric Jaguar unveiled](https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 01:39:54 GMT） · BBC Business
-- [UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor](https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 23:01:13 GMT） · BBC Business
-- [Froyo's made a comeback. But at £12 a tub will it last?](https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 23:01:31 GMT） · BBC Business
-- [Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'](https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 23:01:22 GMT） · BBC Business
-- [Asos confirms hackers sent 'unauthorised' notification to app users](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)（Tue, 06 Oct 2026 17:50:19 GMT） · BBC Business
-- [British Airways plans record 106-seat business class on Airbus A380 jumbo jets](https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html)（Tue, 06 Oct 2026 20:02:00 GMT） · CNBC Business
-- [Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here](https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html)（Tue, 06 Oct 2026 15:06:53 GMT） · CNBC Business
-- [Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand](https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html)（Mon, 05 Oct 2026 21:04:17 GMT） · CNBC Business
-- [AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment](https://www.cnbc.com/2026/10/05/astrazeneca-ceo-says-summit-drug-could-drive-future-cancer-combos.html)（Mon, 05 Oct 2026 19:44:30 GMT） · CNBC Business
-- [These are the cheapest and most expensive U.S. flights this November](https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html)（Tue, 06 Oct 2026 11:07:57 GMT） · CNBC Business
-- [Asos warns customer data may be compromised after ‘unauthorised’ app access](https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app)（Tue, 06 Oct 2026 17:44:16 GMT） · The Guardian Business
-- [Ikea to pilot online buyback service for secondhand furniture](https://www.theguardian.com/business/2026/oct/07/ikea-to-pilot-online-buyback-service-for-secondhand-furniture)（Tue, 06 Oct 2026 23:01:26 GMT） · The Guardian Business
+- ['Stop throwing shade' - the woman trying to stop firms leaving the UK](https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 23:00:55 GMT） · BBC Business
+- [Hedgehog among four chosen animals to feature on new banknotes](https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 23:01:30 GMT） · BBC Business
+- [We spent thousands on a Tui river cruise but ended up on coach trips](https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 23:05:17 GMT） · BBC Business
+- [AI chip boom pushes Samsung profits to record $80bn](https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss)（Thu, 08 Oct 2026 01:59:54 GMT） · BBC Business
+- [Boots sold in £7bn deal to Canadian billionaire family](https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss)（Wed, 07 Oct 2026 17:18:30 GMT） · BBC Business
+- [Lululemon poaches Athleta CEO as new chief product officer](https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html)（Wed, 07 Oct 2026 21:47:06 GMT） · CNBC Business
+- [Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic](https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html)（Wed, 07 Oct 2026 21:31:40 GMT） · CNBC Business
+- [Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens](https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html)（Wed, 07 Oct 2026 19:14:03 GMT） · CNBC Business
+- [Disney+ to stream upcoming Super Bowl](https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html)（Wed, 07 Oct 2026 16:36:26 GMT） · CNBC Business
+- [Used car prices fall in Q3, while demand for fuel-efficient vehicles grows](https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html)（Wed, 07 Oct 2026 16:25:52 GMT） · CNBC Business
+- [Canada’s Weston family buys Boots for $8.9bn](https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk)（Wed, 07 Oct 2026 15:12:09 GMT） · The Guardian Business
+- [Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries](https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries)（Wed, 07 Oct 2026 11:23:31 GMT） · The Guardian Business
 
