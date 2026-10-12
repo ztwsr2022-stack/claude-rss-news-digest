@@ -1,36 +1,36 @@
 # 今日世界新闻
 
-更新时间：2026年10月11日 09:25（北京时间）
+更新时间：2026年10月12日 09:57（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- ['Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)（Sat, 10 Oct 2026 19:28:28 GMT） · BBC World
-- [Twelve killed in attack on airport in Saudi capital Riyadh](https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 00:21:52 GMT） · BBC World
-- [Young men live in fear of being snatched off the streets and sold to Myanmar's army](https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss)（Sat, 10 Oct 2026 22:13:08 GMT） · BBC World
-- [Russian glide bomb attack on Zaporizhzhia kills at least 20 people](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)（Sat, 10 Oct 2026 20:51:12 GMT） · BBC World
-- [US murderer Christa Pike discharged from hospital 10 days after failed execution](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)（Sat, 10 Oct 2026 17:44:26 GMT） · BBC World
+- [Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 21:36:40 GMT） · BBC World
+- [One killed, 11 injured in second Houthi strike on Riyadh airport in two days](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 22:45:58 GMT） · BBC World
+- [Poland detains man suspected of planning assassination of PM Tusk](https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 17:27:24 GMT） · BBC World
+- [Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says](https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 21:12:44 GMT） · BBC World
+- [Homes and bridges swept away as fresh floods hit Nepal](https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 12:03:52 GMT） · BBC World
+- [Air strikes kill dozens of gold miners on Sudan-Egypt border](https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-world-4025-rdf)（2026-10-11T19:41:00Z） · DW World
+- [Who are the Ukrainian 'volunteers' under Russian command?](https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-world-4025-rdf)（2026-10-11T18:57:00Z） · DW World
+- [Trump claims Russia and Ukraine agreed to 'energy ceasefire'](https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-world-4025-rdf)（2026-10-11T14:47:00Z） · DW World
+- [Surrogacy in Georgia is booming, but at what cost?](https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-world-4025-rdf)（2026-10-11T07:45:00Z） · DW World
 - [Money, networks and bias: Why women struggle to win seats in US politics](https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-world-4025-rdf)（2026-10-10T19:16:00Z） · DW World
-- [Is China seeking to restrict Taiwan's cultural presence?](https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-world-4025-rdf)（2026-10-10T06:19:00Z） · DW World
-- [How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond](https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-world-4025-rdf)（2026-10-10T06:10:00Z） · DW World
-- [Schools crisis in France: Investment fails to inspire confidence](https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-world-4025-rdf)（2026-10-09T19:52:00Z） · DW World
-- [Eritrean troops in Ethiopia raise fears of a regional war](https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-world-4025-rdf)（2026-10-09T15:20:00Z） · DW World
-- [Global pro-Palestinian protests one year after Gaza ‘ceasefire’](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss)（Sun, 11 Oct 2026 01:11:10 +0000） · Al Jazeera
-- [Twelve killed, more than 300 injured in Riyadh airport attack](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss)（Sun, 11 Oct 2026 01:02:07 +0000） · Al Jazeera
+- [Bridge washed away by torrent of water in Nepal](https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss)（Mon, 12 Oct 2026 01:24:26 +0000） · Al Jazeera
+- [UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote](https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss)（Mon, 12 Oct 2026 01:12:35 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [‘The First Taste of Loneliness’ Review: A Sentimental but Affecting Study of Family Life After Bereavement](https://variety.com/2026/film/reviews/the-first-taste-of-loneliness-review-1236907801/)（Sun, 11 Oct 2026 00:58:25 +0000） · Variety
-- [Philippines Revamps International Co-Production Fund With Minority and Majority Tracks, Unveiled at Busan Market](https://variety.com/2026/film/news/philippines-revamps-coproduction-fund-minority-majority-tracks-1236907874/)（Sun, 11 Oct 2026 00:55:58 +0000） · Variety
-- [Lego Is Bringing Marvel and ‘Star Wars’ Together for First-Ever Fan-Designed Crossover Set](https://variety.com/2026/shopping/news/lego-marvel-star-wars-lego-ideas-set-nycc-1236906728/)（Sun, 11 Oct 2026 00:48:37 +0000） · Variety
-- [Bill Maher Slams Cornell and the ‘Depravity’ of Fraternities Amid Sexual Assault Lawsuit: ‘I’m Glad to See Them Eating a S— Sandwich’](https://variety.com/2026/tv/news/bill-maher-slams-cornell-sexual-assault-lawsuit-1236907856/)（Sun, 11 Oct 2026 00:48:12 +0000） · Variety
-- [Australian Dramedy ‘Her Last Laugh,’ With ‘XO, Kitty’ and ‘Mortal Kombat II’ Actors, Heads to Busan Buyers (EXCLUSIVE)](https://variety.com/2026/film/markets-festivals/her-last-laugh-australian-dramedy-busan-market-1236907854/)（Sun, 11 Oct 2026 00:37:34 +0000） · Variety
-- [DOJ Launches Investigation Of Networks For Suspending TV Pool Amid Trump’s Ban On CNN](https://deadline.com/2026/10/trump-doj-antitrust-investigation-network-tv-pool-1237154137/)（Sun, 11 Oct 2026 01:05:49 +0000） · Deadline
-- [‘Blade Runner 2099’ Trailer: Hunter Schafer Teams Up With Michelle Yeoh To Find “Cure For All Replicants” — NYCC](https://deadline.com/2026/10/blade-runner-2099-trailer-hunter-schafer-michelle-yeoh-nycc-1237154128/)（Sun, 11 Oct 2026 00:33:17 +0000） · Deadline
-- [‘In a Violent Nature: Part 2’ Gets 2027 Premiere Date With IFC & Shudder — NYCC](https://deadline.com/2026/10/in-a-violent-nature-part-2-2027-premiere-date-1237154118/)（Sat, 10 Oct 2026 23:52:22 +0000） · Deadline
-- [Catherine Zeta-Jones Comments On Actors “Giving Themselves Over” To AI, Prefers “Real People”](https://deadline.com/2026/10/catherine-zeta-jones-comments-ai-prefers-real-people-1237154109/)（Sat, 10 Oct 2026 22:45:06 +0000） · Deadline
-- [Jimmy Kimmel Mourns Talk Show’s Costume Designer Rodney Muñoz’s Death At 60: “A Huge And Generous Heart”](https://deadline.com/2026/10/jimmy-kimmel-mourns-costume-designer-rodney-munoz-death-60-1237154094/)（Sat, 10 Oct 2026 21:56:18 +0000） · Deadline
-- [Justice Department Investigating TV Networks Over Decision to Suspend Press Pool](https://www.hollywoodreporter.com/news/politics-news/doj-investigating-tv-networks-decision-suspend-press-pool-1236727085/)（Sun, 11 Oct 2026 00:54:22 +0000） · The Hollywood Reporter
-- [‘Blade Runner 2099’ Drops New Trailer, Team Teases a Detective Story Set When Replicants Take Over](https://www.hollywoodreporter.com/tv/tv-news/blade-runner-2099-trailer-michelle-yeoh-detective-mystery-1236727086/)（Sun, 11 Oct 2026 00:47:52 +0000） · The Hollywood Reporter
+- [‘Bedford Park’ Star and Busan Juror Moon Choi on Locking Away Her Trophies and Plotting a Screen Version of a Molière-Winning Play](https://variety.com/2026/film/festivals/moon-choi-bedford-park-busan-jury-french-play-1236908627/)（Mon, 12 Oct 2026 01:49:16 +0000） · Variety
+- [How Busan Title ‘Selvi’ Turns a Nurse’s Working Hours Into an Endurance Test](https://variety.com/2026/film/festivals/busan-selvi-turns-nurse-working-hours-endurance-test-1236908624/)（Mon, 12 Oct 2026 01:34:17 +0000） · Variety
+- [Box Office Boom for China’s Women Directors Feeds New Parallax Films Pickups From Shao Yihui, Yin Lichuan and Yang Lina (EXCLUSIVE)](https://variety.com/2026/film/markets-festivals/chinese-women-directors-parallax-films-slate-busan-market-1236908619/)（Mon, 12 Oct 2026 01:21:54 +0000） · Variety
+- [Locarno Title ‘Rapture’ Director Dominic Sangma Confronts Unregulated Stone Mining in Busan Asian Project Market Drama ‘Veil of Dust’](https://variety.com/2026/film/markets-festivals/stone-mining-drama-veil-dust-busan-asian-project-market-1236908610/)（Mon, 12 Oct 2026 01:10:45 +0000） · Variety
+- [‘The Sea Speaks His Name’ Review: Absorbing Indonesian Political Thriller Is an Ode to Disappeared Activists](https://variety.com/2026/film/reviews/the-sea-speaks-his-name-review-1236908499/)（Mon, 12 Oct 2026 00:55:39 +0000） · Variety
+- [Sacha Baron Cohen Confirmed To Star In Quentin Tarantino’s ‘The Popinjay Cavalier’ West End Stage Play With Dates & On Sale Window Announced](https://deadline.com/2026/10/sacha-baron-cohen-quentin-tarantino-popinjay-cavalier-london-1237073438/)（Mon, 12 Oct 2026 00:28:31 +0000） · Deadline
+- [‘Artificial’s Ike Barinholtz Teases What Makes His “Menacing” Elon Musk Performance “A Little Ridiculous”](https://deadline.com/2026/10/artificial-ike-barinholtz-menacing-elon-musk-performance-1237154451/)（Sun, 11 Oct 2026 22:21:10 +0000） · Deadline
+- [Robert Pattinson Approached Chris Hansen Portrayal In ‘Primetime’ As “A Fan”: “I Was Trying To Make Him Cool”](https://deadline.com/2026/10/robert-pattinson-fan-chris-hansen-primetime-1237154442/)（Sun, 11 Oct 2026 22:01:11 +0000） · Deadline
+- [Noah Centineo Credits ‘Street Fighter’ Stunt Coordinator With Bringing Game’s “Specific Fighting Style” To Screen: “Insane Fights”](https://deadline.com/2026/10/noah-centineo-street-fighter-stunt-coordinator-fighting-style-1237154431/)（Sun, 11 Oct 2026 21:21:33 +0000） · Deadline
+- [‘The Rookie’ Season 9 & Spinoff ‘North’ Get Premiere Dates, Teaser & Guest Stars As ABC Sets ‘Rookie’ Block On Wednesday](https://deadline.com/2026/10/the-rookie-season-9-north-premiere-date-teaser-guest-stars-1237154409/)（Sun, 11 Oct 2026 20:16:42 +0000） · Deadline
+- [Kelly Clarkson Responds After New York Store Denies She Got the ‘Pretty Woman’ Treatment: “You’re a Liar”](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/kelly-clarkson-new-york-store-pretty-woman-treatment-liar-1236727429/)（Mon, 12 Oct 2026 01:02:33 +0000） · The Hollywood Reporter
+- [Jake Johnson Teases New Project With ‘New Girl’ Co-Star Damon Wayans Jr.](https://www.hollywoodreporter.com/tv/tv-news/jake-johnson-new-project-new-girl-damon-wayans-jr-1236727360/)（Sun, 11 Oct 2026 23:23:19 +0000） · The Hollywood Reporter
 
 ## 人工智能
 - [We’re putting too much faith in AI’s ability to say no](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/)（Fri, 09 Oct 2026 09:00:00 +0000） · MIT Technology Review
@@ -38,23 +38,23 @@
 - [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)（Thu, 08 Oct 2026 09:00:00 +0000） · MIT Technology Review
 - [Building a safer path to autonomous industrial AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/)（Thu, 08 Oct 2026 08:17:32 +0000） · MIT Technology Review
 - [Connecting AI agents to enterprise knowledge](https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/)（Mon, 05 Oct 2026 15:47:52 +0000） · MIT Technology Review
+- [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)（2026-10-11T14:33:56-04:00） · The Verge AI
+- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)（2026-10-11T00:53:46-04:00） · The Verge AI
 - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)（2026-10-10T18:10:17-04:00） · The Verge AI
 - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)（2026-10-10T17:23:38-04:00） · The Verge AI
 - [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet)（2026-10-10T10:41:16-04:00） · The Verge AI
-- [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)（2026-10-09T17:26:33-04:00） · The Verge AI
-- [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)（2026-10-09T19:45:03-04:00） · The Verge AI
 
 ## 商业财经
-- [Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)（Sat, 10 Oct 2026 14:24:14 GMT） · BBC Business
-- [Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)（Fri, 09 Oct 2026 22:30:22 GMT） · BBC Business
-- [Boots has a new owner: Three ways it could affect you](https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss)（Fri, 09 Oct 2026 23:01:14 GMT） · BBC Business
-- [Burnham promises to curb non-compete rules in job contracts](https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss)（Fri, 09 Oct 2026 16:15:30 GMT） · BBC Business
-- [Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned](https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss)（Fri, 09 Oct 2026 14:36:35 GMT） · BBC Business
-- [From BJ’s to Lululemon, retailers are trimming assortments to boost business](https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html)（Sat, 10 Oct 2026 12:00:01 GMT） · CNBC Business
+- [Iran war threatens Healey's Budget plans, think tank warns](https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 23:04:07 GMT） · BBC Business
+- [Trump faces growing backlash over plans to import diesel from Russia](https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 23:18:45 GMT） · BBC Business
+- [Debt advice that may leave you owing even more money](https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 23:19:07 GMT） · BBC Business
+- [Roofing scammers con homeowners out of thousands of pounds](https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 23:19:49 GMT） · BBC Business
+- [AI is less regulated than milk, says Microsoft president](https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss)（Sun, 11 Oct 2026 23:07:35 GMT） · BBC Business
+- [From BJ’s to Lululemon, retailers are trimming assortments to boost business](https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html)（Sun, 11 Oct 2026 17:08:30 GMT） · CNBC Business
 - [Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight](https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html)（Fri, 09 Oct 2026 11:57:05 GMT） · CNBC Business
 - [Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong](https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html)（Fri, 09 Oct 2026 15:07:46 GMT） · CNBC Business
 - [Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies](https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html)（Thu, 08 Oct 2026 20:12:33 GMT） · CNBC Business
 - [Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'](https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html)（Thu, 08 Oct 2026 16:25:40 GMT） · CNBC Business
-- [Zelenskyy furious as Trump announces deal to buy Russian diesel](https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine)（Sat, 10 Oct 2026 10:09:46 GMT） · The Guardian Business
-- [Telegraph owner poised to make newsroom job cuts in investment promise U-turn](https://www.theguardian.com/media/2026/oct/10/telegraph-owner-axel-springer-newsroom-job-cuts-u-turn)（Sat, 10 Oct 2026 10:31:21 GMT） · The Guardian Business
+- [Volkswagen boss backs EU plan to bolster domestic European industry](https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry)（Sun, 11 Oct 2026 16:53:01 GMT） · The Guardian Business
+- [Trump’s deal with Putin will have little impact on US diesel prices, experts say](https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices)（Sun, 11 Oct 2026 15:56:25 GMT） · The Guardian Business
 
