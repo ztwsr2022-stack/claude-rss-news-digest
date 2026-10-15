@@ -1,36 +1,36 @@
 # 今日世界新闻
 
-更新时间：2026年10月14日 09:30（北京时间）
+更新时间：2026年10月15日 09:08（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Pope diagnosed with lung cancer but had successful surgery, Vatican says](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 00:17:00 GMT） · BBC World
-- [Saudi man charged with planting 'sophisticated' recording device in OpenAI office](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 21:42:49 GMT） · BBC World
-- [Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 23:42:22 GMT） · BBC World
-- [MI5 chief warns of threats to UK from Russia, Iran and AI](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 15:52:15 GMT） · BBC World
-- [Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot](https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 22:29:55 GMT） · BBC World
-- [Ukraine allies in Poland after Starlink sabotage, Trump diesel deal](https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-world-4025-rdf)（2026-10-13T18:52:00Z） · DW World
-- [Ukraine and the US: What's next after Trump's diesel deal with Russia?](https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-world-4025-rdf)（2026-10-13T18:51:00Z） · DW World
-- [Saudi Arabia's military struggle against Houthi attacks](https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-world-4025-rdf)（2026-10-13T16:11:00Z） · DW World
-- [How will emergency rule in Pakistan's northwest affect Afghan ties?](https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-world-4025-rdf)（2026-10-13T16:11:00Z） · DW World
-- [DR Congo: Kabila’s move towards M23 raises questions over peace](https://www.dw.com/en/dr-congo-kabila-s-move-towards-m23-raises-questions-over-peace/a-79652262?maca=en-rss-en-world-4025-rdf)（2026-10-13T15:46:00Z） · DW World
-- [Israeli attacks kill one in Gaza, wound journalists in occupied West Bank](https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss)（Wed, 14 Oct 2026 00:45:16 +0000） · Al Jazeera
-- [How podcasts became political powerhouses](https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss)（Wed, 14 Oct 2026 00:27:52 +0000） · Al Jazeera
+- [Musk says US government may be behind slowdown of Ukraine drone speeds](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 20:55:24 GMT） · BBC World
+- [Student protesters attack government buildings in Albania](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 20:29:05 GMT） · BBC World
+- [Pope walking and recovering 'as expected' after surgery, doctors say](https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 15:12:46 GMT） · BBC World
+- [US inflation rises more than expected - here's what is happening with prices](https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 15:26:14 GMT） · BBC World
+- [Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 13:41:51 GMT） · BBC World
+- [How Trump's diesel deal with Russia will impact the United States and Ukraine](https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-world-4025-rdf)（2026-10-14T17:55:00Z） · DW World
+- [India urges Russia, Ukraine to protect Black Sea shipping](https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-world-4025-rdf)（2026-10-14T15:29:00Z） · DW World
+- [Albania: Fire at Education Ministry as students protest](https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf)（2026-10-14T14:56:00Z） · DW World
+- [Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan](https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-world-4025-rdf)（2026-10-14T14:25:00Z） · DW World
+- [Indonesian VIP prison scandal exposes inequality across Southeast Asia](https://www.dw.com/en/indonesian-vip-prison-scandal-exposes-inequality-across-southeast-asia/a-79659535?maca=en-rss-en-world-4025-rdf)（2026-10-14T14:17:00Z） · DW World
+- [Costa Rica opens mega-prison as Bukele model embraced across Latin America](https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss)（Thu, 15 Oct 2026 00:24:03 +0000） · Al Jazeera
+- [Mexican court closes case against official over 2023 detention centre fire](https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss)（Thu, 15 Oct 2026 00:08:58 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [‘Clean Hands’ Review: Zach Braff Is a Cop on a Crusade to Save His Addict Daughter in an Uneasy Fact-Based Crime Drama](https://variety.com/2026/film/reviews/clean-hands-review-1236910791/)（Tue, 13 Oct 2026 23:14:27 +0000） · Variety
-- [‘Tommy & Tuppence’ Stars Josh Dylan and Antonia Thomas on That ‘Intense’ Finale, Why the Detective Duo ‘Keep Missing Each Other’ Romantically and a Potential Season 2](https://variety.com/2026/tv/global/tommy-tuppence-finale-josh-dylan-antonia-thomas-romance-season-2-1236909902/)（Tue, 13 Oct 2026 23:00:00 +0000） · Variety
-- [Why the ‘Girls’ Revival Is Such an Exciting Idea](https://variety.com/2026/tv/columns/girls-revival-hbo-1236910307/)（Tue, 13 Oct 2026 22:45:00 +0000） · Variety
-- [‘Just Dance: Decades of Hits’ Costume Designer Breaks Down the New Game’s Look and Not Using AI: ‘It’s Our Art’](https://variety.com/2026/artisans/news/just-dance-decades-of-hits-no-ai-1236910597/)（Tue, 13 Oct 2026 22:24:00 +0000） · Variety
-- [‘Once Upon in the Middle East’ Review: China’s Oscar Entry Is a Breakneck Blockbuster That Mixes Food Porn With Wartime Devastation](https://variety.com/2026/film/reviews/once-upon-in-the-middle-east-review-1236910775/)（Tue, 13 Oct 2026 22:21:27 +0000） · Variety
-- [Candle In The Wind: 5-Year-Old Media Firm Faces New Questions After Hello Sunshine Exit](https://deadline.com/2026/10/candle-media-faces-questions-hello-sunshine-exit-1237156037/)（Wed, 14 Oct 2026 00:51:36 +0000） · Deadline
-- [Drake Bell Calls Out SAG-AFTRA After Losing Health Insurance & Urges People To “Not Become An Actor” Or “Join SAG”](https://deadline.com/2026/10/drake-bell-sag-aftra-health-insurance-1237156308/)（Wed, 14 Oct 2026 00:30:00 +0000） · Deadline
-- [‘The White Lotus’ Filming In Cannes As Season 4 Production Enters Final Stretch, Hôtel Martinez Transformation Confirms New Resort Logo](https://deadline.com/2026/10/white-lotus-season-4-production-cannes-final-stretch-1237155644/)（Wed, 14 Oct 2026 00:08:49 +0000） · Deadline
-- [Golden Globes Vs Golden Globe: Infringement & Money Are Latest Legal Battlefields In Shindig Skirmish](https://deadline.com/2026/10/golden-globes-legal-battle-trademark-1237156199/)（Tue, 13 Oct 2026 23:39:49 +0000） · Deadline
-- [Doc Talk Podcast: David And Liani Greaves On Their Oscar Contender ‘Once Upon A Time In Harlem’](https://deadline.com/2026/10/once-upon-a-time-in-harlem-david-liani-greaves-podcast-1237156136/)（Tue, 13 Oct 2026 23:01:09 +0000） · Deadline
-- [Drake Bell Slams SAG-AFTRA After Not Qualifying for Health Insurance: “Do Not Become an Actor”](https://www.hollywoodreporter.com/tv/tv-news/drake-bell-slams-sag-aftra-health-insurance-not-qualifying-1236729416/)（Wed, 14 Oct 2026 00:37:36 +0000） · The Hollywood Reporter
-- [Parke Brings Back Its Sold-Out Shrunken Sweatshirt in Fan-Favorite Colorways](https://www.hollywoodreporter.com/lifestyle/shopping/parke-october-2026-everyday-edit-mockneck-sweatshirt-restock-1236729249/)（Wed, 14 Oct 2026 00:03:12 +0000） · The Hollywood Reporter
+- [Academy CEO Bill Kramer to Head to Tokyo for Leadership Award and Onstage Summit With Toho Boss Matsuoka Hiro](https://variety.com/2026/film/festivals/academy-ceo-bill-kramer-tokyo-award-toho-boss-summit-1236911117/)（Thu, 15 Oct 2026 01:00:00 +0000） · Variety
+- [‘The Lowdown’ Creator Sterlin Harjo on the Films That Inspired Season 2, and What Convinced Tommy Lee Jones to Join the Show](https://variety.com/2026/tv/news/the-lowdown-sterlin-harjo-season-2-tommy-lee-jones-1236912635/)（Thu, 15 Oct 2026 01:00:00 +0000） · Variety
+- [Anthony Edwards Names Justin Bieber ‘White Boy of the Year’ in Satirical Believe That Awards (EXCLUSIVE)](https://variety.com/2026/sports/news/anthony-edwards-justin-bieber-white-boy-of-the-year-1236912577/)（Thu, 15 Oct 2026 00:24:00 +0000） · Variety
+- [‘Full House’ Star Jodie Sweetin Says Dave Coulier is ‘Doing Great’ Following ‘Tough Battle’ with Cancer](https://variety.com/2026/tv/news/jodie-sweetin-dave-coulier-cancer-battle-full-house-1236912656/)（Thu, 15 Oct 2026 00:07:37 +0000） · Variety
+- [‘Abbott Elementary’ Star William Stanford Davis Sets Memoir ‘Don’t Mess With the Fat Kid’ (EXCLUSIVE)](https://variety.com/2026/tv/news/abbott-elementary-william-stanford-davis-memoir-1236912328/)（Wed, 14 Oct 2026 22:30:00 +0000） · Variety
+- [AMPAS To Attend Tokyo Film Festival; Program Includes Special Talk Session With Bill Kramer & Toho CEO Hiro Matsuoka](https://deadline.com/2026/10/oscars-ampas-bill-kramer-toho-hiro-matsuoka-1237156496/)（Thu, 15 Oct 2026 01:00:00 +0000） · Deadline
+- [FBI Adds Ex-Bellum Entertainment CEO To Most Wanted Fraudsters List; Offering $150K Reward For Info On Fugitive Mary Carole McDonnell](https://deadline.com/2026/10/fbi-most-wanted-list-ex-bellum-ceo-1237157643/)（Thu, 15 Oct 2026 00:43:34 +0000） · Deadline
+- [‘Crystal Lake’ Pays Tribute To Snake Killed In Making Of ‘Friday the 13th’: “A Direct Nod”](https://deadline.com/2026/10/crystal-lake-pays-tribute-snake-killed-friday-the-13th-1237157674/)（Wed, 14 Oct 2026 23:03:10 +0000） · Deadline
+- [Teenager Sues CBS News Over Story On Reflecting Pool Vandalism Arrests](https://deadline.com/2026/10/cbs-news-reflecting-pool-vandalism-defamation-report-1237157653/)（Wed, 14 Oct 2026 22:56:31 +0000） · Deadline
+- [Dodgers-Brewers & Rays-Guardians MLB Playoff Game Times For Thursday Changed](https://deadline.com/2026/10/dodgers-brewers-rays-guardians-game-times-thursday-changed-1237157652/)（Wed, 14 Oct 2026 22:46:08 +0000） · Deadline
+- [Ugg Continues Its High-Fashion Push With JW Anderson’s New Loafer-Inspired Collection](https://www.hollywoodreporter.com/lifestyle/shopping/jw-anderson-ugg-collaboration-loafer-boots-shop-online-2026-1236730309/)（Thu, 15 Oct 2026 00:45:23 +0000） · The Hollywood Reporter
+- [Alan Mandell, Esteemed Actor and Interpreter of Samuel Beckett Plays, Dies at 98](https://www.hollywoodreporter.com/lifestyle/arts/alan-mandell-dead-samuel-beckett-actor-1236730093/)（Thu, 15 Oct 2026 00:39:21 +0000） · The Hollywood Reporter
 
 ## 人工智能
 - [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)（Tue, 13 Oct 2026 10:00:00 +0000） · MIT Technology Review
@@ -38,23 +38,23 @@
 - [We’re putting too much faith in AI’s ability to say no](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/)（Fri, 09 Oct 2026 09:00:00 +0000） · MIT Technology Review
 - [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)（Fri, 09 Oct 2026 00:08:24 +0000） · MIT Technology Review
 - [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)（Thu, 08 Oct 2026 09:00:00 +0000） · MIT Technology Review
-- [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)（2026-10-13T17:36:13-04:00） · The Verge AI
-- [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)（2026-10-13T16:23:23-04:00） · The Verge AI
-- [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)（2026-10-13T15:10:43-04:00） · The Verge AI
-- [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)（2026-10-13T15:01:42-04:00） · The Verge AI
-- [Facebook will let you customize your feed algorithm using AI](https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai)（2026-10-13T13:01:31-04:00） · The Verge AI
+- [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)（2026-10-14T18:53:31-04:00） · The Verge AI
+- [Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)（2026-10-14T17:17:29-04:00） · The Verge AI
+- [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)（2026-10-14T20:16:12-04:00） · The Verge AI
+- [Now that Character.AI is going bankrupt, what happens to all of its users’ data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy)（2026-10-14T14:47:54-04:00） · The Verge AI
+- [YouTube sticks new labels on AI-generated songs](https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label)（2026-10-14T14:25:04-04:00） · The Verge AI
 
 ## 商业财经
-- [Royal Mail losing 400 postal workers a week, says union](https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 23:03:59 GMT） · BBC Business
-- [Is it OK for jobseekers or employers to use AI?](https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 23:04:39 GMT） · BBC Business
-- [Three things we've learnt about the UK economy from the IMF](https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 11:58:43 GMT） · BBC Business
-- [Bumble bought for $1.3bn in 'bet on the future of humanity'](https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 15:59:07 GMT） · BBC Business
-- [Saudi man charged with planting 'sophisticated' recording device in OpenAI office](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)（Tue, 13 Oct 2026 21:42:49 GMT） · BBC Business
-- [United Airlines is making it harder to reach its top frequent flyer status in 2027](https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html)（Tue, 13 Oct 2026 21:02:43 GMT） · CNBC Business
-- [Airport attacks put aviation in crosshairs of geopolitical conflicts](https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html)（Tue, 13 Oct 2026 18:33:42 GMT） · CNBC Business
-- [Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits](https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html)（Tue, 13 Oct 2026 20:29:06 GMT） · CNBC Business
-- [UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs](https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html)（Tue, 13 Oct 2026 15:04:35 GMT） · CNBC Business
-- [Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks](https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html)（Mon, 12 Oct 2026 15:48:28 GMT） · CNBC Business
-- [UK high street bosses urge chancellor to cut cost of employing young people](https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people)（Tue, 13 Oct 2026 17:43:19 GMT） · The Guardian Business
-- [Chip stocks slide after Broadcom boss likens AI investing to ‘casino’](https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt)（Tue, 13 Oct 2026 15:51:54 GMT） · The Guardian Business
+- [Drop-off charges at UK airports to be reviewed after sharp increase](https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 17:46:30 GMT） · BBC Business
+- [Netflix to shed 1,000 jobs in steepest cuts since 2022](https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 16:47:32 GMT） · BBC Business
+- [How backlash against data centres could shape the US midterm elections](https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 23:02:57 GMT） · BBC Business
+- [Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer](https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 15:54:04 GMT） · BBC Business
+- [Faisal Islam: What surprise praise for UK economy tells us about the Budget](https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss)（Wed, 14 Oct 2026 11:04:12 GMT） · BBC Business
+- [Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html)（Wed, 14 Oct 2026 20:06:28 GMT） · CNBC Business
+- [Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make](https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html)（Wed, 14 Oct 2026 17:33:57 GMT） · CNBC Business
+- [Netflix to lay off roughly 1,000 employees, or 6% of workforce](https://www.cnbc.com/2026/10/14/netflix-layoffs.html)（Wed, 14 Oct 2026 15:03:59 GMT） · CNBC Business
+- [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html)（Wed, 14 Oct 2026 20:22:09 GMT） · CNBC Business
+- [Delta's business-class revamp: New seats, menus, plates and more Porsches](https://www.cnbc.com/2026/10/14/delta-one-revamp.html)（Wed, 14 Oct 2026 12:10:03 GMT） · CNBC Business
+- [US inflation rose to 3.7% in September in blow to Republicans before midterms](https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september)（Wed, 14 Oct 2026 14:29:42 GMT） · The Guardian Business
+- [Closer EU trade ties greater prize for UK than making separate deals, minister says](https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander)（Wed, 14 Oct 2026 13:58:39 GMT） · The Guardian Business
 
