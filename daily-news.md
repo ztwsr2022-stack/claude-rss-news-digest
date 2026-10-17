@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年10月16日 08:54（北京时间）
+更新时间：2026年10月17日 08:55（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Trump calls off livestream of Fort Hood attacker's execution by firing squad](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 17:47:22 GMT） · BBC World
-- [Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 16:50:18 GMT） · BBC World
-- [Bus hits train stopped on French side of Channel Tunnel, with 19 injured](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 22:37:21 GMT） · BBC World
-- [Maduro pleads not guilty to new torture-related charges in New York](https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 16:52:44 GMT） · BBC World
-- [At least 33 pupils and teacher killed after school roof collapses in Pakistan](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 15:26:16 GMT） · BBC World
-- [Police raid the major pro-opposition Halk TV channel in Turkey](https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-world-4025-rdf)（2026-10-15T16:48:00Z） · DW World
-- [Can Kenya preserve the democratic space Raila Odinga fought for?](https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-world-4025-rdf)（2026-10-15T14:46:00Z） · DW World
-- [EU summit to focus on China, Ukraine and bloc budget](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)（2026-10-15T14:37:00Z） · DW World
-- [Romania: 2 ships on fire in Black Sea, 7 crew missing](https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf)（2026-10-15T14:34:00Z） · DW World
-- [Starlink: How Elon Musk's company influences geopolitics](https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-world-4025-rdf)（2026-10-15T12:59:00Z） · DW World
-- [Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports](https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss)（Fri, 16 Oct 2026 00:02:37 +0000） · Al Jazeera
-- [Two Syrian pipelines damaged amid spate of attacks on energy infrastructure](https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss)（Thu, 15 Oct 2026 23:35:26 +0000） · Al Jazeera
+- [Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 16:00:30 GMT） · BBC World
+- [Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 23:07:38 GMT） · BBC World
+- [Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 14:31:04 GMT） · BBC World
+- [Katie Zacharia leaving her White House role less than five days on the job](https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 21:05:05 GMT） · BBC World
+- [Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC](https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 23:54:35 GMT） · BBC World
+- [Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump](https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf)（2026-10-16T19:42:00Z） · DW World
+- [Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?](https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-world-4025-rdf)（2026-10-16T17:46:00Z） · DW World
+- [Iran: When 'honor' becomes a death sentence for women](https://www.dw.com/en/iran-when-honor-becomes-a-death-sentence-for-women/a-79681977?maca=en-rss-en-world-4025-rdf)（2026-10-16T14:27:00Z） · DW World
+- [Albania: Students demand political change and resignation of Prime Minister Edi Rama](https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf)（2026-10-16T14:23:00Z） · DW World
+- [Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions](https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf)（2026-10-16T14:03:00Z） · DW World
+- [Oregon school shooter was former special needs student, police say](https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss)（Sat, 17 Oct 2026 00:25:22 +0000） · Al Jazeera
+- [Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz](https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss)（Sat, 17 Oct 2026 00:00:00 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Olivia Rodrigo and Chappell Roan Compete on Game Shows Hosted by David Byrne in the Retro Video for ‘Expectations’ Remix](https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-video-david-byrne-1236913618/)（Fri, 16 Oct 2026 00:25:33 +0000） · Variety
-- [The 27 Best ‘American Horror Story’ Characters, Ranked](https://variety.com/lists/american-horror-story-characters-ranked/)（Fri, 16 Oct 2026 00:00:00 +0000） · Variety
-- [Jenna Ortega Says She Hopes ‘Klara and the Sun’ Encourages People to ‘Put Down the Computers and Phones’ as Dystopian Film World Premieres in London](https://variety.com/2026/film/festivals/jenna-ortega-klara-and-the-sun-put-down-phones-london-premiere-1236912808/)（Thu, 15 Oct 2026 22:43:11 +0000） · Variety
-- [Steven Soderbergh to Help Finish ‘The Batman 2’ Filming After Matt Reeves Stepped Away for Family Matter](https://variety.com/2026/film/news/steven-soderbergh-finish-batman-2-matt-reeves-stepped-away-1236913552/)（Thu, 15 Oct 2026 22:33:01 +0000） · Variety
-- [Netflix Shocker: Bela Bajaria Leaving After 10 Years Amid Layoffs, Peter Rice to Replace as Chief Content Officer](https://variety.com/2026/film/news/netflix-bela-bajaria-leaving-layoffs-1236913504/)（Thu, 15 Oct 2026 21:37:29 +0000） · Variety
-- [Bryson Fire Spreading Near Calamigos Ranch In Malibu, Evacuation Warnings Issued](https://deadline.com/2026/10/bryson-fire-malibu-1237158950/)（Fri, 16 Oct 2026 00:14:42 +0000） · Deadline
-- [Anna Faris Was “Hurt” By Chuck Lorre’s Comments About Her ‘Mom’ Exit: “Yikes”](https://deadline.com/2026/10/anna-faris-responds-chuck-lorre-vindication-mom-exit-1237158905/)（Thu, 15 Oct 2026 23:38:46 +0000） · Deadline
-- [Diddy’s Prison Head Injury Mystery Deepens; Feds Deny Fight With Drug Kingpin Sent Grammy Winner To Hospital](https://deadline.com/2026/10/diddy-head-injury-latest-1237158701/)（Thu, 15 Oct 2026 23:14:02 +0000） · Deadline
-- [Greta Gerwig On Securing Led Zeppelin’s “Stairway to Heaven” For ‘Narnia’ Trailer: “They Too Love C.S. Lewis”](https://deadline.com/2026/10/greta-gerwig-led-zeppelins-stairway-to-heaven-narnia-trailer-1237158829/)（Thu, 15 Oct 2026 22:51:16 +0000） · Deadline
-- [Steven Soderbergh To Work With Matt Reeves To Complete Final Weeks Of Principal Photography On ‘The Batman Part II’](https://deadline.com/2026/10/steven-soderbergh-the-batman-part-ii-1237158482/)（Thu, 15 Oct 2026 22:16:16 +0000） · Deadline
-- [‘Street Fighter’ Eyes Box Office Victory as Buzzy Elizabeth Holmes Doc Heads for Strong Launch](https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-whalefall-you-can-see-everything-1236733042/)（Fri, 16 Oct 2026 00:27:59 +0000） · The Hollywood Reporter
-- [Ben Affleck Warns ‘Digger’ Box Office Bomb Will Lead to “A Bunch of Sh***y Homogenized Movies”](https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-digger-box-office-shitty-homogenized-movies-1236733419/)（Fri, 16 Oct 2026 00:18:29 +0000） · The Hollywood Reporter
+- [The Impossible ‘Whalefall’: Director Brian Duffield Wanted a Challenge, So He Discovered a Way to Crush Austin Abrams in a Whale Stomach That Left Onlookers ‘Baffled’](https://variety.com/2026/film/features/whalefall-austin-abrams-crushed-whale-stomach-on-set-1236912491/)（Sat, 17 Oct 2026 00:01:05 +0000） · Variety
+- [The Hiring of Peter Rice at Netflix Could Set the Stage for a Corporate Culture Clash About the Future of Movies](https://variety.com/2026/film/columns/peter-rice-hired-by-netflix-ted-sarandos-1236914367/)（Fri, 16 Oct 2026 23:18:36 +0000） · Variety
+- [‘Street Fighter’ Cast Guide: All the WWE Stars, UFC Champs and Celebs Playing Video Game Fighters in the Live-Action Movie](https://variety.com/lists/street-fighter-cast-video-game-vs-live-action/)（Fri, 16 Oct 2026 22:30:00 +0000） · Variety
+- [Elizabeth Holmes’ Partner Billy Evans Admits ‘She Looks Insane’ in ‘You Can See Everything’ Trailer but Defends Making the Doc: ‘Make Up Your Own Mind’](https://variety.com/2026/film/news/billy-evans-defends-you-can-see-everything-elizabeth-holmes-insane-1236914043/)（Fri, 16 Oct 2026 22:00:54 +0000） · Variety
+- [Music Industry Moves: My Chemical Romance Signs With Warner Chappell](https://variety.com/2026/music/news/jesse-jo-stark-wme-1236910696/)（Fri, 16 Oct 2026 21:35:00 +0000） · Variety
+- [How ‘Whalefall’s Director & Author Wove The Closure Of A Father-Son Relationship Into A Survival Tale](https://deadline.com/2026/10/whalefall-dad-son-themes-director-author-explain-set-visit-1237158531/)（Fri, 16 Oct 2026 23:20:50 +0000） · Deadline
+- [‘La Bola Negra’ Directing Duo Los Javis Reveal How Spanish Sensation Became “The Journey Of Our Lives”](https://deadline.com/2026/10/la-bola-negra-directors-interview-los-javis-1237165637/)（Fri, 16 Oct 2026 22:15:00 +0000） · Deadline
+- [‘Crystal Lake’s Gwendolyn Sundstrom On Grace’s Friendship With Jason, “Learning A Lot” From Linda Cardellini & That Killer Twist](https://deadline.com/2026/10/crystal-lake-gwendolyn-sundstrom-killer-twist-1237158527/)（Fri, 16 Oct 2026 22:00:00 +0000） · Deadline
+- [‘Street Fighter’ Socking $30M, ‘You Can See Everything’ Beaming 2nd Best Opening For Documentary At $12M – Friday Box Office Update](https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/)（Fri, 16 Oct 2026 21:39:00 +0000） · Deadline
+- [Francis Lawrence To Direct Sci-Fi Film ‘Red Rising’ For Paramount](https://deadline.com/2026/10/red-rising-movie-francis-lawrence-to-direct-paramount-1237165870/)（Fri, 16 Oct 2026 21:18:47 +0000） · Deadline
+- [Angie Nixon Says Black Republican Byron Donalds “Doesn’t Support Black People”](https://www.hollywoodreporter.com/news/politics-news/angie-nixon-byron-donalds-criticism-polls-ahead-running-1236734130/)（Sat, 17 Oct 2026 00:37:25 +0000） · The Hollywood Reporter
+- [How ‘You Can See Everything’ Exacts Hollywood’s Revenge on Big Tech](https://www.hollywoodreporter.com/business/digital/you-can-see-everything-fielder-holmes-themes-showtimes-1236734072/)（Fri, 16 Oct 2026 23:13:36 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)（Fri, 16 Oct 2026 18:00:00 +0000） · MIT Technology Review
 - [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)（Tue, 13 Oct 2026 10:00:00 +0000） · MIT Technology Review
 - [AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/)（Tue, 13 Oct 2026 09:00:00 +0000） · MIT Technology Review
 - [We’re putting too much faith in AI’s ability to say no](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/)（Fri, 09 Oct 2026 09:00:00 +0000） · MIT Technology Review
-- [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)（Fri, 09 Oct 2026 00:08:24 +0000） · MIT Technology Review
 - [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)（Thu, 08 Oct 2026 09:00:00 +0000） · MIT Technology Review
+- [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions)（2026-10-16T11:26:47-04:00） · The Verge AI
+- [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)（2026-10-16T11:22:13-04:00） · The Verge AI
 - [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs)（2026-10-15T18:43:23-04:00） · The Verge AI
 - [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled)（2026-10-15T18:35:55-04:00） · The Verge AI
-- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)（2026-10-15T17:39:52-04:00） · The Verge AI
-- [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)（2026-10-15T17:32:54-04:00） · The Verge AI
-- [Bluesky’s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps)（2026-10-15T15:57:16-04:00） · The Verge AI
+- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)（2026-10-16T12:26:17-04:00） · The Verge AI
 
 ## 商业财经
-- [Banks say Healey is planning Budget tax raid on their profits](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 17:14:36 GMT） · BBC Business
+- [Banks expect to be hit with higher taxes in Budget](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 10:16:27 GMT） · BBC Business
+- [Watch: Did Tesla really just unveil a flying car?](https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 12:32:31 GMT） · BBC Business
 - [I find it quite demoralising in store - why I do all my shopping online](https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 23:16:12 GMT） · BBC Business
+- [Ship attack reports near Hormuz reach record high as oil exports slow](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)（Fri, 16 Oct 2026 05:00:17 GMT） · BBC Business
 - [Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm](https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 14:55:21 GMT） · BBC Business
-- [AI giant Anthropic woos potential investors ahead of stock market debut](https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 11:34:55 GMT） · BBC Business
-- ['I paid thousands to a company for jobs that never came'](https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss)（Thu, 15 Oct 2026 17:19:49 GMT） · BBC Business
-- [KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades](https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html)（Thu, 15 Oct 2026 21:03:50 GMT） · CNBC Business
+- [Here's who Netflix just brought in to run content — and what it means for the streamer](https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html)（Fri, 16 Oct 2026 19:40:00 GMT） · CNBC Business
+- [Nike's India campus is a long-term growth bet amid turnaround](https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html)（Fri, 16 Oct 2026 11:00:01 GMT） · CNBC Business
+- [KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades](https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html)（Fri, 16 Oct 2026 11:02:24 GMT） · CNBC Business
 - [Porsche reveals Mission S concept car that previews new design identity](https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html)（Thu, 15 Oct 2026 20:30:01 GMT） · CNBC Business
 - [JetBlue’s new domestic first class, BlueFirst, is now on sale](https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html)（Thu, 15 Oct 2026 16:13:33 GMT） · CNBC Business
-- [Southwest is overhauling its frequent flyer program. Here's what's changing](https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html)（Thu, 15 Oct 2026 14:25:01 GMT） · CNBC Business
-- [How lower fuel economy targets could boost pickups and V-8 engines](https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html)（Thu, 15 Oct 2026 11:30:01 GMT） · CNBC Business
-- [John Healey poised to raise taxes on banks in budget](https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget)（Thu, 15 Oct 2026 16:17:05 GMT） · The Guardian Business
-- [Thames Water asks for £2.4bn more to avoid going bust this year or early 2027](https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027)（Thu, 15 Oct 2026 17:14:48 GMT） · The Guardian Business
+- [Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue](https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham)（Fri, 16 Oct 2026 21:30:12 GMT） · The Guardian Business
+- [Target pensions or welfare, not banks, IMF tells John Healey](https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey)（Fri, 16 Oct 2026 15:33:29 GMT） · The Guardian Business
 
