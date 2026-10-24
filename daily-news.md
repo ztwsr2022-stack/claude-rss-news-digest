@@ -1,36 +1,36 @@
 # 今日世界新闻
 
-更新时间：2026年10月23日 09:07（北京时间）
+更新时间：2026年10月24日 09:16（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 23:16:16 GMT） · BBC World
-- [Trump says Musk has restored access to Ukraine's Starlink network](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 21:42:39 GMT） · BBC World
-- [Newborn twins fight for survival as conflict fuels Yemen's hunger crisis](https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 15:56:36 GMT） · BBC World
-- [L'Oreal says weight loss drugs are impacting beauty and skin care sales](https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 22:27:53 GMT） · BBC World
-- [Trump ordered to answer questions under oath in BBC lawsuit](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 00:10:46 GMT） · BBC World
-- [Albania's student protests are only getting bigger](https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf)（2026-10-22T19:18:00Z） · DW World
-- [Are the French police the most violent in the EU?](https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-world-4025-rdf)（2026-10-22T16:01:00Z） · DW World
-- [Is Iran ready for another major US attack after midterm elections?](https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-world-4025-rdf)（2026-10-22T14:16:00Z） · DW World
-- [Is EU putting profits over human rights in Vietnam?](https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-world-4025-rdf)（2026-10-22T14:12:00Z） · DW World
-- [Ukraine: Life near the front line in Sloviansk](https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-world-4025-rdf)（2026-10-22T11:44:00Z） · DW World
-- [Tibet rocked by 7.0-magnitude earthquake](https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss)（Fri, 23 Oct 2026 00:33:16 +0000） · Al Jazeera
-- [Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran](https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss)（Fri, 23 Oct 2026 00:00:00 +0000） · Al Jazeera
+- [Deadly shooting near Paris is a 'racist terrorist attack', Macron says](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 19:42:08 GMT） · BBC World
+- [Seven shot dead by gunmen at church funeral in Jordan, officials say](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 19:46:30 GMT） · BBC World
+- [Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say](https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 20:18:13 GMT） · BBC World
+- [Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 15:37:07 GMT） · BBC World
+- [White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'](https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 19:30:19 GMT） · BBC World
+- [Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like](https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf)（2026-10-23T19:08:00Z） · DW World
+- [Afghan women could lose one of their last paths to a higher education](https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-world-4025-rdf)（2026-10-23T14:54:00Z） · DW World
+- [Ukraine tries to shut Moscow's airports with drone strikes on Russia](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)（2026-10-23T14:23:00Z） · DW World
+- [Japan-Russia ties erode as journalist sits in Moscow jail](https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-world-4025-rdf)（2026-10-23T12:42:00Z） · DW World
+- [Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny](https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf)（2026-10-23T12:11:00Z） · DW World
+- [WHO announces start of Ebola vaccine clinical trial in DR Congo](https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss)（Sat, 24 Oct 2026 00:27:21 +0000） · Al Jazeera
+- [Iran war live: Israel launches ‘targeted’ Hebron operation after attack](https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss)（Sat, 24 Oct 2026 00:00:00 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Peter Chan Rules Out AI-Generated Content, Says Feature Films Will Survive the Rise of Vertical Dramas](https://variety.com/2026/film/festivals/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/)（Fri, 23 Oct 2026 00:27:55 +0000） · Variety
-- [‘Ebenezer’ Creates a Real Venmo Profile for Scrooge, Which Hands Out Money and Accepts It, Too](https://variety.com/2026/film/news/ebenezer-venmo-real-johnny-depp-scrooge-movie-1236921820/)（Fri, 23 Oct 2026 00:15:34 +0000） · Variety
-- [Oscars Predictions 2027: Is ‘You Can See Everything’ the Film That Can Take Down ‘The Odyssey’?](https://variety.com/lists/2027-oscars-predictions/)（Fri, 23 Oct 2026 00:10:00 +0000） · Variety
-- [Michael Gray, Star of ‘Shazam!’ TV Series, Dies at 75](https://variety.com/2026/tv/people-news/michael-gray-dead-shazam-1236921937/)（Thu, 22 Oct 2026 23:37:46 +0000） · Variety
-- [CBS Premiere Week Multiplatform Ratings See Big Year-Over-Year Increases (EXCLUSIVE)](https://variety.com/2026/tv/news/cbs-premiere-week-multiplatform-ratings-increases-1236921862/)（Thu, 22 Oct 2026 23:00:00 +0000） · Variety
-- [Joe Perry Bows Out Of Tonight’s Hollywood Vampires’ Flick West Coast Debut As Aerosmith Ramps Up For Hollywood Bowl Gigs](https://deadline.com/2026/10/joe-perry-hollywood-vampires-movie-aerosmith-1237171377/)（Fri, 23 Oct 2026 00:35:00 +0000） · Deadline
-- [Sacha Baron Cohen Says Marvel’s ‘Ironheart’ Producers Wanted To Ensure He Was “Not Insulted” Playing Devil As Jewish Actor](https://deadline.com/2026/10/sacha-baron-cohen-marvel-ironheart-not-insulted-devil-jewish-1237171378/)（Fri, 23 Oct 2026 00:13:29 +0000） · Deadline
-- [Heather Morris & Chord Overstreet In Talks To Return For ‘Glee’ Reboot](https://deadline.com/2026/10/glee-reboot-heather-morris-chord-overstreet-in-talks-cast-1237171340/)（Thu, 22 Oct 2026 23:46:15 +0000） · Deadline
-- [Chris Jericho To Play Gorgeous George In Prime Video’s Muhammad Ali Limited Series ‘The Greatest’](https://deadline.com/2026/10/chris-jericho-the-greatest-cast-gorgeous-george-1237171251/)（Thu, 22 Oct 2026 23:13:40 +0000） · Deadline
-- [Michael Gray Dies: ‘Shazam!’ Star Was 75](https://deadline.com/2026/10/michael-gray-dead-shazam-1237171297/)（Thu, 22 Oct 2026 22:53:29 +0000） · Deadline
-- [Chrishell Stause Says She Won’t Be Watching ‘Selling Sunset’ Season 10, But Her Lawyers Will Be](https://www.hollywoodreporter.com/tv/tv-news/chrishell-stause-not-watch-selling-sunset-season-10-lawyers-will-1236738743/)（Fri, 23 Oct 2026 01:04:32 +0000） · The Hollywood Reporter
-- [‘Clayface’ Aims to Give DC Studios a Box Office Win as ‘You Can See Everything’ Stays Strong](https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-klara-1236738669/)（Fri, 23 Oct 2026 00:52:00 +0000） · The Hollywood Reporter
+- [Ken Atchity, ‘The Meg’ Producer and Literary Agent, Dies at 82](https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/)（Sat, 24 Oct 2026 00:59:59 +0000） · Variety
+- [Sacha Baron Cohen Says Donald Trump Has ‘Elements of Brilliance’ and ‘We Were Too Easy to Dismiss Him as a Nincompoop’](https://variety.com/2026/film/news/sacha-baron-cohen-donald-trump-brilliance-nincompoop-ali-g-1236930008/)（Fri, 23 Oct 2026 22:18:01 +0000） · Variety
+- [Sandra Hüller Joins ‘Avengers: Doomsday’ in Cameo Role](https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/)（Fri, 23 Oct 2026 22:02:10 +0000） · Variety
+- [‘Law & Order: SVU’ Sets Stephanie March to Return as Alexandra Cabot](https://variety.com/2026/tv/news/law-order-svu-stephanie-march-return-alexandra-cabot-1236929966/)（Fri, 23 Oct 2026 20:30:00 +0000） · Variety
+- [Why Olivia Colman Didn’t Get Splinters From Getting Intimate With Alexander Skarsgård’s ‘Wicker’ Costume](https://variety.com/2026/artisans/news/what-alexander-skarsgard-wicker-basket-was-made-from-1236929863/)（Fri, 23 Oct 2026 20:20:45 +0000） · Variety
+- [‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch](https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/)（Sat, 24 Oct 2026 01:01:53 +0000） · Deadline
+- [Awards Season Heats Up With ‘The Only Living Pickpocket In New York,’ ‘Fatherland’ & More — Specialty Preview](https://deadline.com/2026/10/indie-films-opening-only-living-pickpocket-in-new-york-wicker-1237171300/)（Sat, 24 Oct 2026 00:30:00 +0000） · Deadline
+- [Everything We Know About Universal’s ‘Miami Vice ’85’ Movie So Far](https://deadline.com/feature/miami-vice-85-movie-news-updates-1237172205/)（Sat, 24 Oct 2026 00:16:09 +0000） · Deadline
+- [All The Songs In ‘Klara And The Sun’: Violent Femmes & More](https://deadline.com/2026/10/klara-and-the-sun-songs-soundtrack-chopin-vivaldi-1237172171/)（Fri, 23 Oct 2026 23:34:51 +0000） · Deadline
+- [‘Clayface’ Takes Shape As No. 1 With $23M-$25M; ‘You Can See Everything’s Wild Ride Continues With $19M – Box Office Update](https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/)（Fri, 23 Oct 2026 23:31:00 +0000） · Deadline
+- [‘Street Fighter’ Breakout Callina Liang Talks Embracing Fan Skepticism and Reveals Two Key Scrapped Moments](https://www.hollywoodreporter.com/movies/movie-features/street-fighter-callina-liang-chin-li-1236739271/)（Fri, 23 Oct 2026 23:53:36 +0000） · The Hollywood Reporter
+- [Nick Reiner’s Push for Release of Trust Money to Be Decided by Mediator](https://www.hollywoodreporter.com/news/general-news/nick-reiner-trust-money-release-decided-mediator-1236739448/)（Fri, 23 Oct 2026 23:26:22 +0000） · The Hollywood Reporter
 
 ## 人工智能
 - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)（Thu, 22 Oct 2026 21:17:29 +0000） · MIT Technology Review
@@ -38,23 +38,23 @@
 - [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/)（Thu, 22 Oct 2026 10:00:00 +0000） · MIT Technology Review
 - [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/)（Thu, 22 Oct 2026 08:41:18 +0000） · MIT Technology Review
 - [The new economics of enterprise AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/)（Tue, 20 Oct 2026 15:20:25 +0000） · MIT Technology Review
-- [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)（2026-10-22T17:53:22-04:00） · The Verge AI
-- [Meta’s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)（2026-10-22T16:32:05-04:00） · The Verge AI
-- [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)（2026-10-22T16:33:38-04:00） · The Verge AI
-- [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)（2026-10-22T17:14:26-04:00） · The Verge AI
-- [Discord now formats Markdown previews right](https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels)（2026-10-22T14:58:19-04:00） · The Verge AI
+- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)（2026-10-23T17:11:07-04:00） · The Verge AI
+- [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)（2026-10-23T15:32:39-04:00） · The Verge AI
+- [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast)（2026-10-23T13:00:18-04:00） · The Verge AI
+- [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)（2026-10-23T12:52:55-04:00） · The Verge AI
+- [Meta delays new business terms after publisher pushback on AI scraping](https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping)（2026-10-23T10:47:41-04:00） · The Verge AI
 
 ## 商业财经
-- [Grid operator says lights will stay on this winter after concerns](https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 23:04:38 GMT） · BBC Business
-- [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 18:26:56 GMT） · BBC Business
-- [L'Oreal says weight loss drugs are impacting beauty and skin care sales](https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 22:27:53 GMT） · BBC Business
-- ['I wasn't thinking straight' says five jobs civil servant](https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 15:05:47 GMT） · BBC Business
-- [Barclays cutting 5,000 jobs as it increases reliance on AI](https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss)（Thu, 22 Oct 2026 14:28:59 GMT） · BBC Business
-- [Moderna shares plunge after cancer vaccine data leaks — despite positive results](https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html)（Thu, 22 Oct 2026 21:52:02 GMT） · CNBC Business
+- [How does the UK state pension compare with other countries?](https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss)（Sat, 24 Oct 2026 00:09:12 GMT） · BBC Business
+- [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)（Sat, 24 Oct 2026 00:05:45 GMT） · BBC Business
+- [Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud](https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 15:15:13 GMT） · BBC Business
+- [White House lifts tariffs on some Canadian goods as midterm elections loom](https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss)（Sat, 24 Oct 2026 00:36:47 GMT） · BBC Business
+- [Earnings limit of up to £140K for first-time buyers loan scheme](https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss)（Fri, 23 Oct 2026 11:48:04 GMT） · BBC Business
+- [Restaurant earnings will test whether owning more brands pays off](https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html)（Fri, 23 Oct 2026 13:55:46 GMT） · CNBC Business
+- [American Express is cutting 5% of its workforce to 'prepare for AI'](https://www.cnbc.com/2026/10/23/american-express-job-cuts.html)（Fri, 23 Oct 2026 18:57:48 GMT） · CNBC Business
+- [Fewer people are flying as airfare soars. Here's why airlines aren't worried](https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html)（Fri, 23 Oct 2026 16:51:21 GMT） · CNBC Business
+- [Moderna shares plunge after cancer vaccine data leaks — despite positive results](https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html)（Fri, 23 Oct 2026 14:36:34 GMT） · CNBC Business
 - [Elon Musk invests about $1 billion in Skydance](https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html)（Thu, 22 Oct 2026 19:34:46 GMT） · CNBC Business
-- [Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.](https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html)（Thu, 22 Oct 2026 18:51:44 GMT） · CNBC Business
-- [Cruise lines chase luxury travelers with suites for up to $25,000 a night](https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html)（Thu, 22 Oct 2026 16:46:29 GMT） · CNBC Business
-- [American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year](https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html)（Thu, 22 Oct 2026 14:52:09 GMT） · CNBC Business
-- [UK to relax post-2008 rules that hold City bosses accountable for wrongdoing](https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing)（Thu, 22 Oct 2026 20:00:49 GMT） · The Guardian Business
-- [Tax online sales more heavily to save high streets, Burnham urged](https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged)（Thu, 22 Oct 2026 11:32:45 GMT） · The Guardian Business
+- [UK government to make unprecedented intervention in setting of water bills](https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment)（Fri, 23 Oct 2026 13:51:10 GMT） · The Guardian Business
+- [Telegraph cuts up to 100 jobs as new owner promises to turn paper into ‘AI-powered’ global business](https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business)（Fri, 23 Oct 2026 15:01:27 GMT） · The Guardian Business
 
