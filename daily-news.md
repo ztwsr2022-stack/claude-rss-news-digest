@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年10月27日 09:45（北京时间）
+更新时间：2026年10月28日 09:56（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Lula wins fourth term in dramatic Brazil election comeback](https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss)（Mon, 26 Oct 2026 21:02:47 GMT） · BBC World
-- [Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)（Mon, 26 Oct 2026 14:34:52 GMT） · BBC World
-- [Trump administration illegally fired James Comey's daughter, judge rules](https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss)（Mon, 26 Oct 2026 19:27:21 GMT） · BBC World
-- [Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing](https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss)（Mon, 26 Oct 2026 16:27:17 GMT） · BBC World
-- [Catholic bishops apologise for 'exploited' Trump meeting](https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss)（Mon, 26 Oct 2026 15:46:31 GMT） · BBC World
+- [Norway and Finland leaders hold rare call with Putin](https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 18:28:23 GMT） · BBC World
+- [Ceasefire extended across Ukraine's Kherson region, officials say](https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 22:11:08 GMT） · BBC World
+- [Mbappé sorry for 'ill-judged' Mao remark after backlash in China](https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 13:25:54 GMT） · BBC World
+- [Lula's comeback in Brazil dents Trump's ambitions for Latin America](https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 01:46:38 GMT） · BBC World
+- [Dutch zookeeper dies after being mauled by leopard](https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 19:30:37 GMT） · BBC World
+- [Myanmar: Is the US undermining the EU's diplomatic blockade?](https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-world-4025-rdf)（2026-10-27T15:16:00Z） · DW World
+- [Will elections in Israel change its Iran approach?](https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-world-4025-rdf)（2026-10-27T13:31:00Z） · DW World
 - [A bad omen? Syria bans women from university courses](https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-world-4025-rdf)（2026-10-26T20:07:00Z） · DW World
 - [Why Ukraine may be involved in Mali's conflict](https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-world-4025-rdf)（2026-10-26T14:58:00Z） · DW World
-- [Germany's Merz heads to Asia as security issues loom large](https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf)（2026-10-26T13:32:00Z） · DW World
-- [Venezuelan opposition leader Machado returns from exile](https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-world-4025-rdf)（2026-10-26T09:08:00Z） · DW World
-- [Protein shakes for teenagers: Good or bad idea?](https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-world-4025-rdf)（2026-10-25T16:12:00Z） · DW World
-- [Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’](https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss)（Tue, 27 Oct 2026 01:32:54 +0000） · Al Jazeera
-- [Harry Kane wins Ballon d’Or, ending England’s 25-year wait](https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss)（Tue, 27 Oct 2026 01:20:56 +0000） · Al Jazeera
+- [Germany's Merz in Asia as security issues loom large](https://www.dw.com/en/germany-s-merz-in-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf)（2026-10-26T13:32:00Z） · DW World
+- [Arab parties projected to win 18 seats in Israeli parliamentary election](https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss)（Wed, 28 Oct 2026 00:43:56 +0000） · Al Jazeera
+- [Netanyahu, Eisenkot camps clash over Israeli election projections](https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss)（Wed, 28 Oct 2026 00:43:02 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Searchlight Pictures Marketing EVP Michelle Hooper Exits Studio](https://variety.com/2026/film/news/searchlight-pictures-marketing-evp-michelle-hooper-exits-1236931776/)（Tue, 27 Oct 2026 01:29:38 +0000） · Variety
-- [Hubert de la Bouillerie, Editor on ‘Woodstock,’ ‘Witches of Eastwick,’ Dies at 75](https://variety.com/2026/film/obituaries-people-news/hubert-de-la-bouillerie-dead-witches-eastwick-1236931650/)（Tue, 27 Oct 2026 00:29:09 +0000） · Variety
-- [Netflix Hires Steve Wilson to Lead Podcast Content Acquisition](https://variety.com/2026/film/news/netflix-hires-steve-wilson-podcast-content-acquisition-1236931678/)（Tue, 27 Oct 2026 00:05:03 +0000） · Variety
-- [Neil Young Files $10 Million Suit Against Trump for Using ‘Rockin’ in the Free World,’ Six Years After a Prior Settlement Over the Same Song](https://variety.com/2026/music/news/neil-young-files-suit-donald-trump-rockin-in-the-free-world-1236931685/)（Mon, 26 Oct 2026 23:50:34 +0000） · Variety
-- [‘Nobody Wants This’ Star Tovah Feldshuh Responds to Adam Brody’s Palestine Support: ‘To Accuse the Jewish People of Genocide’ Is ‘Right Out of Hitler’s Playbook’](https://variety.com/2026/tv/news/nobody-wants-this-tovah-feldshuh-adam-brodys-palestine-1236931666/)（Mon, 26 Oct 2026 23:44:45 +0000） · Variety
-- [Netflix Taps Former Apple Exec Steve Wilson To Lead Podcast Acquisitions](https://deadline.com/2026/10/netflix-apple-exec-steve-wilson-podcast-acquisitions-1237205867/)（Tue, 27 Oct 2026 01:40:34 +0000） · Deadline
-- [Milcho Manchevski Talks ‘Sister Brother Manhole Cover’, His Second Feature Of 2026 & Exposing Corruption At Macedonia’s Film Agency — Tokyo](https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859/)（Tue, 27 Oct 2026 00:48:10 +0000） · Deadline
-- [Searchlight Pictures Marketing EVP Michelle Hooper Leaving Studio](https://deadline.com/2026/10/searchlight-michelle-hooper-leaving-1237202751/)（Tue, 27 Oct 2026 00:31:25 +0000） · Deadline
-- [Disney+ & Channel 4 Strike Landmark Deal In UK](https://deadline.com/2026/10/disney-plus-channel-4-strike-uk-content-deal-maya-celeb-sas-1237173234/)（Tue, 27 Oct 2026 00:01:00 +0000） · Deadline
-- [‘The Gilded Age’ Season 4 Release Schedule: When Do New Episodes Come Out?](https://deadline.com/2026/10/the-gilded-age-season-4-release-schedule-new-episodes-1237201748/)（Mon, 26 Oct 2026 23:44:31 +0000） · Deadline
-- [Neil Young Sues Trump for Using “Rockin’ in the Free World” at Rally: “The Opposite of Everything Donald J. Trump Stands For”](https://www.hollywoodreporter.com/music/music-news/neil-young-sues-trump-for-using-rockin-in-the-free-world-1236740459/)（Mon, 26 Oct 2026 23:45:29 +0000） · The Hollywood Reporter
-- [Sacha Baron Cohen’s ‘Ali G: Who Iz I?’ to Stream on Prime Video Days After Brief Theatrical Stint](https://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-who-iz-i-prime-video-release-date-1236740382/)（Mon, 26 Oct 2026 23:24:11 +0000） · The Hollywood Reporter
+- [Melanie Lynskey to Play Erin Patterson in ‘Mushroom Murders’ Limited Series at Paramount+](https://variety.com/2026/tv/news/melanie-lynskey-erin-patterson-mushroom-murders-series-1236932452/)（Wed, 28 Oct 2026 01:30:00 +0000） · Variety
+- [Tokyo Opener ‘Sukiyaki’ Director Zeze Takahisa on the Protest Roots of a Global Japanese Pop Hit: ‘The Culture Used to Be Wide Open – Now It’s Become Narrower’](https://variety.com/2026/film/festivals/tokyo-opener-sukiyaki-director-zeze-takahisa-song-protest-roots-1236932574/)（Wed, 28 Oct 2026 01:06:18 +0000） · Variety
+- [Hasan Piker Sues Scott Jennings for $72 Million Over Out-of-Context Lynching Quote](https://variety.com/2026/politics/news/hasan-piker-scott-jennings-lynching-quote-suit-1236932558/)（Wed, 28 Oct 2026 01:01:18 +0000） · Variety
+- [Horror Film ‘The Land of Jinn’ Is First Indonesia-Kyrgyzstan Co-Production, Unveiled at Tokyo Gap-Financing Market](https://variety.com/2026/film/markets-festivals/horror-land-of-jinn-first-indonesia-kyrgyzstan-co-production-1236932567/)（Wed, 28 Oct 2026 00:50:46 +0000） · Variety
+- [Variety Nominated for 62 Arts & Entertainment Journalism Awards](https://variety.com/2026/digital/news/variety-nominated-arts-entertainment-journalism-awards-1236932466/)（Wed, 28 Oct 2026 00:32:08 +0000） · Variety
+- [William Shatner Remembers ‘Star Trek’ Co-Star Walter Koenig](https://deadline.com/2026/10/william-shatner-walter-koenig-death-star-trek-1237206821/)（Wed, 28 Oct 2026 01:44:43 +0000） · Deadline
+- [IDA Documentary Awards Shortlists: ‘You Can See Everything,’ ‘To Hold A Mountain,’ ‘Nuisance Bear’ Make Features Cut, But What Got Snubbed?](https://deadline.com/2026/10/ida-documentary-awards-2026-shortlists-1237206811/)（Wed, 28 Oct 2026 01:41:20 +0000） · Deadline
+- [Melanie Lynskey Stars In ‘Mushroom Murders’ Australian True Crime Limited Series Ordered By Paramount+](https://deadline.com/2026/10/melanie-lynskey-mushroom-murders-australian-drama-series-1237206665/)（Wed, 28 Oct 2026 01:30:00 +0000） · Deadline
+- [How ‘Klara And The Sun’ Got Blotted Out At the Box Office](https://deadline.com/2026/10/klara-and-the-sun-box-office-fail-1237201321/)（Wed, 28 Oct 2026 00:51:17 +0000） · Deadline
+- [‘The Kitchen’ Sets Food Network Return Date For Special Episode](https://deadline.com/2026/10/the-kitchen-food-network-date-special-episode-1237206795/)（Wed, 28 Oct 2026 00:46:47 +0000） · Deadline
+- [Melanie Lynskey to Topline Paramount+ Limited Series ‘Mushroom Murders’](https://www.hollywoodreporter.com/tv/tv-news/melanie-lynskey-paramount-plus-mushroom-murders-1236741367/)（Wed, 28 Oct 2026 01:30:00 +0000） · The Hollywood Reporter
+- [‘Dancing With the Stars’ Gets Spooky for Horror Movie Night: See the Scores, Who Went Home (Updating Live)](https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-horror-movie-week-7-recap-scores-elimination-1236741201/)（Tue, 27 Oct 2026 23:58:00 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)（Tue, 27 Oct 2026 11:19:18 +0000） · MIT Technology Review
 - [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)（Mon, 26 Oct 2026 17:45:43 +0000） · MIT Technology Review
 - [The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)（Mon, 26 Oct 2026 09:01:00 +0000） · MIT Technology Review
 - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)（Thu, 22 Oct 2026 21:17:29 +0000） · MIT Technology Review
 - [The Foundations of Scalable AI](https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/)（Thu, 22 Oct 2026 18:48:04 +0000） · MIT Technology Review
-- [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/)（Thu, 22 Oct 2026 10:00:00 +0000） · MIT Technology Review
-- [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)（2026-10-26T19:47:59-04:00） · The Verge AI
-- [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)（2026-10-26T17:45:31-04:00） · The Verge AI
-- [The RealReal won’t let AI agents hog designer clothing](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal)（2026-10-26T13:30:55-04:00） · The Verge AI
-- [Five weird details from Anthropic’s IPO filing](https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details)（2026-10-26T13:10:23-04:00） · The Verge AI
-- [Microsoft offers buyouts to 60,000 employees](https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible)（2026-10-26T12:07:16-04:00） · The Verge AI
+- [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)（2026-10-27T16:51:04-04:00） · The Verge AI
+- [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)（2026-10-27T13:31:36-04:00） · The Verge AI
+- [Anthropic’s elaborate plan to keep Wall Street at bay](https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety)（2026-10-27T13:04:30-04:00） · The Verge AI
+- [Firefox’s Smart Window adds AI form filling and webpage monitoring](https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms)（2026-10-27T12:14:18-04:00） · The Verge AI
+- [Google’s next Genie AI model generates more realistic experiences](https://www.theverge.com/tech/1019076/google-genie-4-ai-model)（2026-10-27T11:07:35-04:00） · The Verge AI
 
 ## 商业财经
-- ['I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 00:01:00 GMT） · BBC Business
-- [Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 01:10:22 GMT） · BBC Business
-- [Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing](https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss)（Mon, 26 Oct 2026 16:27:17 GMT） · BBC Business
-- [Apple says it will replace iPhone Duo handsets with screen problems](https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 01:16:22 GMT） · BBC Business
-- [Anthropic's blockbuster share listing - 5 surprising things we now know](https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss)（Mon, 26 Oct 2026 19:57:23 GMT） · BBC Business
-- [JetBlue posts bigger loss on fuel costs, but CEO says margins improving](https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html)（Mon, 26 Oct 2026 21:18:07 GMT） · CNBC Business
-- [FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers](https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html)（Mon, 26 Oct 2026 18:37:01 GMT） · CNBC Business
-- [Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO](https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html)（Mon, 26 Oct 2026 12:49:14 GMT） · CNBC Business
-- [Why popular airplanes are getting scrapped years early](https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html)（Sat, 24 Oct 2026 15:18:30 GMT） · CNBC Business
-- [Restaurant earnings will test whether owning more brands pays off](https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html)（Fri, 23 Oct 2026 13:55:46 GMT） · CNBC Business
-- [UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises](https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises)（Tue, 27 Oct 2026 00:01:02 GMT） · The Guardian Business
-- [Anthropic files for potentially record-breaking stock market valuation in key test for AI industry](https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market)（Mon, 26 Oct 2026 16:22:28 GMT） · The Guardian Business
+- [I get £4,062 a year and am trying my best - here's what I want from the Budget](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 00:03:05 GMT） · BBC Business
+- [Minimum wage set to rise but 18-20 year-olds will not get bigger increase](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 15:01:27 GMT） · BBC Business
+- [China's families are now supporting more old people than kids](https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 23:16:08 GMT） · BBC Business
+- [Donald Trump's biggest economic problem looks strangely familiar](https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 06:01:11 GMT） · BBC Business
+- [Rise in sales of radios and tinned foods, say retailers, after call to stock up](https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss)（Tue, 27 Oct 2026 06:33:11 GMT） · BBC Business
+- [Honda warns 50% Canada auto tariffs would be catastrophic for industry](https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html)（Tue, 27 Oct 2026 17:53:47 GMT） · CNBC Business
+- [American Airlines hikes annual fees on rewards cards for first time since 2018](https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html)（Tue, 27 Oct 2026 16:33:09 GMT） · CNBC Business
+- [A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say](https://www.cnbc.com/2026/10/27/us-measles-public-health.html)（Tue, 27 Oct 2026 14:07:03 GMT） · CNBC Business
+- [Boeing says it won't significantly ramp up 737 Max production until late 2027](https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html)（Tue, 27 Oct 2026 20:32:24 GMT） · CNBC Business
+- [Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America](https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html)（Tue, 27 Oct 2026 15:04:36 GMT） · CNBC Business
+- [Budget 2026: six charts that reveal the economic realities facing the chancellor](https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey)（Tue, 27 Oct 2026 18:15:29 GMT） · The Guardian Business
+- [Homes across UK to get low- or no-interest loans to fund solar panels and heat pumps](https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps)（Tue, 27 Oct 2026 17:28:33 GMT） · The Guardian Business
 
