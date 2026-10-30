@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年10月29日 10:01（北京时间）
+更新时间：2026年10月30日 10:17（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [High-speed train crash kills at least 68 people in Spain](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 21:38:54 GMT） · BBC World
-- [Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain](https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 21:24:41 GMT） · BBC World
-- [Flávio Bolsonaro denies fleeing Brazil after landing in Miami](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 01:14:01 GMT） · BBC World
-- [Netanyahu's bloc leading Israel election but short of majority, partial results show](https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 20:24:39 GMT） · BBC World
-- [How could Israel break election deadlock? Here are four scenarios](https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 14:30:31 GMT） · BBC World
-- [Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil](https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf)（2026-10-28T22:26:00Z） · DW World
-- [How do the US midterms work, and why are they so important for Trump's presidency?](https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-world-4025-rdf)（2026-10-28T19:02:00Z） · DW World
-- [Evacuation from Oleshky: How are preparations going?](https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf)（2026-10-28T17:04:00Z） · DW World
-- [One year on, families seek justice after election violence](https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-world-4025-rdf)（2026-10-28T16:30:00Z） · DW World
-- [What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.](https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-world-4025-rdf)（2026-10-28T16:03:00Z） · DW World
-- [Riot police deployed in Madrid as protests erupt over deadly train crash](https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss)（Thu, 29 Oct 2026 00:36:33 +0000） · Al Jazeera
-- [Israelis rally for Jewish-Arab government after election gains](https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss)（Thu, 29 Oct 2026 00:34:24 +0000） · Al Jazeera
+- [Israeli opposition accuses Netanyahu of trying to 'delegitimise' election](https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 20:21:54 GMT） · BBC World
+- [Audio reveals exchanges between Spain train operators and drivers moments before deadly crash](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 11:07:35 GMT） · BBC World
+- ['The city is alive': A brief peace in Kherson, but residents fear what comes next](https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 20:05:57 GMT） · BBC World
+- [Russian drone attack on Ukrainian train station kills at least 14, officials say](https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 14:17:35 GMT） · BBC World
+- [Flávio Bolsonaro calls himself 'leader of Brazil' after election loss](https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 14:58:28 GMT） · BBC World
+- [India increases growth forecast for fiscal year](https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-world-4025-rdf)（2026-10-29T16:30:00Z） · DW World
+- [China leaders demand more loyalty and more initiative](https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf)（2026-10-29T16:16:00Z） · DW World
+- [Human trafficking victims stranded in Guinea-Bissau](https://www.dw.com/en/human-trafficking-victims-stranded-in-guinea-bissau/a-79785558?maca=en-rss-en-world-4025-rdf)（2026-10-29T14:20:00Z） · DW World
+- [Can EU and India work together to secure Indo-Pacific?](https://www.dw.com/en/can-eu-and-india-work-together-to-secure-indo-pacific/a-79796195?maca=en-rss-en-world-4025-rdf)（2026-10-29T13:26:00Z） · DW World
+- [European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends](https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf)（2026-10-29T10:33:00Z） · DW World
+- [Trump administration renews bid to block Alaska election results](https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss)（Fri, 30 Oct 2026 01:30:30 +0000） · Al Jazeera
+- [Ethiopia border clashes leave families hungry and homeless in Kenya](https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss)（Fri, 30 Oct 2026 01:05:26 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [‘The Mosquito Bowl’ Review: Football Heroes Take to the Battlefield in Peter Berg’s Emptily Macho WWII Epic](https://variety.com/2026/film/reviews/the-mosquito-bowl-review-1236932067/)（Thu, 29 Oct 2026 01:40:14 +0000） · Variety
-- [From Carlos Reygadas to Hamaguchi’s Cinematographer, Tokyo’s Nippon Cinema Now Directors on Unexpected Connections](https://variety.com/2026/film/festivals/carlos-reygadas-hamaguchi-cinematographer-nippon-cinema-now-1236933790/)（Thu, 29 Oct 2026 00:50:20 +0000） · Variety
-- [‘The Hunger Games: Sunrise on the Reaping’ First Reactions Call Prequel the ‘Rogue One’ of the Franchise and Praise Joseph Zada as Haymitch](https://variety.com/2026/film/news/hunger-games-sunrise-on-the-reaping-first-reactions-1236933573/)（Thu, 29 Oct 2026 00:20:57 +0000） · Variety
-- [‘Smile 3’ Sets David Bruckner to Direct While Franchise Creator Parker Finn Helms ‘Possession’ Remake (EXCLUSIVE)](https://variety.com/2026/film/news/smile-3-director-writer-1236838500/)（Thu, 29 Oct 2026 00:02:24 +0000） · Variety
-- [Vishal Bhardwaj, Shaunak Sen-Mentored Co-Production Fund Picks Ladakh-Set ‘Kakthet’ as Winner (EXCLUSIVE)](https://variety.com/2026/film/news/vishal-bhardwaj-shaunak-sen-mentored-fund-picks-kakthet-winner-1236933731/)（Wed, 28 Oct 2026 23:32:15 +0000） · Variety
-- [‘Stick’ Season 2 Release Schedule: When Do New Episodes Come Out?](https://deadline.com/2026/10/stick-season-2-release-schedule-new-episodes-streaming-1237207773/)（Thu, 29 Oct 2026 00:57:21 +0000） · Deadline
-- [Layoffs Hit Disney Experiences](https://deadline.com/2026/10/disney-layoffs-experiences-imagineering-1237207701/)（Thu, 29 Oct 2026 00:37:09 +0000） · Deadline
-- [‘Smile 3’ Taps ‘Hellraiser’ Director David Bruckner Amid Parker Finn’s Absence](https://deadline.com/2026/10/smile-3-taps-director-david-bruckner-1237207722/)（Thu, 29 Oct 2026 00:22:30 +0000） · Deadline
-- [Paris Jackson Wants No More “Smoke & Mirrors” Over MJ Money After Estate Trashes Her Latest Claims As “Nonsensical”](https://deadline.com/2026/10/michael-jackson-estate-lawsuit-paris-1237207483/)（Thu, 29 Oct 2026 00:03:52 +0000） · Deadline
-- [Everything We Know About Season 2 Of HBO’s ‘Harry Potter’ TV Series So Far](https://deadline.com/feature/harry-potter-tv-show-season-2-news-updates-hbo-1237104618/)（Wed, 28 Oct 2026 23:05:18 +0000） · Deadline
-- [David Bruckner Set to Direct ‘Smile 3’](https://www.hollywoodreporter.com/movies/movie-news/david-bruckner-direct-smile-3-parker-finn-produce-1236742326/)（Thu, 29 Oct 2026 00:53:54 +0000） · The Hollywood Reporter
-- [Where to Buy Engagement Rings Online, From Classic Cuts to Sustainable Picks](https://www.hollywoodreporter.com/lifestyle/shopping/where-to-buy-best-engagement-rings-online-shopping-1236204809/)（Thu, 29 Oct 2026 00:06:51 +0000） · The Hollywood Reporter
+- [‘Beef’ Actor Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Rack Up International Sales for Finecut](https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/)（Fri, 30 Oct 2026 01:06:54 +0000） · Variety
+- [Ian McKellen Pays Tribute to Close Friend Patrick Stewart: ‘He Wore His Heart on His Sleeve’](https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477/)（Fri, 30 Oct 2026 00:35:36 +0000） · Variety
+- [California Begins Discussion on Unlimited Film Incentives: ‘That Is a Heavy Lift’](https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661/)（Fri, 30 Oct 2026 00:16:35 +0000） · Variety
+- [Matthew Weiner Exits Peacock, 101 Studios Series ‘The Chairman’ Starring Eddie Murphy (EXCLUSIVE)](https://variety.com/2026/tv/news/matthew-weiner-peacock-101-studios-chairman-eddie-murphy-1236934392/)（Fri, 30 Oct 2026 00:15:00 +0000） · Variety
+- [Earl Barret, TV Writer and Co-Creator of ‘Too Close for Comfort,’ Dies at 94](https://variety.com/2026/tv/people-news/earl-barret-dead-too-close-for-comfort-1236934343/)（Thu, 29 Oct 2026 23:42:58 +0000） · Variety
+- [‘Ghosts’: Rebecca Wisocky Talks Hetty’s Good, Long Look In The Mirror In Two-Part Halloween Special](https://deadline.com/2026/10/ghosts-rebecca-wisocky-hetty-sister-margaret-halloween-cbs-1237208538/)（Fri, 30 Oct 2026 02:00:00 +0000） · Deadline
+- [Poorna Jagannathan Joins Hulu’s ‘Young Americans’ Pilot, Natalia Leite To Direct](https://deadline.com/2026/10/poorna-jagannathan-cast-hulu-young-americans-pilot-1237209103/)（Fri, 30 Oct 2026 01:43:16 +0000） · Deadline
+- [Ian McKellen Pays Tribute To Patrick Stewart: “He Wore His Heart On His Sleeve”](https://deadline.com/2026/10/ian-mckellen-pays-tribute-patrick-stewart-1237209210/)（Fri, 30 Oct 2026 01:36:13 +0000） · Deadline
+- [Matthew Weiner Exits Eddie Murphy Peacock Series ‘The Chairman’ As Showrunner](https://deadline.com/2026/10/matthew-weiner-leaving-eddie-murphy-the-chairman-peacock-1237209187/)（Fri, 30 Oct 2026 01:05:11 +0000） · Deadline
+- [Justin H. Min Starrer ‘Journey There’ & Hong Sangsoo’s ‘Nowhere To Lay My Eyes’ Sell To Multiple Territories](https://deadline.com/2026/10/justin-h-min-journey-there-hong-sangsoo-finecut-japan-1237208106/)（Fri, 30 Oct 2026 00:40:57 +0000） · Deadline
+- [Curry Barker Returns to His YouTube Horror Roots With ‘Mama Bear’ Amid ‘Obsession’ Success](https://www.hollywoodreporter.com/movies/movie-news/curry-barker-youtube-horror-roots-mama-bear-obsession-1236742675/)（Fri, 30 Oct 2026 01:01:13 +0000） · The Hollywood Reporter
+- [Ian McKellen Pays Tribute to Patrick Stewart: “A Man to Rely on, Admire and in My Case, Love”](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-ian-mckellen-tribute-1236743258/)（Fri, 30 Oct 2026 00:54:30 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)（Thu, 29 Oct 2026 10:11:12 +0000） · MIT Technology Review
 - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)（Wed, 28 Oct 2026 20:32:02 +0000） · MIT Technology Review
 - [Pairing industrial AI autonomy and human control](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)（Wed, 28 Oct 2026 12:00:00 +0000） · MIT Technology Review
 - [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)（Tue, 27 Oct 2026 11:19:18 +0000） · MIT Technology Review
 - [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)（Mon, 26 Oct 2026 17:45:43 +0000） · MIT Technology Review
-- [The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)（Mon, 26 Oct 2026 09:01:00 +0000） · MIT Technology Review
-- [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)（2026-10-28T19:05:39-04:00） · The Verge AI
-- [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key)（2026-10-28T17:34:04-04:00） · The Verge AI
-- [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)（2026-10-28T16:03:00-04:00） · The Verge AI
-- [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)（2026-10-28T14:36:26-04:00） · The Verge AI
-- [Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms](https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence)（2026-10-28T12:32:41-04:00） · The Verge AI
+- [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)（2026-10-29T14:45:31-04:00） · The Verge AI
+- [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)（2026-10-29T12:48:16-04:00） · The Verge AI
+- [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)（2026-10-29T12:02:16-04:00） · The Verge AI
+- [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview)（2026-10-29T09:47:56-04:00） · The Verge AI
+- [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)（2026-10-29T09:20:35-04:00） · The Verge AI
 
 ## 商业财经
-- [I earn £30,000. I'm angry there was no fuel duty cut in the Budget](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 00:00:25 GMT） · BBC Business
-- [Healey unveils £100 for energy bills and bank tax in first Budget](https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 18:45:09 GMT） · BBC Business
-- [What we now know about the UK economy in four charts](https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 20:08:45 GMT） · BBC Business
-- [What the Budget offers for under 25s - and what it leaves out](https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 20:02:38 GMT） · BBC Business
-- [Your pay, energy bills and savings: How the Budget affects you](https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss)（Wed, 28 Oct 2026 16:43:35 GMT） · BBC Business
-- [FedEx beats expectations, raises outlook in first report since calendar adjustment](https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html)（Wed, 28 Oct 2026 22:27:00 GMT） · CNBC Business
-- [Chipotle shares rise 7% after CEO says same-store sales growth will continue](https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html)（Wed, 28 Oct 2026 22:12:28 GMT） · CNBC Business
-- [Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year](https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html)（Wed, 28 Oct 2026 21:42:24 GMT） · CNBC Business
-- [America's largest budget airline reports 71% jump in airfare](https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html)（Wed, 28 Oct 2026 23:51:38 GMT） · CNBC Business
-- [Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction](https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html)（Wed, 28 Oct 2026 20:23:48 GMT） · CNBC Business
-- [Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households](https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households)（Wed, 28 Oct 2026 20:09:34 GMT） · The Guardian Business
-- [Budget 2026: key points at a glance](https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey)（Wed, 28 Oct 2026 12:40:45 GMT） · The Guardian Business
+- [Crypto worth billions frozen after suspected Binance hack](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss)（Fri, 30 Oct 2026 01:53:32 GMT） · BBC Business
+- [Google value plunges by $500bn as AI fears rattle Wall Street](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 22:17:52 GMT） · BBC Business
+- [Burnham 'ready to support' Poundland staff as retailer faces collapse](https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 19:11:10 GMT） · BBC Business
+- [US interest rates held steady and economy grows - what it means for you](https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 17:15:05 GMT） · BBC Business
+- ['Painful' years ahead, think tanks warn, as living standards set to fall](https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss)（Thu, 29 Oct 2026 13:19:24 GMT） · BBC Business
+- [Starbucks sales miss expectations, but its U.S. turnaround is gaining steam](https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html)（Thu, 29 Oct 2026 21:29:59 GMT） · CNBC Business
+- [Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise](https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html)（Thu, 29 Oct 2026 21:52:27 GMT） · CNBC Business
+- [Cruise companies aim to keep fuel costs down. Their strategies for doing so differ](https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html)（Thu, 29 Oct 2026 19:36:04 GMT） · CNBC Business
+- [Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion](https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html)（Thu, 29 Oct 2026 16:46:07 GMT） · CNBC Business
+- [Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength](https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html)（Thu, 29 Oct 2026 11:24:38 GMT） · CNBC Business
+- [Healey backs away from cutting welfare cost amid warnings of public finance shortfall](https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall)（Thu, 29 Oct 2026 20:02:16 GMT） · The Guardian Business
+- [Lloyds executive criticises Healey for linking bank tax rises to energy bill support](https://www.theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support)（Thu, 29 Oct 2026 10:31:55 GMT） · The Guardian Business
 
