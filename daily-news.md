@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年11月02日 09:59（北京时间）
+更新时间：2026年11月03日 11:47（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 01:18:27 GMT） · BBC World
-- [Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends](https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss)（Sun, 01 Nov 2026 21:55:01 GMT） · BBC World
-- [Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts](https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 01:45:42 GMT） · BBC World
-- [Israeli strikes in Gaza kill eight including child, hospitals say](https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss)（Sun, 01 Nov 2026 17:06:32 GMT） · BBC World
-- [France launches attempted murder investigation after petrol bomb thrown at police](https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 00:15:30 GMT） · BBC World
-- [Russia's giant new radar in Kaliningrad raises alarm in NATO](https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-world-4025-rdf)（2026-11-01T20:34:00Z） · DW World
-- [Ethnic Germans in Kazakhstan face legacy of the Soviet Union](https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-world-4025-rdf)（2026-11-01T13:00:00Z） · DW World
-- [Biological weapons: The weaponization of disease](https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-world-4025-rdf)（2026-11-01T12:25:00Z） · DW World
-- [Donald Trump loses allies after elections in Serbia and Brazil](https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-world-4025-rdf)（2026-11-01T08:11:00Z） · DW World
-- [FBI says North Korea behind $6 billion Binance crypto theft](https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf)（2026-11-01T07:33:00Z） · DW World
-- [Ukraine blames Russia after air alert app sends out false warnings](https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss)（Mon, 02 Nov 2026 01:40:50 +0000） · Al Jazeera
-- [Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city](https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss)（Mon, 02 Nov 2026 01:31:21 +0000） · Al Jazeera
+- [US strikes Iran ahead of midterm elections](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 03:39:08 GMT） · BBC World
+- [Supreme Court rejects Trump's request to stop California counting disputed votes](https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 03:32:36 GMT） · BBC World
+- [Russian bombing kills 26 people at Ukraine aid centre, Kyiv says](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 01:56:27 GMT） · BBC World
+- [Thousands of European troops to rehearse Ukraine deployment in event of peace](https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 00:07:05 GMT） · BBC World
+- [Plane may have broken apart ahead of deadly Florida jet crash, say investigators](https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 00:08:14 GMT） · BBC World
+- [Supreme Court rejects Trump bid to block 20,000 California ballots](https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf)（2026-11-02T23:18:00Z） · DW World
+- [US to drop South Africa, Rwanda from duty-free trade initiative](https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf)（2026-11-02T21:40:00Z） · DW World
+- [What might Trump have planned for Iran following the midterm election?](https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf)（2026-11-02T15:41:00Z） · DW World
+- [Germany's chancellor called for Korean unity. Does Seoul want that?](https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-world-4025-rdf)（2026-11-02T12:51:00Z） · DW World
+- [Global pedestrian Karl Bushby returns home to UK after 28-year trek](https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-world-4025-rdf)（2026-11-02T12:31:00Z） · DW World
+- [US urges Venezuela to follow phased plan for democratic transition](https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss)（Tue, 03 Nov 2026 02:27:51 +0000） · Al Jazeera
+- [Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz](https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss)（Tue, 03 Nov 2026 02:25:02 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Shahrbanoo Sadat and Jelena Maksimović Hit Back at Discrimination in Film Funding at Tokyo Festival Talk](https://variety.com/2026/film/festivals/shahrbanoo-sadat-hits-back-film-funding-discrimination-1236937057/)（Mon, 02 Nov 2026 01:35:45 +0000） · Variety
-- [Dave Bautista Reveals He’s Gained 20 Pounds of Muscle Ahead of Playing Kratos in ‘God of War’ Series](https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/)（Mon, 02 Nov 2026 01:05:45 +0000） · Variety
-- [Jakarta World Cinema Plans to Revive First Feature Competition With International Jury](https://variety.com/2026/film/festivals/jakarta-world-cinema-revive-first-feature-competition-1236937042/)（Mon, 02 Nov 2026 00:57:04 +0000） · Variety
-- [Dustin Hoffman Says Filming ‘The Graduate’ Was a ‘Terrible Experience’ and Director Mike Nichols Made Katharine Ross Slap Him 27 Times for a Scene He ‘Didn’t Even Use’](https://variety.com/2026/film/news/dustin-hoffman-the-graduate-mike-nichols-1236937024/)（Mon, 02 Nov 2026 00:34:30 +0000） · Variety
-- [Marty Erlichman, Longtime Manager for Barbra Streisand, Dies at 97](https://variety.com/2026/music/people-news/marty-erlichman-dead-barbra-streisand-manager-1236937009/)（Mon, 02 Nov 2026 00:06:37 +0000） · Variety
-- [Rian Johnson Commissions ‘Knives Out’ Cinematographer For Curated RAW Camera App: “The Same Image Processing We Use”](https://deadline.com/2026/11/rian-johnson-knives-out-cinematographer-curated-raw-camera-app-1237210958/)（Sun, 01 Nov 2026 22:50:29 +0000） · Deadline
-- [‘Criminal Minds: Evolution’s Paget Brewster, AJ Cook, Kirsten Vangsness & More React To Cancellation: “The Finest Group Of People”](https://deadline.com/2026/11/criminal-minds-evolution-stars-react-cancellation-1237210934/)（Sun, 01 Nov 2026 20:45:26 +0000） · Deadline
-- [‘The Only Living Pickpocket In New York’ Steals Into Top 10, ‘Everest’ Scales $1M — Specialty Box Office](https://deadline.com/2026/11/indie-film-box-office-only-living-pickpocket-in-new-york-everest-1237210862/)（Sun, 01 Nov 2026 20:30:00 +0000） · Deadline
-- [‘Dancing with the Stars’ Pro Ezra Sosa Says “My Dream” Is For Same-Sex Dance Partner: “I’m Working My Magic!”](https://deadline.com/2026/11/dancing-stars-pro-ezra-sosa-my-dream-same-sex-dance-partner-1237210922/)（Sun, 01 Nov 2026 20:04:14 +0000） · Deadline
-- [Rider Strong Stopped Rating Films On Letterboxd “For The Sake Of My Career”: “Not A Good Look”](https://deadline.com/2026/11/rider-strong-stopped-rating-films-letterboxd-1237210913/)（Sun, 01 Nov 2026 19:10:45 +0000） · Deadline
-- [Tokyo: ‘Diamond Diplomacy’ Doc Tracks the History of Baseball in Japan and Its Impact on U.S. Relations](https://www.hollywoodreporter.com/movies/movie-features/tokyo-diamond-diplomacy-doc-baseball-japan-shohei-ohtani-1236739515/)（Mon, 02 Nov 2026 01:30:00 +0000） · The Hollywood Reporter
-- [Book to Scream: How Universal Orlando’s Halloween Event Embraced Horror’s Literary Roots for 35 Years](https://www.hollywoodreporter.com/lifestyle/arts/halloween-horror-nights-35-orlando-hellraiser-house-booktok-1236743712/)（Mon, 02 Nov 2026 01:00:00 +0000） · The Hollywood Reporter
+- [‘Tetsuo’ Director Tsukamoto Shinya on Staying Independent and Why He Can’t Pull Away From War Films](https://variety.com/2026/film/festivals/tetsuo-director-tsukamoto-shinya-independent-war-films-1236938124/)（Tue, 03 Nov 2026 02:36:32 +0000） · Variety
+- [Elena Maganini, Film Editor on ‘Dexter,’ ‘Henry, Portrait of a Serial Killer,’ Dies at 70](https://variety.com/2026/film/news/elena-maganini-dead-dexter-1236938072/)（Tue, 03 Nov 2026 02:19:34 +0000） · Variety
+- [Cynthia Nixon Says She ‘Loved’ Miranda’s Attempts to Become ‘Woke’ on ‘And Just Like That’ Despite Fans Being ‘Horrified’](https://variety.com/2026/tv/news/cynthia-nixon-miranda-hobbes-and-just-like-that-1236938079/)（Tue, 03 Nov 2026 02:15:00 +0000） · Variety
+- [‘Okinawa Saudade’ Director Matsubayashi Yoju on a 10-Year Journey Tracing Brazilian Dancers’ Island Roots](https://variety.com/2026/film/festivals/okinawa-saudade-director-matsubayashi-yoju-brazilian-dancers-island-roots-1236938110/)（Tue, 03 Nov 2026 02:13:35 +0000） · Variety
+- [Trent Reznor and Atticus Ross to Score David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’](https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107/)（Tue, 03 Nov 2026 02:07:06 +0000） · Variety
+- [Disney To Undergo More Layoffs With Divisions Eyeing Up To 20% In Cost Savings](https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/)（Tue, 03 Nov 2026 03:29:18 +0000） · Deadline
+- [Mckenna Grace On Declining Nude Scenes: “I Respect Anybody Who Can, But It’s Terrifying To Me”](https://deadline.com/2026/11/mckenna-grace-declining-nude-scenes-1237211838/)（Tue, 03 Nov 2026 03:24:16 +0000） · Deadline
+- [‘Jimmy’ Review: KJ Apa Expertly Channels James Stewart In An Inspiring Movie That Tells The Story The Beloved Oscar Winning Star Kept To Himself](https://deadline.com/2026/11/jimmy-review-kj-apa-james-stewart-world-war-2-biopic-1237211897/)（Tue, 03 Nov 2026 03:03:19 +0000） · Deadline
+- [‘Dancing With The Stars’ Season 35 Recap: Team Dances Shake Up The Competition On Disney Night](https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-disney-night-1237211461/)（Tue, 03 Nov 2026 02:58:36 +0000） · Deadline
+- [‘The Remarried Princess’ Korean Romantic Drama To Release One Day Early On Disney+ & Hulu](https://deadline.com/2026/11/the-remarried-princess-korean-romantic-drama-early-release-1237211813/)（Tue, 03 Nov 2026 02:22:59 +0000） · Deadline
+- [A Royal Surprise: ‘The Remarried Empress’ Releases One Day Early on Disney+ and Hulu](https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-release-early-disney-hulu-1236746504/)（Tue, 03 Nov 2026 02:20:00 +0000） · The Hollywood Reporter
+- [Inde Navarrette, Michael B. Jordan and Yerin Ha Front David Yurman’s New York-Set Holiday Campaign](https://www.hollywoodreporter.com/lifestyle/shopping/david-yurman-holiday-2026-inde-navarrette-michael-b-jordan-1236746332/)（Tue, 03 Nov 2026 01:35:51 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)（Mon, 02 Nov 2026 17:00:00 +0000） · MIT Technology Review
+- [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)（Mon, 02 Nov 2026 13:10:32 +0000） · MIT Technology Review
+- [The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)（Mon, 02 Nov 2026 09:35:19 +0000） · MIT Technology Review
 - [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)（Thu, 29 Oct 2026 10:11:12 +0000） · MIT Technology Review
 - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)（Wed, 28 Oct 2026 20:32:02 +0000） · MIT Technology Review
-- [Pairing industrial AI autonomy and human control](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)（Wed, 28 Oct 2026 12:00:00 +0000） · MIT Technology Review
-- [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)（Tue, 27 Oct 2026 11:19:18 +0000） · MIT Technology Review
-- [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)（Mon, 26 Oct 2026 17:45:43 +0000） · MIT Technology Review
+- [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)（2026-11-02T17:57:16-05:00） · The Verge AI
+- [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)（2026-11-02T13:01:30-05:00） · The Verge AI
+- [The New York Times sues Brave web browser for AI scraping and bypassing paywalls](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times)（2026-11-02T18:20:01-05:00） · The Verge AI
 - [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)（2026-10-31T12:09:02-04:00） · The Verge AI
 - [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)（2026-10-30T18:32:53-04:00） · The Verge AI
-- [Sam Altman says it’s better for RAM to be in a data center than on your desk](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)（2026-10-30T16:48:43-04:00） · The Verge AI
-- [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)（2026-10-30T18:04:23-04:00） · The Verge AI
-- [Google’s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)（2026-10-30T14:21:38-04:00） · The Verge AI
 
 ## 商业财经
-- [Binance users withdraw $3.6bn after record crypto hack](https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 01:15:25 GMT） · BBC Business
-- [Don't get caught out by new Buy Now Pay Later rules](https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss)（Sun, 01 Nov 2026 23:34:49 GMT） · BBC Business
-- [Thousands of jobs at Virgin Media O2 to be cut](https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss)（Sun, 01 Nov 2026 16:57:14 GMT） · BBC Business
-- [No more washing up: How Airbnb's new house rules have divided hosts and guests](https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss)（Sun, 01 Nov 2026 00:17:05 GMT） · BBC Business
-- [US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss)（Fri, 30 Oct 2026 20:34:46 GMT） · BBC Business
-- [Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed](https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html)（Sat, 31 Oct 2026 12:00:01 GMT） · CNBC Business
+- [UK and EU agree draft deal to scrap Brexit red tape over food exports](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 02:11:13 GMT） · BBC Business
+- [Shop freezers in seven European countries hit by cyber-attack](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 17:38:11 GMT） · BBC Business
+- [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 01:23:03 GMT） · BBC Business
+- [Apple unsure when more foldable iPhones will be available after selling out](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 00:29:00 GMT） · BBC Business
+- [Ryanair says it may freeze workers' pay and raise airfares](https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 12:22:10 GMT） · BBC Business
+- [Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed](https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html)（Mon, 02 Nov 2026 14:09:13 GMT） · CNBC Business
 - [Cheaper cars are selling considerably faster than at the beginning of the year](https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html)（Fri, 30 Oct 2026 18:45:35 GMT） · CNBC Business
 - [Starbucks sales miss expectations, but its U.S. turnaround is gaining steam](https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html)（Fri, 30 Oct 2026 13:29:50 GMT） · CNBC Business
 - [Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise](https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html)（Thu, 29 Oct 2026 21:52:27 GMT） · CNBC Business
 - [Cruise companies aim to keep fuel costs down. Their strategies for doing so differ](https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html)（Thu, 29 Oct 2026 19:36:04 GMT） · CNBC Business
-- [Investors pull billions in funds from Binance after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions)（Sun, 01 Nov 2026 18:53:25 GMT） · The Guardian Business
-- [National Grid to site biggest substation in UK near planned Teesside datacentre](https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre)（Sun, 01 Nov 2026 18:37:42 GMT） · The Guardian Business
+- [Control of Britain’s 39m smart meters passes to non-profit startup](https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup)（Mon, 02 Nov 2026 18:13:35 GMT） · The Guardian Business
+- [John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt](https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt)（Tue, 03 Nov 2026 00:01:32 GMT） · The Guardian Business
 
