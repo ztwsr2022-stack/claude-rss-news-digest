@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年11月03日 11:47（北京时间）
+更新时间：2026年11月04日 10:50（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [US strikes Iran ahead of midterm elections](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 03:39:08 GMT） · BBC World
-- [Supreme Court rejects Trump's request to stop California counting disputed votes](https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 03:32:36 GMT） · BBC World
-- [Russian bombing kills 26 people at Ukraine aid centre, Kyiv says](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 01:56:27 GMT） · BBC World
-- [Thousands of European troops to rehearse Ukraine deployment in event of peace](https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 00:07:05 GMT） · BBC World
-- [Plane may have broken apart ahead of deadly Florida jet crash, say investigators](https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 00:08:14 GMT） · BBC World
-- [Supreme Court rejects Trump bid to block 20,000 California ballots](https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf)（2026-11-02T23:18:00Z） · DW World
-- [US to drop South Africa, Rwanda from duty-free trade initiative](https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf)（2026-11-02T21:40:00Z） · DW World
-- [What might Trump have planned for Iran following the midterm election?](https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf)（2026-11-02T15:41:00Z） · DW World
-- [Germany's chancellor called for Korean unity. Does Seoul want that?](https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-world-4025-rdf)（2026-11-02T12:51:00Z） · DW World
-- [Global pedestrian Karl Bushby returns home to UK after 28-year trek](https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-world-4025-rdf)（2026-11-02T12:31:00Z） · DW World
-- [US urges Venezuela to follow phased plan for democratic transition](https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss)（Tue, 03 Nov 2026 02:27:51 +0000） · Al Jazeera
-- [Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz](https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss)（Tue, 03 Nov 2026 02:25:02 +0000） · Al Jazeera
+- [Spanish transport minister resigns days after deadly train crash](https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 22:45:59 GMT） · BBC World
+- [Seven flights across Europe targeted by suspected bomb threats](https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 20:42:47 GMT） · BBC World
+- [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 16:19:29 GMT） · BBC World
+- [NTSB says crucial plane parts found three miles from Florida crash site](https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 21:53:38 GMT） · BBC World
+- [Libya's top religious authority rules against wearing Nike clothes](https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 14:56:46 GMT） · BBC World
+- [Why South Africa's local elections matter](https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-world-4025-rdf)（2026-11-03T15:06:00Z） · DW World
+- [China and India achieved diplomatic thaw. Now the border is flaring up](https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-world-4025-rdf)（2026-11-03T14:48:00Z） · DW World
+- [Cyprus: From ties with Russia to a strategic alignment with the US](https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-world-4025-rdf)（2026-11-03T14:28:00Z） · DW World
+- [What US midterm elections mean for Ukraine, Iran and elsewhere](https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf)（2026-11-03T14:26:00Z） · DW World
+- [Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'](https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-world-4025-rdf)（2026-11-03T14:18:00Z） · DW World
+- [Keisha Lance Bottoms makes US history as first Black woman elected governor](https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss)（Wed, 04 Nov 2026 02:25:51 +0000） · Al Jazeera
+- [Ballot shortages reported in Dearborn, Michigan](https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss)（Wed, 04 Nov 2026 02:09:42 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [‘Tetsuo’ Director Tsukamoto Shinya on Staying Independent and Why He Can’t Pull Away From War Films](https://variety.com/2026/film/festivals/tetsuo-director-tsukamoto-shinya-independent-war-films-1236938124/)（Tue, 03 Nov 2026 02:36:32 +0000） · Variety
-- [Elena Maganini, Film Editor on ‘Dexter,’ ‘Henry, Portrait of a Serial Killer,’ Dies at 70](https://variety.com/2026/film/news/elena-maganini-dead-dexter-1236938072/)（Tue, 03 Nov 2026 02:19:34 +0000） · Variety
-- [Cynthia Nixon Says She ‘Loved’ Miranda’s Attempts to Become ‘Woke’ on ‘And Just Like That’ Despite Fans Being ‘Horrified’](https://variety.com/2026/tv/news/cynthia-nixon-miranda-hobbes-and-just-like-that-1236938079/)（Tue, 03 Nov 2026 02:15:00 +0000） · Variety
-- [‘Okinawa Saudade’ Director Matsubayashi Yoju on a 10-Year Journey Tracing Brazilian Dancers’ Island Roots](https://variety.com/2026/film/festivals/okinawa-saudade-director-matsubayashi-yoju-brazilian-dancers-island-roots-1236938110/)（Tue, 03 Nov 2026 02:13:35 +0000） · Variety
-- [Trent Reznor and Atticus Ross to Score David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’](https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107/)（Tue, 03 Nov 2026 02:07:06 +0000） · Variety
-- [Disney To Undergo More Layoffs With Divisions Eyeing Up To 20% In Cost Savings](https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/)（Tue, 03 Nov 2026 03:29:18 +0000） · Deadline
-- [Mckenna Grace On Declining Nude Scenes: “I Respect Anybody Who Can, But It’s Terrifying To Me”](https://deadline.com/2026/11/mckenna-grace-declining-nude-scenes-1237211838/)（Tue, 03 Nov 2026 03:24:16 +0000） · Deadline
-- [‘Jimmy’ Review: KJ Apa Expertly Channels James Stewart In An Inspiring Movie That Tells The Story The Beloved Oscar Winning Star Kept To Himself](https://deadline.com/2026/11/jimmy-review-kj-apa-james-stewart-world-war-2-biopic-1237211897/)（Tue, 03 Nov 2026 03:03:19 +0000） · Deadline
-- [‘Dancing With The Stars’ Season 35 Recap: Team Dances Shake Up The Competition On Disney Night](https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-disney-night-1237211461/)（Tue, 03 Nov 2026 02:58:36 +0000） · Deadline
-- [‘The Remarried Princess’ Korean Romantic Drama To Release One Day Early On Disney+ & Hulu](https://deadline.com/2026/11/the-remarried-princess-korean-romantic-drama-early-release-1237211813/)（Tue, 03 Nov 2026 02:22:59 +0000） · Deadline
-- [A Royal Surprise: ‘The Remarried Empress’ Releases One Day Early on Disney+ and Hulu](https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-release-early-disney-hulu-1236746504/)（Tue, 03 Nov 2026 02:20:00 +0000） · The Hollywood Reporter
-- [Inde Navarrette, Michael B. Jordan and Yerin Ha Front David Yurman’s New York-Set Holiday Campaign](https://www.hollywoodreporter.com/lifestyle/shopping/david-yurman-holiday-2026-inde-navarrette-michael-b-jordan-1236746332/)（Tue, 03 Nov 2026 01:35:51 +0000） · The Hollywood Reporter
+- [Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE)](https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/)（Wed, 04 Nov 2026 01:32:43 +0000） · Variety
+- [Lucy Liu’s ‘The Pirate Queen’ Expands With Graphic Novel, New Game and International Tour as Creator Eloise Singer Joins BAFTA Breakthrough Cohort (EXCLUSIVE)](https://variety.com/2026/gaming/news/lucy-liu-pirate-queen-graphic-novel-game-tour-1236938962/)（Wed, 04 Nov 2026 01:09:16 +0000） · Variety
+- [Park Hoon-jung’s Assassin Noir ‘Tristes Tropiques’ Sells to North America, France, Spain](https://variety.com/2026/film/news/park-hoon-jung-assassin-noir-tristes-tropiques-sales-1236938950/)（Wed, 04 Nov 2026 01:00:00 +0000） · Variety
+- [BAFTA Unveils 2026 Breakthrough U.K. Cohort, Including ‘The Other Bennet Sister’ Star Ella Bruccoleri](https://variety.com/2026/film/news/bafta-breakthrough-2026-other-bennet-sister-ella-bruccoleri-1236938267/)（Wed, 04 Nov 2026 00:01:00 +0000） · Variety
+- [‘Dune 3’ Production Designer Patrice Vermette Created a 55-Ton Spaceship for Sci-Fi Epic: It’s a ‘Major Spectacle’](https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/)（Tue, 03 Nov 2026 23:48:36 +0000） · Variety
+- [Pierce Brosnan Endorses Callum Turner As Next James Bond As “He’s So Strong”; Josh O’Connor Reacts To Talk Around 007 Casting](https://deadline.com/2026/11/pierce-brosnan-callum-turner-james-bond-josh-oconnor-casting-1237212659/)（Wed, 04 Nov 2026 02:40:42 +0000） · Deadline
+- [Midterm Elections: Pundits Start To Talk Of A Blue Wave — Or Even A Tsunami; Keisha Lance Bottoms Makes History In Georgia](https://deadline.com/2026/11/election-2026-latest-1237212469/)（Wed, 04 Nov 2026 02:18:00 +0000） · Deadline
+- [Paramount+ Drama Slate: Series Moving To HBO, Sarah Aubrey & Francesca Orsi Sharing Oversight Among Options Explored Post-Merger – The Dish](https://deadline.com/2026/11/paramount-plus-drama-slate-sarah-aubrey-francesca-orsi-1237212518/)（Wed, 04 Nov 2026 01:12:50 +0000） · Deadline
+- [Park Hoon-jung’s ‘Tristes Tropiques’ Sells To Well Go USA For North America; Swift For France](https://deadline.com/2026/11/well-go-usa-park-hoon-jung-tristes-tropiques-finecut-swift-1237211994/)（Wed, 04 Nov 2026 01:00:15 +0000） · Deadline
+- [BAFTA Breakthrough: ‘Ish’ Filmmaker Imran Perretta & ‘The Other Bennet Sister’ Star Ella Bruccoleri Among 2026 Cohort](https://deadline.com/2026/11/bafta-breakthrough-imran-perretta-2026-1237212332/)（Wed, 04 Nov 2026 00:01:00 +0000） · Deadline
+- [‘The Incomer’ Attracted Domhnall Gleeson and Moby and Got Its Creator on the BAFTA Breakthrough List. Now, He’s Working on a Plan B Film.](https://www.hollywoodreporter.com/movies/movie-news/the-incomer-louis-paxton-bafta-breakthrough-new-film-moby-1236743443/)（Wed, 04 Nov 2026 01:30:00 +0000） · The Hollywood Reporter
+- [Pedro Pascal, Olivia Rodrigo, Dave Bautista, Jennifer Lawrence Among A-Listers Urging Fans to Vote: “Get Out There”](https://www.hollywoodreporter.com/news/politics-news/celebs-urge-fans-vote-2026-midterms-election-1236747229/)（Wed, 04 Nov 2026 01:15:38 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/)（Tue, 03 Nov 2026 10:43:41 +0000） · MIT Technology Review
+- [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)（Tue, 03 Nov 2026 04:18:47 +0000） · MIT Technology Review
 - [Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)（Mon, 02 Nov 2026 17:00:00 +0000） · MIT Technology Review
 - [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)（Mon, 02 Nov 2026 13:10:32 +0000） · MIT Technology Review
 - [The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)（Mon, 02 Nov 2026 09:35:19 +0000） · MIT Technology Review
-- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)（Thu, 29 Oct 2026 10:11:12 +0000） · MIT Technology Review
-- [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)（Wed, 28 Oct 2026 20:32:02 +0000） · MIT Technology Review
-- [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)（2026-11-02T17:57:16-05:00） · The Verge AI
-- [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)（2026-11-02T13:01:30-05:00） · The Verge AI
-- [The New York Times sues Brave web browser for AI scraping and bypassing paywalls](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times)（2026-11-02T18:20:01-05:00） · The Verge AI
-- [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)（2026-10-31T12:09:02-04:00） · The Verge AI
-- [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)（2026-10-30T18:32:53-04:00） · The Verge AI
+- [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures)（2026-11-03T19:42:54-05:00） · The Verge AI
+- [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)（2026-11-03T18:37:45-05:00） · The Verge AI
+- [Those Jeff Bezos hair transplant photos are very fake](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)（2026-11-03T16:09:00-05:00） · The Verge AI
+- [Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)（2026-11-03T15:19:55-05:00） · The Verge AI
+- [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)（2026-11-03T13:52:30-05:00） · The Verge AI
 
 ## 商业财经
-- [UK and EU agree draft deal to scrap Brexit red tape over food exports](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 02:11:13 GMT） · BBC Business
-- [Shop freezers in seven European countries hit by cyber-attack](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 17:38:11 GMT） · BBC Business
-- [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 01:23:03 GMT） · BBC Business
-- [Apple unsure when more foldable iPhones will be available after selling out](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 00:29:00 GMT） · BBC Business
-- [Ryanair says it may freeze workers' pay and raise airfares](https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss)（Mon, 02 Nov 2026 12:22:10 GMT） · BBC Business
-- [Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed](https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html)（Mon, 02 Nov 2026 14:09:13 GMT） · CNBC Business
-- [Cheaper cars are selling considerably faster than at the beginning of the year](https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html)（Fri, 30 Oct 2026 18:45:35 GMT） · CNBC Business
-- [Starbucks sales miss expectations, but its U.S. turnaround is gaining steam](https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html)（Fri, 30 Oct 2026 13:29:50 GMT） · CNBC Business
-- [Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise](https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html)（Thu, 29 Oct 2026 21:52:27 GMT） · CNBC Business
-- [Cruise companies aim to keep fuel costs down. Their strategies for doing so differ](https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html)（Thu, 29 Oct 2026 19:36:04 GMT） · CNBC Business
-- [Control of Britain’s 39m smart meters passes to non-profit startup](https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup)（Mon, 02 Nov 2026 18:13:35 GMT） · The Guardian Business
-- [John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt](https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt)（Tue, 03 Nov 2026 00:01:32 GMT） · The Guardian Business
+- [Poundland supplier 'will lose millions' if retailer collapses](https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss)（Wed, 04 Nov 2026 00:03:17 GMT） · BBC Business
+- [UK and EU agree draft deal to scrap Brexit red tape over food exports](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 20:53:03 GMT） · BBC Business
+- [No more rice grains in Kellogg's Rice Krispies due to changing weather](https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss)（Wed, 04 Nov 2026 01:36:06 GMT） · BBC Business
+- [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)（Tue, 03 Nov 2026 16:19:29 GMT） · BBC Business
+- [Canva announces major job cuts after 'our hardest year yet'](https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss)（Wed, 04 Nov 2026 00:09:35 GMT） · BBC Business
+- [JetBlue raises bag fees for third time in a year as fuel costs bite](https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html)（Tue, 03 Nov 2026 22:26:20 GMT） · CNBC Business
+- [Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%](https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html)（Tue, 03 Nov 2026 17:05:29 GMT） · CNBC Business
+- [Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO](https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html)（Tue, 03 Nov 2026 19:25:44 GMT） · CNBC Business
+- [Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell](https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html)（Tue, 03 Nov 2026 15:19:14 GMT） · CNBC Business
+- [Versant earnings beat expectations as digital platforms drive growth](https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html)（Tue, 03 Nov 2026 14:17:42 GMT） · CNBC Business
+- [Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’](https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency)（Tue, 03 Nov 2026 19:00:23 GMT） · The Guardian Business
+- [Protect Poundland from predatory capitalism, MPs tell government](https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail)（Tue, 03 Nov 2026 17:29:00 GMT） · The Guardian Business
 
