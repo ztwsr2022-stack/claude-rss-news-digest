@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年11月06日 11:00（北京时间）
+更新时间：2026年11月07日 10:29（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Global tech stocks plunge as US midterms add to AI slowdown fears](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 02:57:24 GMT） · BBC World
-- [Trump signs order preventing future presidents from changing Oval Office](https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 01:20:01 GMT） · BBC World
-- [White House denies Hegseth and Rubio to leave jobs after Republican election losses](https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 02:08:57 GMT） · BBC World
-- [Pope begins lengthy trip to Latin America weeks after lung cancer surgery](https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 00:02:57 GMT） · BBC World
-- [Hoax bomb threats target European airlines and airports for second time in a week](https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss)（Thu, 05 Nov 2026 17:39:48 GMT） · BBC World
-- [Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict](https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf)（2026-11-05T19:12:00Z） · DW World
-- [Arrests and investigations as Serbia begins post-election clean-up](https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-world-4025-rdf)（2026-11-05T17:00:00Z） · DW World
-- [Iran signals satisfaction, skepticism after US midterm vote](https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf)（2026-11-05T15:04:00Z） · DW World
-- [What does Trump's midterm elections loss mean for strained US-India ties?](https://www.dw.com/en/what-does-trump-s-midterm-elections-loss-mean-for-strained-us-india-ties/a-79865777?maca=en-rss-en-world-4025-rdf)（2026-11-05T13:34:00Z） · DW World
-- [North Korea tells EU to 'mind its own business' on human rights](https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-world-4025-rdf)（2026-11-05T11:14:00Z） · DW World
-- [Gaza turns discarded cooking pots into seawalls](https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss)（Fri, 06 Nov 2026 02:03:47 +0000） · Al Jazeera
-- [California governor commutes sentences of more than 500 people on death row](https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss)（Fri, 06 Nov 2026 01:39:35 +0000） · Al Jazeera
+- [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 21:06:25 GMT） · BBC World
+- [Four midterms takeaways for 2028 White House race](https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 16:12:22 GMT） · BBC World
+- [Two dead after bus crashes in France, officials say](https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 15:33:52 GMT） · BBC World
+- [New wave of bomb threats hit European airlines](https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 15:25:35 GMT） · BBC World
+- [Kenyan doomsday cult leader given life sentence for murdering 191 people](https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 14:46:03 GMT） · BBC World
+- [Ueno Bank scandal plunges Paraguay into political crisis](https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-world-4025-rdf)（2026-11-06T20:23:00Z） · DW World
+- [Critics say Democrats should look into Trump's Middle East deals in future corruption investigations](https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-world-4025-rdf)（2026-11-06T19:16:00Z） · DW World
+- [Protests and reforms: France's rising debt costs threaten stability](https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf)（2026-11-06T14:37:00Z） · DW World
+- [Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom](https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf)（2026-11-06T14:00:00Z） · DW World
+- [Zambia's civil service overhaul raises questions](https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-world-4025-rdf)（2026-11-06T13:28:00Z） · DW World
+- [CDC reports more than 5,000 measles cases, highest number in 35 years](https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss)（Sat, 07 Nov 2026 01:55:03 +0000） · Al Jazeera
+- [EU prosecutor office investigates fatal train crash in Spain](https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss)（Sat, 07 Nov 2026 01:33:39 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [Jalen Brunson Makes ‘Law & Order: SVU’ Acting Debut as a Promoted Cop: ‘I Focused on My Goals… Things Worked Out’](https://variety.com/2026/tv/news/jalen-brunson-cop-law-and-order-svu-1236939700/)（Fri, 06 Nov 2026 03:00:00 +0000） · Variety
-- [Priyanka Chopra Jonas, Russell Crowe Sci-Fi Thriller ‘Bluefly’ Adds ‘Beast’ Star Daniel MacPherson (EXCLUSIVE)](https://variety.com/2026/film/news/priyanka-chopra-jonas-russell-crowe-thriller-bluefly-daniel-macpherson-1236940995/)（Fri, 06 Nov 2026 02:49:47 +0000） · Variety
-- [Helene Hahn Loyd, Executive With Disney and DreamWorks, Dies at 78](https://variety.com/2026/film/news/helene-hahn-loyd-dead-disney-dreamworks-1236940974/)（Fri, 06 Nov 2026 02:31:47 +0000） · Variety
-- [Salon.com Shuts Down Cultural and Political Site After 31 Years](https://variety.com/2026/digital/news/salon-com-shuts-down-site-31-years-1236940936/)（Fri, 06 Nov 2026 01:25:33 +0000） · Variety
-- [Foot Fetish Encounter Leaves a Body in the Freezer in Singapore Dark Comedy Taiwan Creative Content Fest Project ‘Build to Order’](https://variety.com/2026/film/markets-festivals/foot-fetish-dark-comedy-build-to-order-taiwan-creative-content-fest-1236940233/)（Fri, 06 Nov 2026 01:00:00 +0000） · Variety
-- [‘Godzilla Minus Zero’ Chomping $6M In Previews, Higher Than ‘Predator: Badlands’; ‘Cat In The Hat’ $1M – Box Office Update](https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/)（Fri, 06 Nov 2026 02:41:39 +0000） · Deadline
-- [Disney TV Reorg Chatter Heats Up As Next Wave Of Layoffs Draws Near – The Dish](https://deadline.com/2026/11/disney-tv-restructuring-speculation-layoffs-debra-oconnell-1237214926/)（Fri, 06 Nov 2026 02:30:00 +0000） · Deadline
-- [Katseye Postpones Chicago & Minneapolis Concerts As Megan Skiendiel Recovers From Concussion](https://deadline.com/2026/11/katseye-postpones-chicago-minneapolis-concerts-1237215175/)（Fri, 06 Nov 2026 02:02:29 +0000） · Deadline
-- [New York Times In Advanced Talks To Buy Letterboxd For Reported $330 Million](https://deadline.com/2026/11/new-york-times-company-exclusive-talks-letterboxd-1237215118/)（Fri, 06 Nov 2026 01:50:06 +0000） · Deadline
-- [Helene Hahn Lloyd Dies: Former Disney EVP & DreamWorks Founding Exec Was 78](https://deadline.com/2026/11/helene-hahn-lloyd-dies-disney-dreamworks-exec-1237215141/)（Fri, 06 Nov 2026 01:25:44 +0000） · Deadline
-- [Helene Hahn Loyd, Former Disney and DreamWorks SKG Exec, Dies at 78](https://www.hollywoodreporter.com/movies/movie-news/helene-hahn-loyd-dead-disney-paramount-dreamworks-exec-1236749107/)（Fri, 06 Nov 2026 02:37:29 +0000） · The Hollywood Reporter
-- [Streaming More, Spending Less: T-Mobile’s 5G Home Internet Deal Starts at $30 a Month](https://www.hollywoodreporter.com/lifestyle/shopping/t-mobile-home-internet-streaming-deal-2026-holiday-savings-1236748459/)（Fri, 06 Nov 2026 01:40:49 +0000） · The Hollywood Reporter
+- [‘Silenced Nights’ and ‘You Are the Film’ to Bookend Jogja-Netpac Asian Film Festival](https://variety.com/2026/film/festivals/silenced-nights-you-are-the-film-jogja-netpac-asian-film-festival-1236941869/)（Sat, 07 Nov 2026 02:22:55 +0000） · Variety
+- [‘The Remarried Empress’ Becomes Most-Viewed Local Original Premiere Ever on Disney+ and Hulu](https://variety.com/2026/tv/news/remarried-empress-disney-hulu-biggest-local-premiere-ever-1236941857/)（Sat, 07 Nov 2026 01:36:55 +0000） · Variety
+- [CJ Group’s Miky Lee Hailed as ‘Godmother of K-Culture’ as She Receives Asian Hall of Fame Lifetime Achievement Medal](https://variety.com/2026/film/news/miky-lee-godmother-k-culture-asian-hall-fame-1236941850/)（Sat, 07 Nov 2026 01:28:53 +0000） · Variety
+- [Swiss Labor Exploitation Drama ‘Enjoy Your Stay’ Lands in Indonesia, Directors Hope It Speaks for Migrant Workers](https://variety.com/2026/film/festivals/swiss-labor-drama-enjoy-your-stay-indonesia-1236941824/)（Sat, 07 Nov 2026 00:23:00 +0000） · Variety
+- [Cannes, Annecy-Winning ‘Iron Boy’ Producer Eddy Cinema Backs Memory-Erasure Animation ‘Wilderness of the Greenriver’ at Taiwan Creative Content Fest](https://variety.com/2026/film/markets-festivals/iron-boy-producer-memory-animation-taiwan-creative-content-fest-1236941811/)（Fri, 06 Nov 2026 23:59:38 +0000） · Variety
+- [‘The Remarried Empress’ Sets Disney+ Record As Most Viewed Local Original Launch Ever](https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/)（Sat, 07 Nov 2026 02:19:10 +0000） · Deadline
+- [‘Ellen DeGeneres Show’ EP Matthew Wright’s Cause Of Death Revealed](https://deadline.com/2026/11/ellen-degeneres-show-ep-matthew-wright-cause-death-1237216153/)（Sat, 07 Nov 2026 01:51:32 +0000） · Deadline
+- [Trump Reveals Plans For Post-Midterm Firings In ‘60 Minutes’ Interview, Hours Before Announcing That Susie Wiles Was Out](https://deadline.com/2026/11/trump-60-minutes-midterms-1237216042/)（Sat, 07 Nov 2026 00:35:58 +0000） · Deadline
+- [Adam Driver Shuts Down ‘Girls’ Return But Wishes Lena Dunham & Co-Stars “Best Of Luck”](https://deadline.com/2026/11/adam-driver-shuts-down-girls-return-1237216089/)（Sat, 07 Nov 2026 00:00:21 +0000） · Deadline
+- [Knicks Rep Thanks Taylor Swift For “Many Years” Of Fan Support After Tyler Kolek Comments](https://deadline.com/2026/11/knicks-thanks-taylor-swift-many-years-fan-support-1237216026/)（Fri, 06 Nov 2026 22:34:45 +0000） · Deadline
+- [James Bond Surprise: Robert Pattinson Screen Tested to Play 007](https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-tested-to-play-james-bond-1236749903/)（Sat, 07 Nov 2026 02:09:01 +0000） · The Hollywood Reporter
+- [‘Ellen DeGeneres Show’ Producer Matthew Wright’s Cause of Death Revealed](https://www.hollywoodreporter.com/tv/tv-news/ellen-degeneres-show-producer-matthew-wright-cause-of-death-1236749895/)（Sat, 07 Nov 2026 02:04:19 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)（Fri, 06 Nov 2026 10:00:00 +0000） · MIT Technology Review
 - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)（Wed, 04 Nov 2026 18:50:55 +0000） · MIT Technology Review
 - [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/)（Wed, 04 Nov 2026 13:00:00 +0000） · MIT Technology Review
 - [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/)（Tue, 03 Nov 2026 10:43:41 +0000） · MIT Technology Review
 - [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)（Tue, 03 Nov 2026 04:18:47 +0000） · MIT Technology Review
-- [Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)（Mon, 02 Nov 2026 17:00:00 +0000） · MIT Technology Review
-- [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)（2026-11-05T19:37:56-05:00） · The Verge AI
-- [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)（2026-11-05T19:06:12-05:00） · The Verge AI
-- [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)（2026-11-05T17:26:50-05:00） · The Verge AI
-- [Muse has a voice mode now](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar)（2026-11-05T17:45:04-05:00） · The Verge AI
-- [Claude AI can plug directly into your bank account](https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance)（2026-11-05T12:49:25-05:00） · The Verge AI
+- [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)（2026-11-06T18:46:18-05:00） · The Verge AI
+- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)（2026-11-06T18:00:44-05:00） · The Verge AI
+- [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)（2026-11-06T15:03:32-05:00） · The Verge AI
+- [Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)（2026-11-06T15:00:43-05:00） · The Verge AI
+- [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity)（2026-11-06T16:51:59-05:00） · The Verge AI
 
 ## 商业财经
-- [Global tech stocks plunge as US midterms add to AI slowdown fears](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 02:57:24 GMT） · BBC Business
-- [Firms told to publish salaries in job adverts ahead of new law](https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss)（Thu, 05 Nov 2026 22:32:02 GMT） · BBC Business
-- ['I was asked if I was a crier': Your worst job interviews revealed](https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 00:02:52 GMT） · BBC Business
-- [Interest rates hiked to 4% in first increase in over three years](https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss)（Thu, 05 Nov 2026 17:09:55 GMT） · BBC Business
-- [Faisal Islam: How high will interest rates go?](https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss)（Thu, 05 Nov 2026 13:17:10 GMT） · BBC Business
+- [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 21:06:25 GMT） · BBC Business
+- [Why the US midterms sparked an AI stock selloff](https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 18:32:16 GMT） · BBC Business
+- [How does it affect me if share prices fall?](https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 09:21:50 GMT） · BBC Business
+- [Why smoky bacon crisps threaten to reignite rows over EU rules](https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 17:19:38 GMT） · BBC Business
+- [Elon Musk appears to signal the end of the road for Cybertruck](https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss)（Fri, 06 Nov 2026 21:49:50 GMT） · BBC Business
+- [Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens](https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html)（Fri, 06 Nov 2026 13:19:53 GMT） · CNBC Business
+- [Small retailers brace for 'huge hit' this holiday season as shipping costs spike](https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html)（Fri, 06 Nov 2026 12:00:01 GMT） · CNBC Business
+- [Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says](https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html)（Fri, 06 Nov 2026 15:06:11 GMT） · CNBC Business
+- [Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction](https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html)（Fri, 06 Nov 2026 12:43:28 GMT） · CNBC Business
 - [Marc Lore's Wonder confidentially files for IPO](https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html)（Thu, 05 Nov 2026 16:27:10 GMT） · CNBC Business
-- [Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian](https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html)（Thu, 05 Nov 2026 15:08:05 GMT） · CNBC Business
-- [Expedia CEO says AI agents aren't changing booking habits — yet](https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html)（Thu, 05 Nov 2026 17:03:35 GMT） · CNBC Business
-- [Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds](https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html)（Thu, 05 Nov 2026 11:00:01 GMT） · CNBC Business
-- [E.l.f. Beauty posts 51% sales increase, raises full-year guidance](https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html)（Wed, 04 Nov 2026 21:47:22 GMT） · CNBC Business
-- [Bank of England raises interest rates to 4%, the first increase for more than three years](https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years)（Thu, 05 Nov 2026 18:00:28 GMT） · The Guardian Business
-- [Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears](https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears)（Thu, 05 Nov 2026 18:17:36 GMT） · The Guardian Business
+- [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)（Fri, 06 Nov 2026 21:23:54 GMT） · The Guardian Business
+- [UK dairy farmers face further pressure as milk processor cuts prices](https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices)（Fri, 06 Nov 2026 16:27:32 GMT） · The Guardian Business
 
