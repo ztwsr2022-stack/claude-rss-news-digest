@@ -1,60 +1,60 @@
 # 今日世界新闻
 
-更新时间：2026年11月20日 11:48（北京时间）
+更新时间：2026年11月21日 11:40（北京时间）
 
 > 免费版：每天自动收集公开新闻源，只显示标题、来源、时间和原文链接，不使用付费 AI 服务。
 
 ## 世界时政
-- [Anthropic becomes one of world's most valuable public companies in stock market debut](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)（Thu, 19 Nov 2026 23:33:51 GMT） · BBC World
-- ['I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC](https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 00:13:21 GMT） · BBC World
-- [Myanmar committed genocide against Rohingya minority, top UN court rules](https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss)（Thu, 19 Nov 2026 20:07:02 GMT） · BBC World
-- [Europe ready for talks with Russia on ending war in Ukraine, leaders say](https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 00:50:24 GMT） · BBC World
-- [Trump, Putin and Xi release 'peace declaration' after historic meeting](https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss)（Thu, 19 Nov 2026 17:38:22 GMT） · BBC World
-- ['Humanitarian mission' for Kostiantynivka: Is it a trap?](https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf)（2026-11-19T20:53:00Z） · DW World
-- [Iraq's risky standoff: The state vs. Iran-allied militias](https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf)（2026-11-19T18:59:00Z） · DW World
-- [Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?](https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-%E2%80%95-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf)（2026-11-19T17:52:00Z） · DW World
-- [EU Commission confirms it was targeted in cyberattack using AI tools](https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-rdf)（2026-11-19T14:58:00Z） · DW World
-- [Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow](https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-rdf)（2026-11-19T13:56:00Z） · DW World
-- [Thousands protest Colombia’s tax plans amid row over US military role](https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss)（Fri, 20 Nov 2026 03:26:23 +0000） · Al Jazeera
-- [Lula visits ailing Chief Raoni as Brazil recognises Indigenous land](https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss)（Fri, 20 Nov 2026 03:24:49 +0000） · Al Jazeera
+- [Tech stock sell-off drags markets down as Anthropic shares slide](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 22:42:47 GMT） · BBC World
+- [UK to explore even closer ties with EU after agreeing deal, says Burnham](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 17:49:48 GMT） · BBC World
+- [Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)（Sat, 21 Nov 2026 02:09:46 GMT） · BBC World
+- [French police officers sentenced for beating of music producer Michel Zecler](https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 22:37:09 GMT） · BBC World
+- [In a year of AI solving maths problems, Anthropic may have just solved the biggest](https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 23:08:57 GMT） · BBC World
+- [Brazil ex-president Jair Bolsonaro taken to hospital over abdominal pain](https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-rdf)（2026-11-21T03:16:00Z） · DW World
+- [Russian ornithologist jailed over small donations to Navalny's foundation](https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-world-4025-rdf)（2026-11-20T20:45:00Z） · DW World
+- [Repression against Iranian lawyers increases](https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-world-4025-rdf)（2026-11-20T20:36:00Z） · DW World
+- [Is Pakistan backing anti-Taliban groups in Afghanistan?](https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-world-4025-rdf)（2026-11-20T15:02:00Z） · DW World
+- [EU and UK strike 'landmark deal' to strengthen ties after Brexit](https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf)（2026-11-20T14:30:00Z） · DW World
+- [Three French police officers sentenced over racist assault on Black man](https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss)（Sat, 21 Nov 2026 03:01:24 +0000） · Al Jazeera
+- [Gen Z protests sweep Europe over wars, rising costs and climate](https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss)（Sat, 21 Nov 2026 02:49:16 +0000） · Al Jazeera
 
 ## 影视娱乐
-- [‘Hanuman Ansh,’ ‘Pyre’ and Shah Rukh Khan Classics Lead International Film Festival of India’s Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership](https://variety.com/2026/film/festivals/hanuman-ansh-pyre-iffi-inflatable-cinema-lineup-goa-1236952961/)（Fri, 20 Nov 2026 03:30:00 +0000） · Variety
-- [‘War’ Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: ‘Gwyneth Paltrow Ran So That the Rest of Us Could Walk’](https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845/)（Fri, 20 Nov 2026 03:00:00 +0000） · Variety
-- [Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year](https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/)（Fri, 20 Nov 2026 01:04:34 +0000） · Variety
-- [How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’](https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/)（Fri, 20 Nov 2026 01:00:00 +0000） · Variety
-- [Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear](https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/)（Fri, 20 Nov 2026 00:30:46 +0000） · Variety
-- [Jennifer Love Hewitt “Had Not Seen” Ryan Phillippe Since ‘IKWYDLS’ When Reuniting For ‘9-1-1’ Crossover: “He Hadn’t Changed At All”](https://deadline.com/2026/11/jennifer-love-hewitt-ryan-phillippe-ikwydls-reunion-9-1-1-1237229879/)（Fri, 20 Nov 2026 03:47:28 +0000） · Deadline
-- [‘Much Ado About Nothing’ Broadway Review: Tom Hiddleston, Hayley Atwell & Jamie Lloyd Throw An Irresistible Party Of Shakespeare’s Great Comedy](https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924/)（Fri, 20 Nov 2026 03:00:00 +0000） · Deadline
-- [‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”](https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853/)（Fri, 20 Nov 2026 02:41:16 +0000） · Deadline
-- [Jorrybell Agoto Dies: ‘Filipiñana’ Breakout Actress Was 32](https://deadline.com/2026/11/jorrybell-agoto-dead-filipinana-star-1237229689/)（Fri, 20 Nov 2026 01:37:12 +0000） · Deadline
-- [Patrick Stewart Cause Of Death Revealed](https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/)（Fri, 20 Nov 2026 01:16:13 +0000） · Deadline
-- [Netflix Renews Japanese Crime Hit ‘Tokyo Swindlers’ for Season 2](https://www.hollywoodreporter.com/tv/tv-news/netflix-japanese-tokyo-swindlers-season-2-1236759815/)（Fri, 20 Nov 2026 03:05:00 +0000） · The Hollywood Reporter
-- [Billy Evans Will Secure His Cut of ‘You Can See Everything’ Profits After All — and Give It to Charity (Exclusive)](https://www.hollywoodreporter.com/movies/movie-news/billy-evans-profits-you-can-see-everything-ycse-charity-1236759761/)（Fri, 20 Nov 2026 01:52:13 +0000） · The Hollywood Reporter
+- [Bill Maher Mocks ‘Grand Theft Auto 6’-Playing Young Men With Awful ICE Joke](https://variety.com/2026/tv/news/bill-maher-grand-theft-auto-6-young-men-ice-real-time-hbo-1236954795/)（Sat, 21 Nov 2026 03:21:11 +0000） · Variety
+- [‘Godavari’ Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project ‘Mongoose’](https://variety.com/2026/film/markets-festivals/godavari-director-nikhil-mahajan-carjacking-neo-noir-mongoose-1236954786/)（Sat, 21 Nov 2026 02:32:10 +0000） · Variety
+- [Melania Trump Calls for ‘Peace’ When Asked About Children in Gaza and Israel at Amazon Series Premiere](https://variety.com/2026/tv/news/melania-trump-series-gaza-israel-children-peace-amazon-1236954718/)（Sat, 21 Nov 2026 00:30:25 +0000） · Variety
+- [E.J. Carroll, ‘Law & Order,’ ‘GTA 5’ and ‘Blue Bloods’ Actor, Dies at 66](https://variety.com/2026/tv/news/e-j-carroll-dead-the-deuce-1236954725/)（Sat, 21 Nov 2026 00:17:59 +0000） · Variety
+- [How to Get Started on Making a Difference as Tax Rules for Charitable Giving Change](https://variety.com/2026/biz/news/rick-baker-alabama-tax-charity-sean-weissbart-strictly-1236954674/)（Fri, 20 Nov 2026 23:33:15 +0000） · Variety
+- [Everything To Know About ‘Presumed Innocent’ Season 2 As Apple Series Goes Anthology](https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/)（Sat, 21 Nov 2026 03:03:06 +0000） · Deadline
+- [‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film](https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/)（Sat, 21 Nov 2026 02:55:51 +0000） · Deadline
+- [Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison](https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/)（Sat, 21 Nov 2026 01:50:00 +0000） · Deadline
+- [‘Yellowjackets’ Stars Melanie Lynskey & Christina Ricci On Misty’s Plot “To Save Themselves” From Shauna: “She’ll Be The Downfall Of Everybody”](https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/)（Sat, 21 Nov 2026 01:47:22 +0000） · Deadline
+- [‘Lanterns’ Star Aaron Pierre On DCU Future After Safran & Gunn’s DC Studios Exit: “I’m Very At Peace”](https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759/)（Fri, 20 Nov 2026 23:50:33 +0000） · Deadline
+- [Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare](https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332/)（Sat, 21 Nov 2026 01:50:09 +0000） · The Hollywood Reporter
+- [Bassam Tariq Says Marvel’s Scrapped ‘Blade’ Reboot Taught Him “Life’s Too Short to Make Sh** Films”](https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/)（Sat, 21 Nov 2026 00:28:41 +0000） · The Hollywood Reporter
 
 ## 人工智能
+- [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)（Fri, 20 Nov 2026 18:15:15 +0000） · MIT Technology Review
 - [The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)（Wed, 18 Nov 2026 14:42:44 +0000） · MIT Technology Review
 - [This smell startup says its AI nose is as good as a human’s](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/)（Wed, 18 Nov 2026 10:20:30 +0000） · MIT Technology Review
 - [Research Reports](https://www.technologyreview.com/2026/11/17/1148203/research-reports/)（Tue, 17 Nov 2026 14:39:46 +0000） · MIT Technology Review
 - [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)（Mon, 16 Nov 2026 18:38:47 +0000） · MIT Technology Review
-- [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)（Mon, 16 Nov 2026 16:04:28 +0000） · MIT Technology Review
-- [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)（2026-11-19T18:13:01-05:00） · The Verge AI
-- [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)（2026-11-19T16:59:35-05:00） · The Verge AI
-- [Meta’s Muse Charm might cost $300](https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price)（2026-11-19T15:29:21-05:00） · The Verge AI
-- [Google is putting AI chats right on the homepage](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats)（2026-11-19T15:14:34-05:00） · The Verge AI
-- [Gemini on Mac can now use your computer](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)（2026-11-19T14:07:41-05:00） · The Verge AI
+- [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)（2026-11-20T13:50:19-05:00） · The Verge AI
+- [Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem)（2026-11-20T11:57:47-05:00） · The Verge AI
+- [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast)（2026-11-20T09:06:59-05:00） · The Verge AI
+- [Signal is blocking Gemini and Siri AI from reading your screen](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app)（2026-11-20T09:36:42-05:00） · The Verge AI
+- [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)（2026-11-20T10:13:37-05:00） · The Verge AI
 
 ## 商业财经
-- [Anthropic becomes one of world's most valuable public companies in stock market debut](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)（Thu, 19 Nov 2026 23:33:51 GMT） · BBC Business
-- [GTA 6 breaks records as sales top $2bn - industry estimate](https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 02:54:40 GMT） · BBC Business
-- [California targets Nvidia in China AI chip probe](https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss)（Thu, 19 Nov 2026 23:04:30 GMT） · BBC Business
-- [Tens of thousands of UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 00:02:07 GMT） · BBC Business
-- [Airbnb's divisive new house rules come into force](https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 00:12:28 GMT） · BBC Business
-- [Gap names new Athleta CEO, lowers full-year guidance](https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html)（Thu, 19 Nov 2026 23:54:20 GMT） · CNBC Business
+- [Tech stock sell-off drags markets down as Anthropic shares slide](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 22:42:47 GMT） · BBC Business
+- [UK to explore even closer ties with EU after agreeing deal, says Burnham](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 17:49:48 GMT） · BBC Business
+- [Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow](https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 16:41:52 GMT） · BBC Business
+- [Trump threatens ban on US firms building AI data centres overseas](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 20:54:12 GMT） · BBC Business
+- [GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history](https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss)（Fri, 20 Nov 2026 22:53:24 GMT） · BBC Business
+- [Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'](https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html)（Fri, 20 Nov 2026 15:50:27 GMT） · CNBC Business
+- [Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes](https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html)（Fri, 20 Nov 2026 12:00:02 GMT） · CNBC Business
+- [A24 is having a great year at the box office. That could give HBO Max a streaming edge](https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html)（Fri, 20 Nov 2026 12:00:02 GMT） · CNBC Business
+- [Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress](https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html)（Fri, 20 Nov 2026 21:04:48 GMT） · CNBC Business
 - [Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs](https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html)（Thu, 19 Nov 2026 19:58:30 GMT） · CNBC Business
-- [Investigators make progress in hunt for cause of FAA ground stop](https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html)（Wed, 18 Nov 2026 18:13:25 GMT） · CNBC Business
-- [Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions](https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html)（Wed, 18 Nov 2026 17:02:53 GMT） · CNBC Business
-- [Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy](https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html)（Wed, 18 Nov 2026 14:02:52 GMT） · CNBC Business
-- [Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened](https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates)（Thu, 19 Nov 2026 22:13:52 GMT） · The Guardian Business
-- [‘Pot luck service’: Royal Mail on course to miss delivery targets for fourth year in a row](https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row)（Thu, 19 Nov 2026 15:42:33 GMT） · The Guardian Business
+- [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)（Fri, 20 Nov 2026 21:38:17 GMT） · The Guardian Business
+- [JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks](https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge)（Fri, 20 Nov 2026 19:38:59 GMT） · The Guardian Business
 
